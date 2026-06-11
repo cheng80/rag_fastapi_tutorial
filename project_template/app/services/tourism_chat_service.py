@@ -439,6 +439,7 @@ class TourismChatService:
         live_api_called = False
         live_top_up_requested = self._requests_live_top_up(message)
         diagnostic_candidates: list[TourismPlaceCard] = []
+        candidates: list[TourismPlaceCard] = []
         live_update_pending = False
         live_update_id: str | None = None
 
@@ -542,6 +543,20 @@ class TourismChatService:
                 has_more_cards = more_has_more_cards
             elif not self._requests_more_cards(message) and len(more_cards) > len(cards):
                 has_more_cards = True
+
+        if cards and self._should_supplement_soft_preference_cards(cards, query):
+            preference_candidates = self._deduplicate([*candidates, *self._cards_from_markdown_samples()])
+            preference_cards, preference_expanded, preference_has_more_cards = self._select_stage_cards(
+                preference_candidates,
+                effective_message,
+                query,
+            )
+            if self._soft_preference_score(preference_cards, query) > self._soft_preference_score(cards, query):
+                cards = preference_cards
+                expanded = expanded or preference_expanded
+                has_more_cards = preference_has_more_cards
+                if lookup_mode == "live":
+                    lookup_mode = "hybrid"
 
         sources = self._build_sources(source_contexts, cards)
         warnings = self._build_warnings(query, degraded)
@@ -1233,6 +1248,24 @@ class TourismChatService:
         if len(conditions) >= 3:
             return True
         return any(keyword in message for keyword in REASONING_ASSIST_KEYWORDS)
+
+    @classmethod
+    def _should_supplement_soft_preference_cards(cls, cards: list[TourismPlaceCard], query: dict) -> bool:
+        soft_preferences = [preference for preference in query.get("preferences") or [] if preference in SOFT_PLACE_PREFERENCES]
+        if not soft_preferences:
+            return False
+        return cls._soft_preference_score(cards, query) < len(cards)
+
+    @classmethod
+    def _soft_preference_score(cls, cards: list[TourismPlaceCard], query: dict) -> int:
+        soft_preferences = [preference for preference in query.get("preferences") or [] if preference in SOFT_PLACE_PREFERENCES]
+        if not soft_preferences:
+            return 0
+        return sum(
+            1
+            for card in cards
+            if any(cls._preference_evidence_score(card, preference) > 0 for preference in soft_preferences)
+        )
 
     def _call_reasoning_assist(
         self,

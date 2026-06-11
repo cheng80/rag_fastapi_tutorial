@@ -74,8 +74,6 @@ else
   fi
   : > "$UVICORN_LOG"
   echo "[start] FastAPI debug server: ${BASE_URL}"
-  TOURISM_LIVE_LOOKUP_ENABLED="${TOURISM_LIVE_LOOKUP_ENABLED:-true}" \
-  TOURISM_REASONING_ASSIST_ENABLED="${TOURISM_REASONING_ASSIST_ENABLED:-false}" \
   "$VENV_PYTHON" -m uvicorn app.main:app --host "$HOST" --port "$PORT" --reload >"$UVICORN_LOG" 2>&1 &
   UVICORN_PID="$!"
   UVICORN_STARTED=true

@@ -146,6 +146,62 @@ def test_tourism_chat_keeps_existing_order_when_reasoning_assist_fails(tmp_path)
     assert response.cards[0].title == "국립중앙박물관"
 
 
+def test_tourism_chat_supplements_live_cards_for_soft_preference_reasoning(tmp_path):
+    sample_dir = tmp_path / "samples"
+    sample_dir.mkdir()
+    indoor_card = TourismPlaceCard(
+        content_id="indoor-1",
+        title="국립중앙박물관",
+        address="서울특별시 용산구",
+        recommendation_reason="휠체어 접근과 유모차 이용, 실내 관람 근거가 확인되었습니다.",
+        accessibility_tags=["휠체어 접근"],
+        family_tags=["유모차 대여"],
+        raw_fields={"영유아 가족 편의": "유모차 이동 가능", "관람환경": "실내 전시관"},
+    )
+    (sample_dir / "indoor.md").write_text(TourismNormalizer().card_to_markdown(indoor_card), encoding="utf-8")
+
+    class BroadLiveTourAPI:
+        def accessible_area_based_list(self, area_code: str, sigungu_code=None, num_of_rows=10):
+            return [{"contentid": f"live-{index}"} for index in range(5)]
+
+        def detail_common(self, content_id: str):
+            return {"contentid": content_id, "title": f"라이브 식당 {content_id}", "addr1": "서울특별시 강남구"}
+
+        def detail_with_tour(self, content_id: str):
+            return {
+                "contentid": content_id,
+                "wheelchair": "휠체어 접근 가능",
+                "stroller": "유모차 이동 가능",
+                "publictransport": "출입구까지 턱이 없어 접근 가능",
+            }
+
+    llm = FakeLLMService('{"ranked_ids":["indoor-1"],"missing_or_uncertain":["비 오는 날 동선은 확인 필요"]}')
+    service = TourismChatService(
+        tourism_settings(
+            tourism_lookup_strategy="live_update",
+            tourism_reasoning_assist_enabled=True,
+            tourism_sample_path=sample_dir,
+            tourism_live_cache_path=tmp_path / "live_cache",
+            tour_api_service_key="test",
+            tour_api_accessible_service_key="test",
+            tourism_live_rows=5,
+            tourism_live_max_detail_calls=10,
+        ),
+        EmptyRetriever(),
+        TourismQueryService(),
+        tour_api_service=BroadLiveTourAPI(),
+        llm_service=llm,
+    )
+
+    response = service.answer("서울에서 휠체어 타는 아버지와 아이가 비 오면 이동하기 편한 실내 관광지 추천")
+
+    assert response.lookup_mode == "hybrid"
+    assert response.reasoning_assist_used is True
+    assert response.reasoning_assist_notes == ["비 오는 날 동선은 확인 필요"]
+    assert response.cards[0].title == "국립중앙박물관"
+    assert "복합 조건을 반영해 후보 순서를 조정했습니다" in response.answer
+
+
 def test_tourism_chat_prefers_live_tour_api_when_available(tmp_path):
     class FakeTourAPI:
         def __init__(self):
