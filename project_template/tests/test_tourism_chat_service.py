@@ -202,6 +202,34 @@ def test_tourism_chat_supplements_live_cards_for_soft_preference_reasoning(tmp_p
     assert "복합 조건을 반영해 후보 순서를 조정했습니다" in response.answer
 
 
+def test_tourism_chat_answer_uses_readable_multiline_evidence_labels(tmp_path):
+    service = TourismChatService(
+        tourism_settings(tourism_live_cache_path=tmp_path / "live_cache"),
+        EmptyRetriever(),
+        TourismQueryService(),
+    )
+    card = TourismPlaceCard(
+        content_id="readable-1",
+        title="읽기 좋은 관광지",
+        recommendation_reason="휠체어 접근 정보가 확인되었습니다.",
+        accessibility_tags=["휠체어 접근", "장애인 주차"],
+        raw_fields={
+            "parking": "장애인 주차장 있음",
+            "publictransport": "출입구까지 턱이 없어 휠체어 접근 가능함",
+            "exit": "주출입구는 턱이 없음",
+        },
+    )
+
+    answer = service._build_answer([card], {"region": "서울", "conditions": ["휠체어", "주차"]})
+
+    assert "1. 읽기 좋은 관광지\n" in answer
+    assert "   - 조건 태그: 휠체어 접근" in answer
+    assert "   - 주차: 장애인 주차장 있음" in answer
+    assert "   - 대중교통: 출입구까지 턱이 없어 휠체어 접근 가능함" in answer
+    assert "publictransport" not in answer
+    assert " / " not in answer
+
+
 def test_tourism_chat_prefers_live_tour_api_when_available(tmp_path):
     class FakeTourAPI:
         def __init__(self):
@@ -1914,8 +1942,10 @@ def test_tourism_chat_contextualizes_visual_accessibility_card_reason(tmp_path):
     assert response.cards
     assert response.cards[0].recommendation_reason.startswith("제주 점자 안내관은(는) 점자블록")
     assert response.cards[0].accessibility_tags == ["점자블록"]
-    assert "1. 제주 점자 안내관: 점자블록 / 점자블록: 점자블록 있음" in response.answer
-    assert "1. 제주 점자 안내관: 휠체어 접근" not in response.answer
+    assert "1. 제주 점자 안내관\n" in response.answer
+    assert "   - 조건 태그: 점자블록" in response.answer
+    assert "   - 점자블록: 점자블록 있음" in response.answer
+    assert "   - 조건 태그: 휠체어 접근" not in response.answer
 
 
 def test_tourism_chat_relaxes_multi_condition_unless_all_conditions_are_explicit(tmp_path):

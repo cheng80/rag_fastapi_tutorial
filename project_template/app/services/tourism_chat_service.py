@@ -1947,14 +1947,23 @@ class TourismChatService:
         if scope_note:
             lines.append(scope_note)
         if reasoning_notes:
-            lines.append(f"복합 조건을 반영해 후보 순서를 조정했습니다. 확인 필요: {', '.join(reasoning_notes)}")
+            lines.append("복합 조건을 반영해 후보 순서를 조정했습니다.")
+            lines.append(f"확인 필요: {', '.join(reasoning_notes)}")
         for index, card in enumerate(cards, start=1):
-            basis = self._build_card_basis(card, query)
-            lines.append(f"{index}. {card.title}: {basis}. 출처는 {self._public_source_name(card.source_name)}입니다.")
+            basis = self._build_card_basis_lines(card, query)
+            lines.append(
+                "\n".join(
+                    [
+                        f"{index}. {card.title}",
+                        *[f"   - {line}" for line in basis],
+                        f"   - 출처: {self._public_source_name(card.source_name)}",
+                    ]
+                )
+            )
         if live_top_up_available:
             lines.append("지금 확인된 후보를 먼저 보여드렸습니다. 더 찾아보려면 '최신 추천 더 확인하기'를 눌러 주세요.")
         lines.append("방문 전 운영시간과 편의시설 위치는 현장 상황에 따라 달라질 수 있어 공식 안내나 전화로 한 번 더 확인해 주세요.")
-        return "\n".join(lines)
+        return "\n\n".join(lines)
 
     @staticmethod
     def _query_focus_label(query: dict) -> str:
@@ -1980,18 +1989,22 @@ class TourismChatService:
 
     @staticmethod
     def _build_card_basis(card: TourismPlaceCard, query: dict) -> str:
+        return "; ".join(TourismChatService._build_card_basis_lines(card, query))
+
+    @staticmethod
+    def _build_card_basis_lines(card: TourismPlaceCard, query: dict) -> list[str]:
         tags = [*card.accessibility_tags, *card.family_tags]
         evidence = TourismChatService._select_raw_evidence(card, query)
-        basis_parts = []
+        basis_parts: list[str] = []
         matching_tags = TourismChatService._select_condition_tags(tags, query)
         if matching_tags:
-            basis_parts.append(", ".join(matching_tags[:3]))
+            basis_parts.append(f"조건 태그: {', '.join(matching_tags[:3])}")
         elif not evidence and tags:
-            basis_parts.append(", ".join(tags[:3]))
+            basis_parts.append(f"확인 태그: {', '.join(tags[:3])}")
         basis_parts.extend(evidence)
         if not basis_parts:
-            return "세부 편의정보 확인 필요"
-        return " / ".join(basis_parts[:3])
+            return ["세부 편의정보 확인 필요"]
+        return basis_parts[:3]
 
     @staticmethod
     def _select_condition_tags(tags: list[str], query: dict) -> list[str]:
@@ -2013,7 +2026,7 @@ class TourismChatService:
             preferred_keywords.extend(CONDITION_EVIDENCE_KEYWORDS.get(condition, [condition]))
         evidence = []
         for key, value in card.raw_fields.items():
-            text = f"{key}: {value}".strip()
+            text = TourismChatService._format_raw_evidence(key, value)
             if not text:
                 continue
             if preferred_keywords and not any(keyword in text for keyword in preferred_keywords):
@@ -2024,12 +2037,37 @@ class TourismChatService:
         if evidence:
             return evidence
         for key, value in card.raw_fields.items():
-            text = f"{key}: {value}".strip()
+            text = TourismChatService._format_raw_evidence(key, value)
             if text:
                 evidence.append(TourismChatService._shorten_evidence(text))
             if len(evidence) >= 1:
                 break
         return evidence
+
+    @staticmethod
+    def _format_raw_evidence(key: str, value: str) -> str:
+        clean_value = value.strip()
+        if not clean_value:
+            return ""
+        label = TourismChatService._public_raw_field_label(key)
+        return f"{label}: {clean_value}"
+
+    @staticmethod
+    def _public_raw_field_label(key: str) -> str:
+        labels = {
+            "parking": "주차",
+            "publictransport": "대중교통",
+            "restroom": "화장실",
+            "exit": "주출입구",
+            "wheelchair": "휠체어",
+            "stroller": "유모차",
+            "lactationroom": "수유실",
+            "elevator": "엘리베이터",
+            "route": "접근로",
+            "babysparechair": "유아용 의자",
+            "infantsfamilyetc": "영유아 가족 편의",
+        }
+        return labels.get(key, key)
 
     @staticmethod
     def _shorten_evidence(text: str, limit: int = 54) -> str:
