@@ -192,7 +192,7 @@ def validate_tutorial_book_structure() -> str:
 
 
 def assert_notebook_is_lesson(text: str, notebook_name: str) -> None:
-    assert_contains(text, ["학습 흐름", "실행 전 준비", "원본형 앱 연결", "정리"])
+    assert_contains(text, ["학습 흐름", "실행 전 준비", "튜토리얼 앱 연결", "정리"])
     cell_count = text.count('"cell_type"')
     markdown_count = text.count('"cell_type": "markdown"')
     code_count = text.count('"cell_type": "code"')

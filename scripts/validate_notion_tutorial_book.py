@@ -25,7 +25,7 @@ REQUIRED_FRAGMENTS: Final = [
     "06_tourapi_cache_fallback_check.ipynb",
     "07_eval_report_check.ipynb",
     "08_web_ui_smoke_check.ipynb",
-    "NewNote",
+    "설명 셀과 코드 셀을 번갈아 두는 강의형 자료",
     "18-20셀",
     "막힐 때 보는 오류표",
     "관광 카드가 0개다",
