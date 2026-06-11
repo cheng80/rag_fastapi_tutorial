@@ -1,0 +1,13 @@
+{
+  "labels": [
+    "strict_and",
+    "soft_and",
+    "or_condition",
+    "add_condition",
+    "replace_condition",
+    "exclude_condition",
+    "family_context",
+    "mobility_context",
+    "specific_facility_required"
+  ]
+}
