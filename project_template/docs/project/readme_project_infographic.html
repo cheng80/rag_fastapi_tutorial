@@ -1,0 +1,565 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>무장애·가족 친화 관광 챗봇 인포그래픽</title>
+  <style>
+    :root {
+      --paper: #f8f4ec;
+      --ink: #1f2933;
+      --muted: #61717e;
+      --line: #c8d2cf;
+      --green: #2e6f5e;
+      --green-soft: #dceadf;
+      --teal: #16697a;
+      --teal-soft: #d9eef0;
+      --red: #b54a35;
+      --red-soft: #f4ded7;
+      --yellow: #b8821f;
+      --yellow-soft: #f2e7c9;
+      --blue: #315f96;
+      --blue-soft: #dce6f2;
+      --violet: #715394;
+      --violet-soft: #e7def0;
+      --white: #fffdf8;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #e8e1d4;
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", Arial, sans-serif;
+      letter-spacing: 0;
+      word-break: keep-all;
+      overflow-wrap: break-word;
+    }
+
+    .poster {
+      width: 1600px;
+      min-height: 2280px;
+      margin: 0 auto;
+      padding: 58px 62px 44px;
+      background:
+        linear-gradient(90deg, rgba(31, 41, 51, 0.035) 1px, transparent 1px),
+        linear-gradient(rgba(31, 41, 51, 0.035) 1px, transparent 1px),
+        var(--paper);
+      background-size: 32px 32px;
+    }
+
+    .topbar {
+      display: grid;
+      grid-template-columns: 1fr 450px;
+      gap: 32px;
+      align-items: start;
+      margin-bottom: 28px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 14px;
+      border: 2px solid var(--green);
+      border-radius: 999px;
+      background: var(--green-soft);
+      color: var(--green);
+      font-size: 24px;
+      font-weight: 800;
+    }
+
+    h1 {
+      margin: 18px 0 10px;
+      font-size: 78px;
+      line-height: 1.05;
+      font-weight: 900;
+      letter-spacing: 0;
+    }
+
+    .subtitle {
+      margin: 0;
+      max-width: 990px;
+      font-size: 30px;
+      line-height: 1.42;
+      color: #3d4b55;
+      font-weight: 650;
+    }
+
+    .status-panel {
+      border: 3px solid var(--ink);
+      background: var(--white);
+      border-radius: 8px;
+      padding: 22px 24px;
+      box-shadow: 10px 10px 0 rgba(31, 41, 51, 0.08);
+    }
+
+    .status-panel h2 {
+      margin: 0 0 16px;
+      font-size: 25px;
+      display: flex;
+      justify-content: space-between;
+      gap: 14px;
+    }
+
+    .metric {
+      display: grid;
+      grid-template-columns: 142px 1fr 54px;
+      gap: 12px;
+      align-items: center;
+      margin: 10px 0;
+      font-size: 20px;
+      font-weight: 800;
+    }
+
+    .bar {
+      height: 14px;
+      border: 2px solid var(--ink);
+      background: #efe7da;
+      border-radius: 999px;
+      overflow: hidden;
+    }
+
+    .bar span {
+      display: block;
+      height: 100%;
+      background: var(--green);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+
+    .section {
+      border: 3px solid var(--line);
+      border-radius: 8px;
+      background: rgba(255, 253, 248, 0.84);
+      padding: 22px;
+      margin-bottom: 24px;
+    }
+
+    .section.full {
+      grid-column: 1 / -1;
+    }
+
+    .section-title {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 0 0 18px;
+      font-size: 32px;
+      line-height: 1.1;
+      font-weight: 900;
+    }
+
+    .num {
+      display: inline-grid;
+      place-items: center;
+      width: 42px;
+      height: 42px;
+      border-radius: 8px;
+      color: #fff;
+      background: var(--red);
+      font-size: 25px;
+      font-weight: 900;
+    }
+
+    .flow {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+      gap: 12px;
+      align-items: stretch;
+    }
+
+    .flow-card {
+      position: relative;
+      min-height: 148px;
+      border: 2px solid var(--ink);
+      border-radius: 8px;
+      background: var(--white);
+      padding: 16px 14px;
+    }
+
+    .flow-card:not(:last-child)::after {
+      content: "";
+      position: absolute;
+      top: 66px;
+      right: -20px;
+      width: 26px;
+      height: 2px;
+      background: var(--ink);
+      z-index: 2;
+    }
+
+    .flow-card:not(:last-child)::before {
+      content: "";
+      position: absolute;
+      top: 60px;
+      right: -24px;
+      border-top: 7px solid transparent;
+      border-bottom: 7px solid transparent;
+      border-left: 10px solid var(--ink);
+      z-index: 2;
+    }
+
+    .flow-card strong {
+      display: block;
+      font-size: 21px;
+      line-height: 1.2;
+      margin-bottom: 10px;
+      font-weight: 900;
+    }
+
+    .flow-card p,
+    .mini p,
+    .policy p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 17px;
+      line-height: 1.36;
+      font-weight: 650;
+    }
+
+    .flow-card .tag,
+    .tag {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 5px 8px;
+      border-radius: 999px;
+      border: 1.6px solid currentColor;
+      font-size: 15px;
+      font-weight: 900;
+    }
+
+    .green { background: var(--green-soft); }
+    .teal { background: var(--teal-soft); }
+    .blue { background: var(--blue-soft); }
+    .yellow { background: var(--yellow-soft); }
+    .red { background: var(--red-soft); }
+    .violet { background: var(--violet-soft); }
+
+    .lanes {
+      display: grid;
+      grid-template-columns: 1fr 1.15fr 1fr;
+      gap: 18px;
+    }
+
+    .lane {
+      border: 2px solid var(--ink);
+      border-radius: 8px;
+      background: var(--white);
+      padding: 18px;
+      min-height: 330px;
+    }
+
+    .lane h3 {
+      margin: 0 0 13px;
+      font-size: 25px;
+      line-height: 1.2;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .icon {
+      width: 34px;
+      height: 34px;
+      display: inline-grid;
+      place-items: center;
+      border: 2px solid currentColor;
+      border-radius: 8px;
+      font-size: 17px;
+      font-weight: 900;
+    }
+
+    .lane ul,
+    .checklist,
+    .tree {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .lane li,
+    .checklist li,
+    .tree li {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      margin: 10px 0;
+      font-size: 19px;
+      line-height: 1.28;
+      color: #33424c;
+      font-weight: 700;
+    }
+
+    .lane li::before,
+    .checklist li::before,
+    .tree li::before {
+      content: "";
+      flex: 0 0 auto;
+      width: 9px;
+      height: 9px;
+      margin-top: 8px;
+      border-radius: 50%;
+      background: var(--red);
+    }
+
+    .checklist b {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 16px;
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+
+    .mini-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+    }
+
+    .mini {
+      min-height: 178px;
+      border: 2px solid var(--ink);
+      border-radius: 8px;
+      background: var(--white);
+      padding: 16px;
+    }
+
+    .mini strong {
+      display: block;
+      font-size: 24px;
+      line-height: 1.16;
+      margin-bottom: 10px;
+      font-weight: 900;
+    }
+
+    .numberline {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 14px;
+    }
+
+    .stat {
+      border: 2px solid var(--ink);
+      border-radius: 8px;
+      background: var(--white);
+      padding: 16px;
+      min-height: 144px;
+    }
+
+    .stat .big {
+      display: block;
+      font-size: 40px;
+      line-height: 1;
+      font-weight: 950;
+      color: var(--teal);
+      margin-bottom: 9px;
+    }
+
+    .stat .label {
+      font-size: 18px;
+      line-height: 1.28;
+      font-weight: 800;
+      color: #3b4a54;
+    }
+
+    .policy-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .policy {
+      border: 2px dashed #87948f;
+      border-radius: 8px;
+      background: rgba(255, 253, 248, 0.82);
+      padding: 16px;
+      min-height: 146px;
+    }
+
+    .policy strong {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 22px;
+      font-weight: 900;
+    }
+
+    .bottom {
+      display: grid;
+      grid-template-columns: 1.05fr 1fr;
+      gap: 24px;
+    }
+
+    .tree {
+      columns: 2;
+      column-gap: 28px;
+    }
+
+    .tree li {
+      break-inside: avoid;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 17px;
+      margin: 8px 0;
+    }
+
+    .foot {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      border-top: 3px solid var(--ink);
+      margin-top: 18px;
+      padding-top: 18px;
+      color: #53616a;
+      font-size: 18px;
+      line-height: 1.35;
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <main class="poster">
+    <header class="topbar">
+      <div>
+        <span class="eyebrow">README VISUAL BRIEF</span>
+        <h1>무장애·가족 친화<br>관광 챗봇</h1>
+        <p class="subtitle">한국관광공사 데이터, 저장 문서 검색, 로컬 AI 모델을 묶어 접근성 근거가 있는 관광지 카드를 상담 흐름으로 추천하는 로컬 실행형 프로젝트.</p>
+      </div>
+      <aside class="status-panel">
+        <h2><span>현재 진행도</span><span>2026-05-27</span></h2>
+        <div class="metric"><span>시제품</span><div class="bar"><span style="width:84%"></span></div><span>84%</span></div>
+        <div class="metric"><span>서버 기능</span><div class="bar"><span style="width:92%"></span></div><span>92%</span></div>
+        <div class="metric"><span>웹 화면</span><div class="bar"><span style="width:90%"></span></div><span>90%</span></div>
+        <div class="metric"><span>자동 검증</span><div class="bar"><span style="width:90%"></span></div><span>90%</span></div>
+        <div class="metric"><span>정식 운영</span><div class="bar"><span style="width:20%; background: var(--red)"></span></div><span>20%</span></div>
+      </aside>
+    </header>
+
+    <section class="section full">
+      <h2 class="section-title"><span class="num">1</span>사용자 질문이 추천 카드가 되는 흐름</h2>
+      <div class="flow">
+        <div class="flow-card green"><strong>자연어 질문</strong><p>지역, 동행자, 접근성 조건, 주변 확장 의도를 한 문장으로 입력.</p><span class="tag">/tourism/chat</span></div>
+        <div class="flow-card teal"><strong>질문 해석</strong><p>지역명, 필요한 편의시설, 이어 묻기, 제외할 조건을 나눈다.</p><span class="tag">규칙 + 보조 분류기</span></div>
+        <div class="flow-card yellow"><strong>대화 기억</strong><p>이전 답변의 지역과 조건을 이어받되, A 말고 B 같은 교체를 우선.</p><span class="tag">대화 ID</span></div>
+        <div class="flow-card red"><strong>TourAPI 우선 확인</strong><p>live_update 모드에서는 먼저 최신 후보를 조회한다.</p><span class="tag">5초 대기</span></div>
+        <div class="flow-card blue"><strong>저장 기록 재사용</strong><p>응답이 늦거나 실패하면 저장 카드와 원본 응답 캐시를 사용.</p><span class="tag">SQLite + Markdown</span></div>
+        <div class="flow-card violet"><strong>저장 문서 검색</strong><p>색인된 관광 자료와 예비 카드를 안전망으로 찾는다.</p><span class="tag">벡터 검색 top_k=40</span></div>
+        <div class="flow-card green"><strong>카드 형식 정리</strong><p>장소, 주소, 근거 문장, 출처, 주의 문구를 정해진 형식으로 고정.</p><span class="tag">추천 카드</span></div>
+        <div class="flow-card teal"><strong>응답 반환</strong><p>답변, 추천 카드, 출처, 주의 문구, 다음 질문 후보를 반환.</p><span class="tag">근거 우선</span></div>
+      </div>
+    </section>
+
+    <section class="section full">
+      <h2 class="section-title"><span class="num">2</span>시스템 레이어</h2>
+      <div class="lanes">
+        <div class="lane">
+          <h3 style="color: var(--green)"><span class="icon">UI</span>사용자 화면</h3>
+          <ul>
+            <li>웹 확인 UI: <b>/tourism-ui/</b></li>
+            <li>Flutter 앱: 별도 repo <b>cheng80/chatbot_rag_app</b></li>
+            <li>추천 카드, 상세 정보, 지도 검색, 지역 선택 질문</li>
+            <li>개발 모드는 Swagger, ReDoc, OpenAPI 링크 노출</li>
+          </ul>
+        </div>
+        <div class="lane">
+          <h3 style="color: var(--teal)"><span class="icon">서버</span>백엔드 기능</h3>
+          <ul>
+            <li>서버 프로그램: <b>FastAPI</b></li>
+            <li><b>/tourism/chat</b>: 관광 상담 답변과 카드 반환</li>
+            <li><b>/chat</b>: 일반 문서 검색 답변</li>
+            <li><b>/documents/reindex</b>: 문서 재색인</li>
+            <li>응답 형식은 카드, 출처, 경고, 조회 경로를 포함</li>
+          </ul>
+        </div>
+        <div class="lane">
+          <h3 style="color: var(--red)"><span class="icon">AI</span>AI와 판단 규칙</h3>
+          <ul>
+            <li>답변 보조 모델: Ollama Unsloth Gemma4</li>
+            <li>검색용 숫자 변환 모델: bge-m3</li>
+            <li>오타/띄어쓰기 후보: ET5 + 정규화 규칙</li>
+            <li>질문 의도와 문맥: 규칙 + n-gram 보조 분류기</li>
+            <li>LLM 추론 보조는 기본 OFF</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <div class="grid">
+      <section class="section">
+        <h2 class="section-title"><span class="num">3</span>데이터 파이프라인</h2>
+        <div class="mini-grid" style="grid-template-columns: 1fr 1fr;">
+          <div class="mini green"><strong>관광공사 API</strong><p>지역 목록, 관광지 후보, 기본 정보, 무장애 상세 정보를 가져온다.</p></div>
+          <div class="mini yellow"><strong>예비 관광 카드</strong><p>904개 관광 Markdown을 안전망으로 보유. 228/234 시군구가 3장 이상 확보.</p></div>
+          <div class="mini blue"><strong>검색 색인</strong><p>905개 문서, 914개 조각을 검색용 숫자로 저장. 운영 검색은 벡터 검색만 사용.</p></div>
+          <div class="mini red"><strong>응답 저장소</strong><p>관광공사 원본 응답을 SQLite에 저장. API 비밀키는 저장 키에 넣지 않는다.</p></div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title"><span class="num">4</span>품질 게이트</h2>
+        <div class="numberline">
+          <div class="stat"><span class="big">0</span><span class="label">TOP_K=40 challenge 30건 실패</span></div>
+          <div class="stat"><span class="big">0</span><span class="label">residual hard chat 80건 실패</span></div>
+          <div class="stat"><span class="big">28</span><span class="label">noisy 200건 중 남은 실패, 주 원인은 자료 부족</span></div>
+          <div class="stat"><span class="big">20/20</span><span class="label">LLM 보조 트리거 eval 전체 모드 통과</span></div>
+          <div class="stat"><span class="big">OFF</span><span class="label">reasoning assist 기본값</span></div>
+        </div>
+      </section>
+    </div>
+
+    <section class="section full">
+      <h2 class="section-title"><span class="num">5</span>현재 운영 정책</h2>
+      <div class="policy-grid">
+        <div class="policy green"><strong>근거 없는 정보 생성 금지</strong><p>공공데이터나 예비 카드에 없는 접근성 정보는 추측하지 않고 확인 필요로 남긴다.</p></div>
+        <div class="policy teal"><strong>운영 검색은 벡터 검색</strong><p>BM25, AutoRAG는 오프라인 비교 도구다. 실제 서비스 검색은 bge-m3 + top_k=40 유지.</p></div>
+        <div class="policy red"><strong>Live 우선 + 저장 자료 안전망</strong><p>live_update는 TourAPI를 먼저 확인하고, 지연·실패 시 캐시/RAG/fallback으로 즉시 응답한다.</p></div>
+        <div class="policy yellow"><strong>관계 호칭만으로 나이 추정 금지</strong><p>아빠, 어머니, 부모님만 보고 고령자 조건을 만들지 않는다.</p></div>
+        <div class="policy blue"><strong>시군구 자동 확장 금지</strong><p>좁은 지역을 말하면 타 지역을 섞지 않는다. 확장 요청이 명확할 때만 넓힌다.</p></div>
+        <div class="policy violet"><strong>LLM 보조는 선택 사항</strong><p>후보에 없는 장소나 접근성 정보를 만들 수 없고, 기본값은 reasoning assist OFF다.</p></div>
+      </div>
+    </section>
+
+    <div class="bottom">
+      <section class="section">
+        <h2 class="section-title"><span class="num">6</span>핵심 폴더 지도</h2>
+        <ul class="tree">
+          <li>app/</li>
+          <li>app/api/routes/</li>
+          <li>app/services/</li>
+          <li>app/repositories/</li>
+          <li>app/schemas/</li>
+          <li>frontend/web/</li>
+          <li>data/raw/tourism_accessible/</li>
+          <li>data/processed/</li>
+          <li>data/eval/</li>
+          <li>scripts/</li>
+          <li>tests/</li>
+          <li>docs/project/</li>
+          <li>docs/tourism/</li>
+        </ul>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title"><span class="num">7</span>실행·확인 입구</h2>
+        <ul class="checklist">
+          <li>서버: <b>python -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload</b></li>
+          <li>웹 UI: <b>http://127.0.0.1:8000/tourism-ui/</b></li>
+          <li>API 문서: <b>/docs</b>, <b>/redoc</b></li>
+          <li>관광 상담: <b>POST /tourism/chat</b></li>
+          <li>일반 RAG: <b>POST /chat</b></li>
+        </ul>
+      </section>
+    </div>
+
+    <footer class="foot">
+      <div>근거 문서: README.md</div>
+      <div>이 이미지는 README 이해를 돕는 시각 요약이다. 실행 절차와 최신 명령은 README 본문을 우선한다.</div>
+    </footer>
+  </main>
+</body>
+</html>

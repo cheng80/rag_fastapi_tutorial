@@ -1,0 +1,16 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.8.0
+pydantic-settings>=2.4.0
+python-dotenv>=1.0.1
+requests>=2.32.0
+httpx==0.28.1
+httpx2>=0.28.0
+numpy==1.26.4
+chromadb>=1.5.9
+pypdf>=5.0.0
+python-multipart>=0.0.9
+pytest>=8.0.0
+matplotlib>=3.9.0
+openpyxl>=3.1.0
+scikit-learn>=1.5.0

@@ -1,0 +1,25 @@
+services:
+  api:
+    image: python:3.11-slim
+    working_dir: /app
+    volumes:
+      - ./:/app
+    env_file:
+      - .env
+    command: sh -c "pip install -r requirements.txt && uvicorn app.main:app --host 0.0.0.0 --port 8000"
+    ports:
+      - "8000:8000"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+# Ollama를 Docker로 같이 띄우고 싶으면 아래 서비스를 활성화해서 사용한다.
+# Linux GPU 환경에서는 별도 nvidia runtime 설정이 필요할 수 있다.
+#  ollama:
+#    image: ollama/ollama:latest
+#    ports:
+#      - "11434:11434"
+#    volumes:
+#      - ollama:/root/.ollama
+#
+#volumes:
+#  ollama:
