@@ -187,6 +187,30 @@ ollama pull bge-m3
 
 AutoRAG는 운영 런타임 의존성이 아니라 retrieval-only 오프라인 검색 실험 도구입니다. 필요할 때만 별도 venv에 `requirements-autorag.txt`를 설치해 `docs/tourism/autorag_retrieval_experiment.md` 절차로 실행합니다.
 
+### 선택형 로컬 Transformers 모델 복원
+
+로컬 LLM은 Ollama가 관리하지만, 원본 앱에는 별도 Transformers 모델도 있습니다. 이 모델들은 옵션 기능을 켰을 때만 쓰입니다.
+
+- 한국어 교정: `TOURISM_KOREAN_CORRECTION_ENABLED=true`
+- 관광 조건 변환기: `TOURISM_CONDITION_TRANSFORMER_ENABLED=true`
+
+모델 파일은 1GB가 넘고 GitHub 단일 파일 제한도 넘기므로 저장소에 커밋하지 않습니다. 원본 앱을 갖고 있는 로컬 환경에서만 다음 명령으로 복원합니다.
+
+```bash
+cd project_template
+../.venv/bin/python scripts/restore_optional_models.py \
+  --original-app-root /Users/cheng80/Desktop/chatbot_rag
+```
+
+복원되는 경로:
+
+```text
+data/models/tourism_korean_corrector/
+data/generated/tour_api/condition_transformer_residual_aug_e2_fast/
+```
+
+모델이 없으면 앱은 중단되지 않고 한국어 교정은 원문 유지, 조건 변환기는 규칙 기반 기본 흐름으로 돌아갑니다. 옵션을 실제 모델 기반으로 검증하려면 위 복원 명령을 먼저 실행한 뒤 `.env`에서 해당 옵션을 켭니다.
+
 ## 4. 환경 변수
 
 ```bash
