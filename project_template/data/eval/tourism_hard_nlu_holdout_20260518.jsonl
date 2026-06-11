@@ -1,0 +1,180 @@
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0001", "source": "hard_nlu_holdout_20260518", "text": "대전에서 바퀴 달린 의자로 들어가도 눈치 안 보일 만한 곳"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0002", "source": "hard_nlu_holdout_20260518", "text": "대구에서 혼자 밀고 들어가기 무리 없는 관광지"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0004", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 바닥 턱 때문에 못 들어가는 일이 적은 곳"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0005", "source": "hard_nlu_holdout_20260518", "text": "전주에서 이동 보조기구 쓰는 사람이 관람 가능한 곳"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0006", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 서서 오래 못 보는 동행이 그대로 둘러볼 수 있는 곳"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0008", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 바퀴 달린 보조의자 이용자가 갈 만한 관광지"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0009", "source": "hard_nlu_holdout_20260518", "text": "전주에서 계단 때문에 돌아나오지 않아도 되는 곳"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0010", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 출입구에서 막히지 않는 장소 위주"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0011", "source": "hard_nlu_holdout_20260518", "text": "대구에서 휠챠 타는 친구랑 갈 수 있는 곳"}
+{"category": "implicit:휠체어", "expected_conditions": ["휠체어"], "id": "HARDNLU-0012", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 휠체여 사용해도 괜찮은 곳"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0013", "source": "hard_nlu_holdout_20260518", "text": "대전에서 아기 태운 작은 바퀴차 끌고 다니기 편한 곳"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0014", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 아이 태우고 밀고 다녀도 동선이 괜찮은 곳"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0015", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 유아용 이동기구를 접지 않고 볼 수 있는 곳"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0016", "source": "hard_nlu_holdout_20260518", "text": "대구에서 아기 짐이 많아도 들어가기 쉬운 관광지"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0018", "source": "hard_nlu_holdout_20260518", "text": "전주에서 아기 데리고 수유나 기저귀 걱정 적은 곳"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0019", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 유아챠 끌고 가도 무리 없는 곳"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0020", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 애기랑 짐차 밀고 다니는 동선 괜찮은 곳"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0021", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 아이 의자나 아기 편의가 확인되는 곳"}
+{"category": "implicit:유모차", "expected_conditions": ["유모차"], "id": "HARDNLU-0022", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 아기 동반 가족이 쉬어 가기 편한 곳"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0023", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 부모님이 오래 서 있지 않아도 되는 곳"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0024", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 무릎이 불편한 분이 쉬엄쉬엄 볼 수 있는 곳"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0025", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 어른 모시고 걷는 부담이 적은 곳"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0026", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 다리가 약한 동행이 중간중간 앉을 수 있는 곳"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0027", "source": "hard_nlu_holdout_20260518", "text": "대전에서 계단 오르내림이 적은 코스로 보고 싶어"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0029", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 오래 걷지 않아도 주요 볼거리를 볼 수 있는 곳"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0030", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 부모님 컨디션 안 좋아도 무리 적은 관광지"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0031", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 어르신이 화장실이나 쉼터 찾기 쉬운 곳"}
+{"category": "implicit:고령자", "expected_conditions": ["고령자"], "id": "HARDNLU-0032", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 걷는 거 힘든 어른이랑 갈 곳"}
+{"category": "implicit:주차", "expected_conditions": ["주차"], "id": "HARDNLU-0033", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 차를 입구 가까이에 세울 수 있으면 좋겠어"}
+{"category": "implicit:주차", "expected_conditions": ["주차"], "id": "HARDNLU-0034", "source": "hard_nlu_holdout_20260518", "text": "대전에서 내려서 많이 안 걸어도 되는 주차 동선이면 해"}
+{"category": "implicit:주차", "expected_conditions": ["주차"], "id": "HARDNLU-0036", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 보호자 차에서 바로 이동하기 편한 관광지"}
+{"category": "implicit:주차", "expected_conditions": ["주차"], "id": "HARDNLU-0037", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 승하차하고 가까운 곳에 댈 수 있는지 확인되는 곳"}
+{"category": "implicit:주차", "expected_conditions": ["주차"], "id": "HARDNLU-0038", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 주출입구 가까운 차량 공간이 있는 곳"}
+{"category": "implicit:주차", "expected_conditions": ["주차"], "id": "HARDNLU-0040", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 차 대고 바로 들어가기 쉬운 곳"}
+{"category": "implicit:주차", "expected_conditions": ["주차"], "id": "HARDNLU-0041", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 주차장에서 입구까지 동선이 짧은 곳"}
+{"category": "implicit:주차", "expected_conditions": ["주차"], "id": "HARDNLU-0042", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 주챠 편한 곳"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0043", "source": "hard_nlu_holdout_20260518", "text": "대전에서 동행이 넓은 화장실을 써야 해서 확인된 곳만"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0045", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 일반 칸 말고 넓게 쓸 수 있는 화장실이 필요해"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0046", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 손잡이 있는 화장실 정보가 있는 관광지"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0047", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 휠체여 들어가는 화장실이 확인되는 곳"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0048", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 장애 인화장실 문구 있는 곳"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0049", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 몸 불편한 사람이 이용할 수 있는 화장실 있는 곳"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0050", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 화장실 때문에 곤란하지 않을 곳"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0051", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 넓은 칸 화장실 확인 가능한 곳"}
+{"category": "implicit:화장실", "expected_conditions": ["화장실"], "id": "HARDNLU-0052", "source": "hard_nlu_holdout_20260518", "text": "대구에서 동행 보조가 가능한 화장실 있는 관광지"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0053", "source": "hard_nlu_holdout_20260518", "text": "전주에서 입구 앞 높낮이 차가 적은 곳"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0054", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 시작부터 길이 끊기지 않는 곳으로 골라줘"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0055", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 문 앞 턱 때문에 막히지 않는 관광지"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0056", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 바닥이 평평하고 돌아가기 쉬운 곳"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0057", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 경사진 판이나 넓은 길이 확인되는 곳"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0058", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 주출입구가 평탄한 곳이면 좋겠어"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0059", "source": "hard_nlu_holdout_20260518", "text": "대구에서 좁은 문이나 단차가 적은 곳"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0060", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 길이 울퉁불퉁하지 않은 곳"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0061", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 입구부터 관람 동선까지 이어지는 곳"}
+{"category": "implicit:접근로", "expected_conditions": ["접근로"], "id": "HARDNLU-0062", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 출입 통로가 답답하지 않은 관광지"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0063", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 버스나 지하철 내려서 너무 멀지 않은 곳"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0064", "source": "hard_nlu_holdout_20260518", "text": "대전에서 차 없이 가도 접근 가능한 곳"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0065", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 대중 이동수단으로 찾아가기 쉬운 관광지"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0066", "source": "hard_nlu_holdout_20260518", "text": "대구에서 정류장에서 크게 헤매지 않을 곳"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0067", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 역이나 정류장 기준으로 이동 부담 적은 곳"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0068", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 대중교통 약자도 길 찾기 쉬운 곳"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0069", "source": "hard_nlu_holdout_20260518", "text": "대전에서 버정 내려서 가까운 곳"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0070", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 지하철로 갔다가 바로 이동하기 좋은 곳"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0071", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 택시 없이도 갈 수 있는 곳"}
+{"category": "implicit:대중교통", "expected_conditions": ["대중교통"], "id": "HARDNLU-0072", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 교통편 설명이 있는 관광지"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0073", "source": "hard_nlu_holdout_20260518", "text": "대구에서 층 이동할 때 계단 말고 올라갈 수단이 있는 곳"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0074", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 위아래 이동을 기계로 할 수 있는 곳"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0075", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 승강 설비가 확인되는 관광지"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0076", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 엘베 말고도 리프트 같은 이동 설비 있는 곳"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0077", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 계단 리프트나 승강 장치 근거가 있는 곳"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0078", "source": "hard_nlu_holdout_20260518", "text": "대전에서 층이 달라도 이동 가능한 시설 있는 곳"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0079", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 승강끼 문구 있는 곳"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0080", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 휠체어 리프트 확인되는 곳"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0081", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 건물 안 층 이동이 가능한 곳"}
+{"category": "implicit:엘리베이터", "expected_conditions": ["엘리베이터"], "id": "HARDNLU-0082", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 엘리배이터 있는 곳"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0083", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 안내견이랑 같이 들어가도 되는 곳"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0084", "source": "hard_nlu_holdout_20260518", "text": "대구에서 보조 동물 동반이 가능한 관광지"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0085", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 시각장애 동행견 출입 근거 있는 곳"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0086", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 안내 견이 거절되지 않을 만한 곳"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0087", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 장애 보조견 문구가 확인되는 곳"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0089", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 반려견 말고 보조 목적 동반견 기준으로"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0090", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 안내견 동행하는 사람과 갈 관광지"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0091", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 보조견 출입 가능성이 확인된 곳"}
+{"category": "implicit:보조견", "expected_conditions": ["보조견"], "id": "HARDNLU-0092", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 시각장애인 보조견 동반되는 곳"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0093", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 손으로 만져 위치를 알 수 있는 안내가 있으면 좋겠어"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0094", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 글자를 못 봐도 소리로 설명을 들을 수 있는 곳"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0095", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 눈이 불편한 동행이 길 찾기 쉬운 곳"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0096", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 촉감으로 안내를 확인할 수 있는 관광지"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0097", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 점으로 된 안내판이나 만지는 지도가 있는 곳"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0098", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 오디오 설명이 제공되는 곳"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0099", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 시각 정보만 있으면 곤란해서 다른 안내가 필요해"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0100", "source": "hard_nlu_holdout_20260518", "text": "대전에서 점자블럭이나 촉지도 근거 있는 곳"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0101", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 앞을 보기 어려운 동행과 갈 만한 곳"}
+{"category": "implicit:시각장애", "expected_conditions": ["시각장애"], "id": "HARDNLU-0102", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 음성 안내 있는 관광지"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0103", "source": "hard_nlu_holdout_20260518", "text": "전주에서 소리 설명만 있으면 곤란해서 눈으로 볼 안내가 필요해"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0104", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 들리지 않아도 내용을 따라갈 수 있는 곳"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0105", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 화면 글자나 손짓 안내가 있는 관광지"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0107", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 청각이 불편한 동행이 설명을 놓치지 않을 곳"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0108", "source": "hard_nlu_holdout_20260518", "text": "대전에서 소리 없이 안내를 볼 수 있는 관광지"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0109", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 수화나 글자 안내가 확인되는 곳"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0110", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 자 막 안내라도 있는 곳"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0111", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 영상에 글자로 설명 나오는 곳"}
+{"category": "implicit:청각장애", "expected_conditions": ["청각장애"], "id": "HARDNLU-0112", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 듣는 안내 말고 보는 안내가 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["접근로", "화장실"], "id": "HARDNLU-0113", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 입구에서 막히지 않고 넓은 화장실도 확인되는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["접근로", "화장실"], "id": "HARDNLU-0114", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 입구에서 막히지 않고 넓은 화장실도 확인되는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["접근로", "화장실"], "id": "HARDNLU-0116", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 입구에서 막히지 않고 넓은 화장실도 확인되는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["접근로", "화장실"], "id": "HARDNLU-0117", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 입구에서 막히지 않고 넓은 화장실도 확인되는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["유모차"], "id": "HARDNLU-0118", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 아이 태운 채로 들어가고 기저귀 걱정도 적은 곳"}
+{"category": "implicit:multi", "expected_conditions": ["유모차"], "id": "HARDNLU-0119", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 아이 태운 채로 들어가고 기저귀 걱정도 적은 곳"}
+{"category": "implicit:multi", "expected_conditions": ["유모차"], "id": "HARDNLU-0120", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 아이 태운 채로 들어가고 기저귀 걱정도 적은 곳"}
+{"category": "implicit:multi", "expected_conditions": ["유모차"], "id": "HARDNLU-0121", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 아이 태운 채로 들어가고 기저귀 걱정도 적은 곳"}
+{"category": "implicit:multi", "expected_conditions": ["유모차"], "id": "HARDNLU-0122", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 아이 태운 채로 들어가고 기저귀 걱정도 적은 곳"}
+{"category": "implicit:multi", "expected_conditions": ["주차", "엘리베이터"], "id": "HARDNLU-0123", "source": "hard_nlu_holdout_20260518", "text": "전주에서 차에서 내려 많이 안 걷고 층 이동도 쉬운 곳"}
+{"category": "implicit:multi", "expected_conditions": ["주차", "엘리베이터"], "id": "HARDNLU-0124", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 차에서 내려 많이 안 걷고 층 이동도 쉬운 곳"}
+{"category": "implicit:multi", "expected_conditions": ["주차", "엘리베이터"], "id": "HARDNLU-0125", "source": "hard_nlu_holdout_20260518", "text": "전주에서 차에서 내려 많이 안 걷고 층 이동도 쉬운 곳"}
+{"category": "implicit:multi", "expected_conditions": ["주차", "엘리베이터"], "id": "HARDNLU-0126", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 차에서 내려 많이 안 걷고 층 이동도 쉬운 곳"}
+{"category": "implicit:multi", "expected_conditions": ["주차", "엘리베이터"], "id": "HARDNLU-0127", "source": "hard_nlu_holdout_20260518", "text": "대전에서 차에서 내려 많이 안 걷고 층 이동도 쉬운 곳"}
+{"category": "implicit:multi", "expected_conditions": ["청각장애"], "id": "HARDNLU-0128", "source": "hard_nlu_holdout_20260518", "text": "대구에서 듣지 못해도 볼 수 있는 안내나 손짓 설명이 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["청각장애"], "id": "HARDNLU-0130", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 듣지 못해도 볼 수 있는 안내나 손짓 설명이 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["청각장애"], "id": "HARDNLU-0131", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 듣지 못해도 볼 수 있는 안내나 손짓 설명이 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["청각장애"], "id": "HARDNLU-0132", "source": "hard_nlu_holdout_20260518", "text": "전주에서 듣지 못해도 볼 수 있는 안내나 손짓 설명이 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["시각장애", "보조견"], "id": "HARDNLU-0133", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 눈이 불편한 동행과 안내견이 함께 갈 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["시각장애", "보조견"], "id": "HARDNLU-0134", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 눈이 불편한 동행과 안내견이 함께 갈 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["시각장애", "보조견"], "id": "HARDNLU-0136", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 눈이 불편한 동행과 안내견이 함께 갈 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["시각장애", "보조견"], "id": "HARDNLU-0137", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 눈이 불편한 동행과 안내견이 함께 갈 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["고령자", "접근로"], "id": "HARDNLU-0138", "source": "hard_nlu_holdout_20260518", "text": "전주에서 무릎 불편한 어른이 문턱 없이 둘러볼 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["고령자", "접근로"], "id": "HARDNLU-0139", "source": "hard_nlu_holdout_20260518", "text": "대전에서 무릎 불편한 어른이 문턱 없이 둘러볼 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["고령자", "접근로"], "id": "HARDNLU-0140", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 무릎 불편한 어른이 문턱 없이 둘러볼 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["고령자", "접근로"], "id": "HARDNLU-0141", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 무릎 불편한 어른이 문턱 없이 둘러볼 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["고령자", "접근로"], "id": "HARDNLU-0142", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 무릎 불편한 어른이 문턱 없이 둘러볼 수 있는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["휠체어", "엘리베이터"], "id": "HARDNLU-0143", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 바퀴 달린 의자로 들어가고 층 이동도 가능한 곳"}
+{"category": "implicit:multi", "expected_conditions": ["휠체어", "엘리베이터"], "id": "HARDNLU-0144", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 바퀴 달린 의자로 들어가고 층 이동도 가능한 곳"}
+{"category": "implicit:multi", "expected_conditions": ["휠체어", "엘리베이터"], "id": "HARDNLU-0145", "source": "hard_nlu_holdout_20260518", "text": "서귀포시에서 바퀴 달린 의자로 들어가고 층 이동도 가능한 곳"}
+{"category": "implicit:multi", "expected_conditions": ["휠체어", "엘리베이터"], "id": "HARDNLU-0146", "source": "hard_nlu_holdout_20260518", "text": "전주에서 바퀴 달린 의자로 들어가고 층 이동도 가능한 곳"}
+{"category": "implicit:multi", "expected_conditions": ["휠체어", "엘리베이터"], "id": "HARDNLU-0147", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 바퀴 달린 의자로 들어가고 층 이동도 가능한 곳"}
+{"category": "implicit:multi", "expected_conditions": ["대중교통", "고령자"], "id": "HARDNLU-0149", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 차 없이 가도 너무 많이 걷지 않는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["대중교통", "고령자"], "id": "HARDNLU-0150", "source": "hard_nlu_holdout_20260518", "text": "전주에서 차 없이 가도 너무 많이 걷지 않는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["대중교통", "고령자"], "id": "HARDNLU-0151", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 차 없이 가도 너무 많이 걷지 않는 곳"}
+{"category": "implicit:multi", "expected_conditions": ["대중교통", "고령자"], "id": "HARDNLU-0152", "source": "hard_nlu_holdout_20260518", "text": "대구에서 차 없이 가도 너무 많이 걷지 않는 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0153", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 그냥 분위기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0154", "source": "hard_nlu_holdout_20260518", "text": "대전에서 그냥 분위기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0155", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 그냥 분위기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0156", "source": "hard_nlu_holdout_20260518", "text": "서울 강남구에서 그냥 분위기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0157", "source": "hard_nlu_holdout_20260518", "text": "전주에서 그냥 분위기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0158", "source": "hard_nlu_holdout_20260518", "text": "대전에서 예쁜 사진 찍기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0159", "source": "hard_nlu_holdout_20260518", "text": "대전에서 예쁜 사진 찍기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0160", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 예쁜 사진 찍기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0161", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 예쁜 사진 찍기 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0163", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 맛집만 알려줘"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0165", "source": "hard_nlu_holdout_20260518", "text": "전주에서 맛집만 알려줘"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0166", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 맛집만 알려줘"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0167", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 맛집만 알려줘"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0168", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 리프트 차량 예약할 업체"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0169", "source": "hard_nlu_holdout_20260518", "text": "대전에서 리프트 차량 예약할 업체"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0170", "source": "hard_nlu_holdout_20260518", "text": "대구에서 리프트 차량 예약할 업체"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0172", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 리프트 차량 예약할 업체"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0173", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 휠체어 대여 가격 제일 싼 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0174", "source": "hard_nlu_holdout_20260518", "text": "대전에서 휠체어 대여 가격 제일 싼 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0175", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 휠체어 대여 가격 제일 싼 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0176", "source": "hard_nlu_holdout_20260518", "text": "대구에서 휠체어 대여 가격 제일 싼 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0177", "source": "hard_nlu_holdout_20260518", "text": "전주에서 휠체어 대여 가격 제일 싼 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0178", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 응급실이 가까운 관광지 말고 병원 알려줘"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0179", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 응급실이 가까운 관광지 말고 병원 알려줘"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0181", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 응급실이 가까운 관광지 말고 병원 알려줘"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0182", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 응급실이 가까운 관광지 말고 병원 알려줘"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0184", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 주차 말고 전시 내용이 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0185", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 주차 말고 전시 내용이 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0188", "source": "hard_nlu_holdout_20260518", "text": "서울 중구에서 부모님이랑 갈 만한 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0190", "source": "hard_nlu_holdout_20260518", "text": "대구에서 부모님이랑 갈 만한 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0191", "source": "hard_nlu_holdout_20260518", "text": "대전에서 부모님이랑 갈 만한 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0192", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 부모님이랑 갈 만한 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0193", "source": "hard_nlu_holdout_20260518", "text": "전주에서 시설 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0194", "source": "hard_nlu_holdout_20260518", "text": "대전에서 시설 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0195", "source": "hard_nlu_holdout_20260518", "text": "제주시에서 시설 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0196", "source": "hard_nlu_holdout_20260518", "text": "부산 중구에서 시설 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0197", "source": "hard_nlu_holdout_20260518", "text": "대구에서 시설 좋은 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0199", "source": "hard_nlu_holdout_20260518", "text": "대전에서 안내 잘 되는 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0200", "source": "hard_nlu_holdout_20260518", "text": "성남시에서 안내 잘 되는 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0201", "source": "hard_nlu_holdout_20260518", "text": "강릉에서 안내 잘 되는 곳"}
+{"category": "negative-or-ambiguous", "expected_conditions": [], "id": "HARDNLU-0202", "source": "hard_nlu_holdout_20260518", "text": "대전에서 안내 잘 되는 곳"}

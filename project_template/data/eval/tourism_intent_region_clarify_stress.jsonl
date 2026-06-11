@@ -1,0 +1,960 @@
+{"text": "가능하면 강서구 근처 부모님과 가기 좋은 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 근처 장애인 화장실 있는 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 근처 휠체어 가능한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 기준으로 유모차 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 기준으로 유모차 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 기준으로 유모차 가능한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 기준으로 휠체어 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 유모차 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 장애인 화장실 있는 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 주차 되는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 쪽 유모차 가능한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구에서 부모님과 가기 좋은 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구에서 부모님과 가기 좋은 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구에서 주차 되는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강서구에서 휠체어 가능한 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 근처 아이랑 갈 만한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 근처 장애인 화장실 있는 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 근처 장애인 화장실 있는 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 근처 휠체어 가능한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 기준으로 부모님과 가기 좋은 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 기준으로 장애인 화장실 있는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 기준으로 주차 되는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 기준으로 휠체어 가능한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 산책 코스 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 장애인 화장실 있는 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 쪽 유모차 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군 쪽 유모차 가능한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군에서 장애인 화장실 있는 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 고성군에서 휠체어 가능한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 근처 부모님과 가기 좋은 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 근처 장애인 화장실 있는 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 근처 주차 되는 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 기준으로 아이랑 갈 만한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 부모님과 가기 좋은 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 아이랑 갈 만한 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 주차 되는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 쪽 부모님과 가기 좋은 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구 휠체어 가능한 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 남구에서 아이랑 갈 만한 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 관광지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 근처 부모님과 가기 좋은 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 근처 유모차 가능한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 근처 유모차 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 기준으로 장애인 화장실 있는 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 기준으로 휠체어 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 기준으로 휠체어 가능한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 아이랑 갈 만한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 유모차 가능한 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 장애인 화장실 있는 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 쪽 아이랑 갈 만한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 쪽 장애인 화장실 있는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 쪽 휠체어 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구 쪽 휠체어 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구만 말하면 어디 지역인지 애매하지 않아", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구만 말하면 어디 지역인지 애매하지 않아 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구에서 부모님과 가기 좋은 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 동구에서 휠체어 가능한 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 가족 여행지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 근처 아이랑 갈 만한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 근처 아이랑 갈 만한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 근처 휠체어 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 기준으로 아이랑 갈 만한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 기준으로 휠체어 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 여행 정보 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 유모차 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 주차 되는 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 쪽 아이랑 갈 만한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 쪽 주차 되는 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구 휠체어 가능한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구에서 부모님과 가기 좋은 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구에서 아이랑 갈 만한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 북구에서 장애인 화장실 있는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 근처 부모님과 가기 좋은 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 근처 장애인 화장실 있는 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 기준으로 부모님과 가기 좋은 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 기준으로 장애인 화장실 있는 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 기준으로 주차 되는 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 기준으로 주차 되는 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 부모님과 가기 좋은 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 부모님과 가기 좋은 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 실내 명소 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 여행지 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 유모차 가능한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 쪽 유모차 가능한 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 쪽 주차 되는 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구 쪽 휠체어 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구에서 장애인 화장실 있는 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서구에서 주차 되는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구 근처 유모차 가능한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구 근처 유모차 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구 근처 장애인 화장실 있는 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구 기준으로 주차 되는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구 기준으로 휠체어 가능한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구 산책 코스 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구 쪽 주차 되는 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구 쪽 휠체어 가능한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구만 말하면 어디 지역인지 애매하지 않아", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구만 말하면 어디 지역인지 애매하지 않아 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 중구에서 장애인 화장실 있는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 근처 휠체어 가능한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 기준으로 유모차 가능한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 기준으로 휠체어 가능한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 실내 명소 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 아이랑 갈 만한 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 여행 정보 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 주차 되는 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 쪽 아이랑 갈 만한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 쪽 장애인 화장실 있는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구 휠체어 가능한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구만 말하면 어디 지역인지 애매하지 않아 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "강서구에서 휠체어 가능한 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군 기준으로 휠체어 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군 박물관 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군 부모님과 가기 좋은 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군 부모님과 가기 좋은 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군 여행지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군 쪽 부모님과 가기 좋은 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군 쪽 유모차 가능한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군 휠체어 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군만 말하면 어디 지역인지 애매하지 않아 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "고성군만 말하면 어디 지역인지 애매하지 않아 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 가족 여행지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 근처 아이랑 갈 만한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 근처 아이랑 갈 만한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 기준으로 유모차 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 기준으로 장애인 화장실 있는 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 기준으로 주차 되는 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 쪽 유모차 가능한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 쪽 장애인 화장실 있는 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구 쪽 휠체어 가능한 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "남구에서 장애인 화장실 있는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 근처 장애인 화장실 있는 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 근처 주차 되는 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 기준으로 유모차 가능한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 부모님과 가기 좋은 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 시장 말고 볼거리 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 여행 정보 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 여행지 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 유모차 가능한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 쪽 부모님과 가기 좋은 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구 쪽 휠체어 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "동구에서 부모님과 가기 좋은 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 근처 아이랑 갈 만한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 기준으로 부모님과 가기 좋은 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 시장 말고 볼거리 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 실내 명소 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 유모차 가능한 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 주차 되는 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 쪽 아이랑 갈 만한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 쪽 장애인 화장실 있는 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강서구 쪽 주차 되는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 관광지 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 근처 부모님과 가기 좋은 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 근처 아이랑 갈 만한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 근처 유모차 가능한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 근처 유모차 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 근처 유모차 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 근처 휠체어 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 기준으로 부모님과 가기 좋은 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 기준으로 장애인 화장실 있는 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 기준으로 장애인 화장실 있는 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 기준으로 휠체어 가능한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 박물관 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 시장 말고 볼거리 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 시장 말고 볼거리 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 실내 명소 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 유모차 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 주차 되는 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 쪽 휠체어 가능한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 쪽으로 갈 건데 어디인지 확인 필요해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군 쪽으로 갈 건데 어디인지 확인 필요해 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군에서 장애인 화장실 있는 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 고성군에서 주차 되는 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 근처 아이랑 갈 만한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 근처 주차 되는 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 근처 휠체어 가능한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 근처 휠체어 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 기준으로 아이랑 갈 만한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 기준으로 장애인 화장실 있는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 기준으로 주차 되는 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 산책 코스 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 실내 명소 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 장애인 화장실 있는 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 주차 되는 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구 쪽 장애인 화장실 있는 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구에서 유모차 가능한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 남구에서 휠체어 가능한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구 관광지 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구 근처 유모차 가능한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구 기준으로 휠체어 가능한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구 기준으로 휠체어 가능한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구 실내 명소 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구 장애인 화장실 있는 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구 주차 되는 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구 쪽 아이랑 갈 만한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구에서 아이랑 갈 만한 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구에서 장애인 화장실 있는 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 동구에서 주차 되는 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 근처 부모님과 가기 좋은 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 기준으로 부모님과 가기 좋은 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 기준으로 부모님과 가기 좋은 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 기준으로 장애인 화장실 있는 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 기준으로 주차 되는 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 기준으로 휠체어 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 산책 코스 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 시장 말고 볼거리 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 실내 명소 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 실내 명소 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 주차 되는 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 쪽 부모님과 가기 좋은 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 쪽 아이랑 갈 만한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 쪽 장애인 화장실 있는 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구 쪽으로 갈 건데 어디인지 확인 필요해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구에서 주차 되는 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 북구에서 휠체어 가능한 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 근처 부모님과 가기 좋은 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 근처 부모님과 가기 좋은 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 근처 아이랑 갈 만한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 근처 장애인 화장실 있는 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 근처 주차 되는 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 기준으로 부모님과 가기 좋은 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 기준으로 아이랑 갈 만한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 기준으로 유모차 가능한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 기준으로 주차 되는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 기준으로 휠체어 가능한 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 부모님과 가기 좋은 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 산책 코스 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 시장 말고 볼거리 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 여행지 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 여행지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 장애인 화장실 있는 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 쪽 유모차 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 쪽 장애인 화장실 있는 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 쪽 주차 되는 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구 쪽으로 갈 건데 어디인지 확인 필요해 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구만 말하면 어디 지역인지 애매하지 않아 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서구에서 아이랑 갈 만한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 가족 여행지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 근처 부모님과 가기 좋은 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 근처 아이랑 갈 만한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 근처 장애인 화장실 있는 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 기준으로 장애인 화장실 있는 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 기준으로 휠체어 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 기준으로 휠체어 가능한 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 아이랑 갈 만한 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 아이랑 갈 만한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 여행지 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구 쪽 장애인 화장실 있는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 중구에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 가족 여행지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 근처 부모님과 가기 좋은 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 근처 장애인 화장실 있는 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 기준으로 아이랑 갈 만한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 기준으로 유모차 가능한 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 기준으로 장애인 화장실 있는 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 시장 말고 볼거리 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 아이랑 갈 만한 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 쪽 부모님과 가기 좋은 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구 쪽 휠체어 가능한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구에서 아이랑 갈 만한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구에서 주차 되는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "북구에서 주차 되는 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 근처 유모차 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 근처 주차 되는 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 근처 주차 되는 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 기준으로 휠체어 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 시장 말고 볼거리 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 시장 말고 볼거리 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 실내 명소 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 여행지 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 쪽 주차 되는 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구 쪽 주차 되는 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구에서 유모차 가능한 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "서구에서 유모차 가능한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 근처 부모님과 가기 좋은 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 근처 휠체어 가능한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 기준으로 아이랑 갈 만한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 기준으로 유모차 가능한 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 기준으로 장애인 화장실 있는 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 기준으로 장애인 화장실 있는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 유모차 가능한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 주차 되는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 쪽 장애인 화장실 있는 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 쪽 장애인 화장실 있는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강서구 휠체어 가능한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 관광지 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 근처 유모차 가능한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 기준으로 휠체어 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 부모님과 가기 좋은 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 시장 말고 볼거리 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 실내 명소 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 아이랑 갈 만한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 여행 정보", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 주차 되는 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 주차 되는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 쪽 아이랑 갈 만한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 쪽 아이랑 갈 만한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군 쪽 유모차 가능한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군에서 장애인 화장실 있는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 고성군에서 주차 되는 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 근처 아이랑 갈 만한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 근처 아이랑 갈 만한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 근처 유모차 가능한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 기준으로 아이랑 갈 만한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 산책 코스 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 시장 말고 볼거리 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 실내 명소 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 아이랑 갈 만한 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 아이랑 갈 만한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 주차 되는 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 쪽 아이랑 갈 만한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 쪽 아이랑 갈 만한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구 쪽 주차 되는 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구에서 부모님과 가기 좋은 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구에서 부모님과 가기 좋은 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 남구에서 아이랑 갈 만한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 근처 아이랑 갈 만한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 근처 유모차 가능한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 근처 유모차 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 근처 주차 되는 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 근처 휠체어 가능한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 근처 휠체어 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 기준으로 아이랑 갈 만한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 여행 정보 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 유모차 가능한 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 주차 되는 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 쪽 아이랑 갈 만한 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 쪽 장애인 화장실 있는 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 쪽 주차 되는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구 쪽 휠체어 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구에서 장애인 화장실 있는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 동구에서 휠체어 가능한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 가족 여행지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 근처 유모차 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 근처 휠체어 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 기준으로 주차 되는 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 기준으로 휠체어 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 부모님과 가기 좋은 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 산책 코스 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 산책 코스 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 실내 명소 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 아이랑 갈 만한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 유모차 가능한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 쪽 부모님과 가기 좋은 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 쪽 주차 되는 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구 쪽 주차 되는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구만 말하면 어디 지역인지 애매하지 않아 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구에서 부모님과 가기 좋은 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 북구에서 주차 되는 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 관광지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 근처 유모차 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 근처 휠체어 가능한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 기준으로 유모차 가능한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 유모차 가능한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 유모차 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 쪽 장애인 화장실 있는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 쪽으로 갈 건데 어디인지 확인 필요해 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구 쪽으로 갈 건데 어디인지 확인 필요해 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구에서 부모님과 가기 좋은 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구에서 아이랑 갈 만한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구에서 아이랑 갈 만한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구에서 장애인 화장실 있는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서구에서 휠체어 가능한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 근처 아이랑 갈 만한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 근처 장애인 화장실 있는 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 기준으로 장애인 화장실 있는 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 산책 코스 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 아이랑 갈 만한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 여행 정보", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 유모차 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 쪽 아이랑 갈 만한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 쪽 유모차 가능한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구 휠체어 가능한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구만 말하면 어디 지역인지 애매하지 않아", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 중구만 말하면 어디 지역인지 애매하지 않아 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 관광지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 근처 장애인 화장실 있는 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 근처 휠체어 가능한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 근처 휠체어 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 기준으로 주차 되는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 산책 코스 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 여행 정보", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 쪽 아이랑 갈 만한 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구 쪽 휠체어 가능한 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구에서 유모차 가능한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강서구에서 휠체어 가능한 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 가족 여행지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 근처 아이랑 갈 만한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 기준으로 아이랑 갈 만한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 박물관 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 산책 코스 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 여행 정보 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 쪽 아이랑 갈 만한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 쪽 휠체어 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군 휠체어 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 고성군에서 장애인 화장실 있는 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 가족 여행지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 근처 유모차 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 근처 휠체어 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 기준으로 주차 되는 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 여행 정보", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 여행지 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 쪽 부모님과 가기 좋은 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 쪽 부모님과 가기 좋은 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 쪽 장애인 화장실 있는 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 쪽 주차 되는 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 쪽 휠체어 가능한 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구 쪽 휠체어 가능한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구에서 부모님과 가기 좋은 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구에서 부모님과 가기 좋은 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구에서 부모님과 가기 좋은 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 남구에서 아이랑 갈 만한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 근처 휠체어 가능한 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 기준으로 부모님과 가기 좋은 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 기준으로 유모차 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 기준으로 휠체어 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 부모님과 가기 좋은 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 유모차 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 장애인 화장실 있는 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 쪽 아이랑 갈 만한 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구 쪽 장애인 화장실 있는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 동구에서 유모차 가능한 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 가족 여행지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 가족 여행지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 근처 아이랑 갈 만한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 기준으로 주차 되는 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 기준으로 휠체어 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 기준으로 휠체어 가능한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 박물관 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 박물관 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 실내 명소 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 쪽 아이랑 갈 만한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 쪽 휠체어 가능한 볼거리 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구 휠체어 가능한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구만 말하면 어디 지역인지 애매하지 않아 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구에서 아이랑 갈 만한 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 북구에서 주차 되는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 근처 부모님과 가기 좋은 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 근처 주차 되는 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 기준으로 아이랑 갈 만한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 기준으로 장애인 화장실 있는 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 기준으로 주차 되는 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 기준으로 주차 되는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 부모님과 가기 좋은 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 여행지 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 주차 되는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 쪽 부모님과 가기 좋은 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 쪽으로 갈 건데 어디인지 확인 필요해 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 쪽으로 갈 건데 어디인지 확인 필요해 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구 휠체어 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서구에서 주차 되는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 근처 아이랑 갈 만한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 근처 장애인 화장실 있는 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 근처 주차 되는 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 기준으로 아이랑 갈 만한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 기준으로 유모차 가능한 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 기준으로 주차 되는 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 장애인 화장실 있는 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 장애인 화장실 있는 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구 쪽 주차 되는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구에서 부모님과 가기 좋은 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구에서 부모님과 가기 좋은 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 중구에서 유모차 가능한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 관광지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 관광지 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 근처 주차 되는 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 근처 주차 되는 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 기준으로 장애인 화장실 있는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 산책 코스 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 산책 코스 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 시장 말고 볼거리 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 주차 되는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 쪽 휠체어 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 쪽으로 갈 건데 어디인지 확인 필요해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "중구 쪽으로 갈 건데 어디인지 확인 필요해 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 근처 아이랑 갈 만한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 근처 주차 되는 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 근처 주차 되는 명소 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 부모님과 가기 좋은 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 여행 정보 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 장애인 화장실 있는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 주차 되는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 쪽 부모님과 가기 좋은 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 쪽 장애인 화장실 있는 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 쪽 주차 되는 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 쪽 휠체어 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 휠체어 가능한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구 휠체어 가능한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구만 말하면 어디 지역인지 애매하지 않아 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구에서 부모님과 가기 좋은 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 강서구에서 주차 되는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 근처 휠체어 가능한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 기준으로 부모님과 가기 좋은 여행지 추천", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 기준으로 부모님과 가기 좋은 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 기준으로 부모님과 가기 좋은 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 기준으로 아이랑 갈 만한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 기준으로 유모차 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 기준으로 유모차 가능한 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 산책 코스 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 산책 코스 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 실내 명소 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군 유모차 가능한 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군만 말하면 어디 지역인지 애매하지 않아", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군에서 아이랑 갈 만한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군에서 주차 되는 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 고성군에서 주차 되는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 근처 아이랑 갈 만한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 근처 아이랑 갈 만한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 근처 휠체어 가능한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 기준으로 휠체어 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 산책 코스 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 시장 말고 볼거리 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 실내 명소 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 아이랑 갈 만한 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 여행지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 유모차 가능한 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 유모차 가능한 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구 쪽 유모차 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구만 말하면 어디 지역인지 애매하지 않아 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 남구에서 휠체어 가능한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 가족 여행지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 근처 유모차 가능한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 근처 장애인 화장실 있는 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 기준으로 장애인 화장실 있는 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 기준으로 휠체어 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 박물관 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 박물관 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 부모님과 가기 좋은 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 산책 코스 찾아줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 여행 정보", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 여행 정보 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 여행 정보 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 유모차 가능한 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 유모차 가능한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 장애인 화장실 있는 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 주차 되는 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 쪽 부모님과 가기 좋은 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 쪽 유모차 가능한 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구 쪽 주차 되는 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구에서 부모님과 가기 좋은 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구에서 장애인 화장실 있는 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 동구에서 장애인 화장실 있는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구 근처 유모차 가능한 명소 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구 기준으로 장애인 화장실 있는 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구 기준으로 주차 되는 여행지 추천 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구 박물관 찾아줘 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구 아이랑 갈 만한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구 여행지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구 주차 되는 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구만 말하면 어디 지역인지 애매하지 않아", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구에서 아이랑 갈 만한 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구에서 주차 되는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 북구에서 휠체어 가능한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 관광지 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 근처 유모차 가능한 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 기준으로 아이랑 갈 만한 여행지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 기준으로 주차 되는 여행지 추천 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 기준으로 주차 되는 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 기준으로 휠체어 가능한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 산책 코스 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 유모차 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 쪽 부모님과 가기 좋은 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구 쪽으로 갈 건데 어디인지 확인 필요해 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구만 말하면 어디 지역인지 애매하지 않아", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구에서 아이랑 갈 만한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구에서 장애인 화장실 있는 갈 곳 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 서구에서 주차 되는 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 근처 장애인 화장실 있는 명소", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 근처 휠체어 가능한 명소 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 근처 휠체어 가능한 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 박물관 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 부모님과 가기 좋은 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 부모님과 가기 좋은 관광지 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 실내 명소 찾아줘 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 여행 정보 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 유모차 가능한 관광지", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 장애인 화장실 있는 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 주차 되는 관광지 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 쪽 부모님과 가기 좋은 볼거리", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 쪽 부모님과 가기 좋은 볼거리 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 쪽 장애인 화장실 있는 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 쪽 휠체어 가능한 볼거리 가능할까", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구 휠체어 가능한 관광지 다시 봐줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구만 말하면 어디 지역인지 애매하지 않아 부탁해", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구에서 유모차 가능한 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구에서 장애인 화장실 있는 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "혹시 중구에서 휠체어 가능한 갈 곳", "intent": "clarify_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 쪽으로만 좁혀줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 카드만 남겨줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 경남 고성군 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 경남 고성군 쪽으로만 좁혀줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 경남 고성군 카드만 남겨줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 대구 동구 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 대구 동구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 대전 동구 근처 후보로 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 대전 동구 카드만 남겨줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 범위를 경남 고성군까지 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 범위를 대구 동구까지 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 범위를 대전 동구까지 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 범위를 대전 동구까지 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 범위를 부산 중구까지 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 범위를 울산 북구까지 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구 근처 후보로 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구 근처 후보로 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구 근처 후보로 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서울 중구 근처 후보로 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서울 중구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서울 중구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 서울 중구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 아까 지역 중 강원 고성군 위주로", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 아까 지역 중 강원 고성군 위주로 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 아까 지역 중 경남 고성군 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 아까 지역 중 대전 동구 위주로 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 아까 지역 중 대전 동구 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 아까 지역 중 울산 북구 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 아까 지역 중 인천 서구 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 울산 북구 근처 후보로 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 인천 서구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "강원 고성군 안에서만 다시 보여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "강원 고성군 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "강원 고성군 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "광주 남구 근처 후보로 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "광주 남구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "광주 남구 카드만 남겨줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "대구 동구 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "대구 동구 쪽으로만 좁혀줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "대구 동구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "대전 동구 근처 후보로 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "대전 동구 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "대전 동구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "대전 동구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "범위를 대구 동구까지 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "범위를 부산 중구까지 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "범위를 울산 북구까지 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강원 고성군 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 경남 고성군 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 광주 남구 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 광주 남구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 광주 남구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대구 동구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대구 동구 쪽으로만 좁혀줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대구 동구 카드만 남겨줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대전 동구 근처 후보로 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대전 동구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 범위를 경남 고성군까지 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 범위를 대구 동구까지 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 범위를 대전 동구까지 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 범위를 대전 동구까지 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 범위를 인천 서구까지 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 부산 중구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 부산 중구 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서울 중구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서울 중구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서울 중구 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 아까 지역 중 광주 남구 위주로 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 아까 지역 중 대전 동구 위주로 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 아까 지역 중 서울 중구 위주로 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 아까 지역 중 서울 중구 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 아까 지역 중 인천 서구 위주로 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 울산 북구 카드만 남겨줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 인천 서구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 인천 서구 안에서만 다시 보여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 인천 서구 카드만 남겨줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부산 중구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부산 중구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "부산 중구 카드만 남겨줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "서울 중구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "서울 중구 안에서만 다시 보여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "서울 중구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아까 지역 중 광주 남구 위주로 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아까 지역 중 서울 중구 위주로", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아까 지역 중 서울 중구 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아까 지역 중 울산 북구 위주로 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강원 고성군 근처 후보로 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강원 고성군 카드만 남겨줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 광주 남구 근처 후보로 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 광주 남구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 광주 남구 안에서만 다시 보여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대구 동구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대구 동구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대전 동구 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대전 동구 카드만 남겨줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 범위를 울산 북구까지 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 부산 중구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 부산 중구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구 쪽으로만 좁혀줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구 카드만 남겨줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 아까 지역 중 광주 남구 위주로 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 아까 지역 중 대구 동구 위주로 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 아까 지역 중 울산 북구 위주로 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 아까 지역 중 울산 북구 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 인천 서구 근처 후보로 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 인천 서구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 인천 서구 쪽으로만 좁혀줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 인천 서구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "울산 북구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "울산 북구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군 근처 후보로 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 광주 남구 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 광주 남구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 광주 남구 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 광주 남구 카드만 남겨줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구 근처 후보로 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구 근처 후보로 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구 카드만 남겨줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대전 동구 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대전 동구 근처 후보로 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대전 동구 쪽으로만 좁혀줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 범위를 대구 동구까지 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 범위를 대전 동구까지 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 범위를 부산 중구까지 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 범위를 서울 중구까지 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 범위를 울산 북구까지 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 부산 중구 근처 후보로 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 부산 중구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 부산 중구 카드만 남겨줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서울 중구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 아까 지역 중 부산 중구 위주로", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 아까 지역 중 서울 중구 위주로 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 아까 지역 중 서울 중구 위주로 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 아까 지역 중 서울 중구 위주로 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 아까 지역 중 울산 북구 위주로 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 아까 지역 중 인천 서구 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 울산 북구 근처 후보로 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 인천 서구 쪽으로만 좁혀줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 인천 서구 쪽으로만 좁혀줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 인천 서구 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 인천 서구 카드만 남겨줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "인천 서구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 강원 고성군 근처 후보로 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 강원 고성군 안에서만 다시 보여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 강원 고성군 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 강원 고성군 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 광주 남구 카드만 남겨줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구 근처 후보로 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구 근처 후보로 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구 카드만 남겨줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구 근처 후보로 줄여줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구 근처 후보로 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구 근처 후보로 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구 쪽으로만 좁혀줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 범위를 강원 고성군까지 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 범위를 광주 남구까지 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 범위를 광주 남구까지 줄여줘 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 범위를 울산 북구까지 줄여줘 부탁해", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 범위를 인천 서구까지 줄여줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 부산 중구 근처 후보로 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 부산 중구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 아까 지역 중 강원 고성군 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 아까 지역 중 대전 동구 위주로", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 아까 지역 중 울산 북구 위주로 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 아까 지역 중 울산 북구 위주로 알려줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 아까 지역 중 인천 서구 위주로", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 울산 북구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 울산 북구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "혹시 울산 북구 카드만 남겨줘 다시 봐줘", "intent": "narrow_region", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 관광지 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 볼거리 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 산책 코스 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 여행 정보 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 유모차 가능한 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 장애인 화장실 있는 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군 휠체어 가능한 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 강원 고성군에서 유모차 가능한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 경남 고성군 볼거리 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 경남 고성군 산책 코스 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 경남 고성군 여행지 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 경남 고성군에서 장애인 화장실 있는 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 경남 고성군에서 장애인 화장실 있는 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 광주 남구 관광지 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 광주 남구 산책 코스 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 광주 남구 아이랑 갈 만한 관광지", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 광주 남구 휠체어 가능한 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 광주 남구에서 장애인 화장실 있는 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 광주 남구에서 장애인 화장실 있는 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 대구 동구 볼거리 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 대구 동구 여행 정보", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 대구 동구에서 아이랑 갈 만한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 대전 동구에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 대전 동구에서 아이랑 갈 만한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구 여행 정보", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구 휠체어 가능한 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구에서 유모차 가능한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 부산 중구에서 휠체어 가능한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 서울 중구 아이랑 갈 만한 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 서울 중구에서 유모차 가능한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 울산 북구에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 울산 북구에서 아이랑 갈 만한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 울산 북구에서 유모차 가능한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 인천 서구 볼거리 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 인천 서구 여행 정보 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "가능하면 인천 서구 여행지 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "강원 고성군 장애인 화장실 있는 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "강원 고성군에서 휠체어 가능한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "강원 고성군에서 휠체어 가능한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "경남 고성군 여행지 추천 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "경남 고성군에서 휠체어 가능한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "광주 남구 장애인 화장실 있는 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "광주 남구에서 유모차 가능한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대구 동구 볼거리 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대구 동구 여행지 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대구 동구에서 유모차 가능한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대구 동구에서 장애인 화장실 있는 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대구 동구에서 휠체어 가능한 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대전 동구 볼거리 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대전 동구 아이랑 갈 만한 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대전 동구 여행 정보 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대전 동구 장애인 화장실 있는 관광지 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "대전 동구에서 아이랑 갈 만한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강원 고성군에서 아이랑 갈 만한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 강원 고성군에서 장애인 화장실 있는 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 경남 고성군 아이랑 갈 만한 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 경남 고성군에서 아이랑 갈 만한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 경남 고성군에서 휠체어 가능한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 광주 남구 관광지 추천 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 광주 남구 볼거리 추천 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 광주 남구 여행지 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 광주 남구에서 휠체어 가능한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대구 동구 아이랑 갈 만한 관광지", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대구 동구 유모차 가능한 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대구 동구에서 휠체어 가능한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대전 동구 관광지 추천 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 대전 동구에서 유모차 가능한 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 부산 중구 산책 코스 추천 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 부산 중구 유모차 가능한 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서울 중구 볼거리 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서울 중구 여행지 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서울 중구 여행지 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 서울 중구에서 휠체어 가능한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 울산 북구 아이랑 갈 만한 관광지", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 울산 북구 아이랑 갈 만한 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 울산 북구 여행 정보", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 울산 북구 유모차 가능한 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 울산 북구 장애인 화장실 있는 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부모님 모시고 인천 서구에서 아이랑 갈 만한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "부산 중구에서 휠체어 가능한 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "서울 중구 장애인 화장실 있는 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "서울 중구 휠체어 가능한 관광지", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "서울 중구에서 장애인 화장실 있는 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강원 고성군 장애인 화장실 있는 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 강원 고성군에서 아이랑 갈 만한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 경남 고성군 산책 코스 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 경남 고성군 여행지 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 경남 고성군 장애인 화장실 있는 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 경남 고성군에서 휠체어 가능한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 광주 남구 여행 정보 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 광주 남구 휠체어 가능한 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대구 동구 산책 코스 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대구 동구 장애인 화장실 있는 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대구 동구 휠체어 가능한 관광지 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대구 동구에서 휠체어 가능한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대전 동구 볼거리 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대전 동구 장애인 화장실 있는 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 대전 동구에서 유모차 가능한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 부산 중구 볼거리 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 부산 중구 여행 정보", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 부산 중구 유모차 가능한 관광지 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 부산 중구 유모차 가능한 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구 산책 코스 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구 아이랑 갈 만한 관광지", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구 장애인 화장실 있는 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구에서 장애인 화장실 있는 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구에서 장애인 화장실 있는 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 서울 중구에서 휠체어 가능한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 울산 북구에서 장애인 화장실 있는 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 인천 서구 여행지 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 인천 서구 장애인 화장실 있는 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 인천 서구에서 장애인 화장실 있는 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "아이랑 가는데 인천 서구에서 장애인 화장실 있는 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "울산 북구 산책 코스 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "울산 북구 유모차 가능한 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "울산 북구에서 장애인 화장실 있는 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군 여행 정보 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군 여행 정보 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군 장애인 화장실 있는 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군 휠체어 가능한 관광지 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군에서 아이랑 갈 만한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 강원 고성군에서 휠체어 가능한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 경남 고성군 여행 정보", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 경남 고성군 유모차 가능한 관광지", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 경남 고성군 유모차 가능한 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 경남 고성군 장애인 화장실 있는 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 경남 고성군에서 아이랑 갈 만한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 광주 남구 산책 코스 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 광주 남구에서 휠체어 가능한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구 볼거리 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구 산책 코스 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구 휠체어 가능한 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구에서 아이랑 갈 만한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구에서 유모차 가능한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대구 동구에서 휠체어 가능한 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대전 동구 관광지 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대전 동구 산책 코스 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 대전 동구에서 휠체어 가능한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 부산 중구 여행 정보 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 부산 중구 장애인 화장실 있는 관광지 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 부산 중구에서 장애인 화장실 있는 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서울 중구 관광지 추천 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서울 중구 관광지 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서울 중구 볼거리 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서울 중구 휠체어 가능한 관광지", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 서울 중구에서 유모차 가능한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 울산 북구 산책 코스 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 인천 서구 유모차 가능한 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "이번 여행에서 인천 서구에서 아이랑 갈 만한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "인천 서구 여행지 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "인천 서구에서 아이랑 갈 만한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "인천 서구에서 유모차 가능한 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 강원 고성군 볼거리 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 경남 고성군 관광지 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 광주 남구 장애인 화장실 있는 관광지 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 광주 남구 장애인 화장실 있는 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 광주 남구에서 아이랑 갈 만한 갈 곳", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 광주 남구에서 장애인 화장실 있는 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 광주 남구에서 휠체어 가능한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구 여행 정보", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구 여행 정보 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구에서 장애인 화장실 있는 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 대구 동구에서 휠체어 가능한 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구 관광지 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구 산책 코스 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구 유모차 가능한 관광지 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 대전 동구에서 장애인 화장실 있는 갈 곳 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 부산 중구 여행지 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 부산 중구에서 휠체어 가능한 갈 곳 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 서울 중구 볼거리 추천 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 서울 중구 산책 코스 추천 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 서울 중구 여행 정보 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 서울 중구 휠체어 가능한 관광지 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 울산 북구 여행지 추천", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 인천 서구 아이랑 갈 만한 관광지", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 인천 서구 아이랑 갈 만한 관광지 가능할까", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 인천 서구 아이랑 갈 만한 관광지 다시 봐줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 인천 서구 아이랑 갈 만한 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 인천 서구 여행 정보 알려줘", "intent": "recommend_places", "source": "region_clarify_stress"}
+{"text": "혹시 인천 서구 여행지 추천 부탁해", "intent": "recommend_places", "source": "region_clarify_stress"}

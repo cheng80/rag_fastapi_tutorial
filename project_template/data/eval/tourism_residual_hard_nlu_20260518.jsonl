@@ -1,0 +1,250 @@
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0001", "source": "residual_hard_eval_20260518", "text": "대전에서 어른 모시고 오래 걷지 않는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0002", "source": "residual_hard_eval_20260518", "text": "대구에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0003", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 무릎 안 좋은 부모님이 계단 적게 다닐 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0004", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 걷는 거리 짧고 중간에 쉴 수 있는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0005", "source": "residual_hard_eval_20260518", "text": "제주시에서 오래 서 있지 않아도 관람 가능한 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0006", "source": "residual_hard_eval_20260518", "text": "강릉에서 걷는 거리 짧고 중간에 쉴 수 있는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0007", "source": "residual_hard_eval_20260518", "text": "대구에서 부모님 모시고 화장실 찾기 곤란하지 않은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0008", "source": "residual_hard_eval_20260518", "text": "대전에서 어머니가 자주 앉아 쉬면서 볼 수 있는 관광지"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0009", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 노약자 동행하기 편한 실내 관광지"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0010", "source": "residual_hard_eval_20260518", "text": "대구에서 앉을 자리 많은 관광지 위주로"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0011", "source": "residual_hard_eval_20260518", "text": "전주에서 오래 서 있지 않아도 관람 가능한 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0012", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 어머니가 자주 앉아 쉬면서 볼 수 있는 관광지"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0013", "source": "residual_hard_eval_20260518", "text": "성남시에서 앉을 자리 많은 관광지 위주로"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0014", "source": "residual_hard_eval_20260518", "text": "강릉에서 부모님 모시고 화장실 찾기 곤란하지 않은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0015", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 계단 오르내림이 적고 쉬는 공간 있는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0016", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 부모님 모시고 화장실 찾기 곤란하지 않은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0017", "source": "residual_hard_eval_20260518", "text": "대전에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0018", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 부모님 모시고 화장실 찾기 곤란하지 않은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0019", "source": "residual_hard_eval_20260518", "text": "성남시에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0020", "source": "residual_hard_eval_20260518", "text": "강릉에서 앉을 자리 많은 관광지 위주로"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0021", "source": "residual_hard_eval_20260518", "text": "성남시에서 노약자 동행하기 편한 실내 관광지"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0022", "source": "residual_hard_eval_20260518", "text": "대전에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0023", "source": "residual_hard_eval_20260518", "text": "강릉에서 어머니가 자주 앉아 쉬면서 볼 수 있는 관광지"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0024", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0025", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0026", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0027", "source": "residual_hard_eval_20260518", "text": "대전에서 앉을 자리 많은 관광지 위주로"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0028", "source": "residual_hard_eval_20260518", "text": "강릉에서 걷는 거리 짧고 중간에 쉴 수 있는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0029", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0030", "source": "residual_hard_eval_20260518", "text": "강릉에서 어른 모시고 오래 걷지 않는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0031", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 앉을 자리 많은 관광지 위주로"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0032", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0033", "source": "residual_hard_eval_20260518", "text": "제주시에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0034", "source": "residual_hard_eval_20260518", "text": "대구에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0035", "source": "residual_hard_eval_20260518", "text": "강릉에서 걷는 거리 짧고 중간에 쉴 수 있는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0036", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 다리 약한 분이 부담 없이 둘러보는 코스"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0037", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 오래 서 있지 않아도 관람 가능한 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0038", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 어르신이 화장실이랑 쉼터 찾기 쉬운 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0039", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0040", "source": "residual_hard_eval_20260518", "text": "대전에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0041", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0042", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 어르신이 화장실이랑 쉼터 찾기 쉬운 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0043", "source": "residual_hard_eval_20260518", "text": "대전에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0044", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 무릎 안 좋은 부모님이 계단 적게 다닐 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0045", "source": "residual_hard_eval_20260518", "text": "대구에서 앉을 자리 많은 관광지 위주로"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0046", "source": "residual_hard_eval_20260518", "text": "제주시에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0047", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 무릎 안 좋은 부모님이 계단 적게 다닐 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0048", "source": "residual_hard_eval_20260518", "text": "대전에서 무릎 안 좋은 부모님이 계단 적게 다닐 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0049", "source": "residual_hard_eval_20260518", "text": "성남시에서 다리 약한 분이 부담 없이 둘러보는 코스"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0050", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 어머니가 자주 앉아 쉬면서 볼 수 있는 관광지"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0051", "source": "residual_hard_eval_20260518", "text": "대구에서 어머니가 자주 앉아 쉬면서 볼 수 있는 관광지"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0052", "source": "residual_hard_eval_20260518", "text": "제주시에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0053", "source": "residual_hard_eval_20260518", "text": "전주에서 무릎 안 좋은 부모님이 계단 적게 다닐 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0054", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 다리 약한 분이 부담 없이 둘러보는 코스"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0055", "source": "residual_hard_eval_20260518", "text": "강릉에서 무릎 안 좋은 부모님이 계단 적게 다닐 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0056", "source": "residual_hard_eval_20260518", "text": "강릉에서 연세 있는 분이 천천히 관람하기 좋은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0057", "source": "residual_hard_eval_20260518", "text": "강릉에서 허리 불편한 분이 쉬어가며 볼 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0058", "source": "residual_hard_eval_20260518", "text": "성남시에서 앉을 자리 많은 관광지 위주로"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0059", "source": "residual_hard_eval_20260518", "text": "성남시에서 무릎 안 좋은 부모님이 계단 적게 다닐 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0060", "source": "residual_hard_eval_20260518", "text": "성남시에서 쉬엄쉬엄 이동해도 동선이 끊기지 않는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0061", "source": "residual_hard_eval_20260518", "text": "전주에서 앉을 자리 많은 관광지 위주로"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0062", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 오래 서 있지 않아도 관람 가능한 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0063", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 쉬엄쉬엄 이동해도 동선이 끊기지 않는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0064", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 쉬엄쉬엄 이동해도 동선이 끊기지 않는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0065", "source": "residual_hard_eval_20260518", "text": "성남시에서 무릎 안 좋은 부모님이 계단 적게 다닐 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0066", "source": "residual_hard_eval_20260518", "text": "성남시에서 부모님 컨디션이 안 좋아도 무리 적은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0067", "source": "residual_hard_eval_20260518", "text": "성남시에서 어른 모시고 오래 걷지 않는 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0068", "source": "residual_hard_eval_20260518", "text": "성남시에서 부모님 컨디션이 안 좋아도 무리 적은 곳"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0069", "source": "residual_hard_eval_20260518", "text": "제주시에서 다리 약한 분이 부담 없이 둘러보는 코스"}
+{"category": "residual:senior", "expected_conditions": ["고령자"], "id": "RESHARD-0070", "source": "residual_hard_eval_20260518", "text": "성남시에서 어른 모시고 오래 걷지 않는 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0071", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 장애인 주챠칸 있는 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0072", "source": "residual_hard_eval_20260518", "text": "전주에서 주자창 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0073", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 차에서 내려 바로 이동 가능한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0074", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 입구앞 차 댈 수 있는 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0075", "source": "residual_hard_eval_20260518", "text": "대구에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0076", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 주챠 편한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0077", "source": "residual_hard_eval_20260518", "text": "전주에서 주차장서 많이 안 걷는 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0078", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 주차공간 확인되는 무장애 관광지"}
+{"category": "residual:parking_negated", "expected_conditions": [], "id": "RESHARD-0079", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 주차말고 접근 쉬운 곳"}
+{"category": "residual:parking_negated", "expected_conditions": ["대중교통"], "id": "RESHARD-0080", "source": "residual_hard_eval_20260518", "text": "강릉에서 주챠 아니고 대중교통으로 갈 곳"}
+{"category": "residual:parking_negated", "expected_conditions": [], "id": "RESHARD-0081", "source": "residual_hard_eval_20260518", "text": "제주시에서 주차말고 접근 쉬운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0082", "source": "residual_hard_eval_20260518", "text": "제주시에서 보호자차 세우기 쉬운 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0083", "source": "residual_hard_eval_20260518", "text": "대전에서 입구앞 차 댈 수 있는 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0084", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0085", "source": "residual_hard_eval_20260518", "text": "강릉에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_negated", "expected_conditions": [], "id": "RESHARD-0086", "source": "residual_hard_eval_20260518", "text": "제주시에서 주차말고 접근 쉬운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0087", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 보호자차 세우기 쉬운 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0088", "source": "residual_hard_eval_20260518", "text": "제주시에서 입구앞 차 댈 수 있는 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0089", "source": "residual_hard_eval_20260518", "text": "대전에서 차에서 내려 바로 이동 가능한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0090", "source": "residual_hard_eval_20260518", "text": "전주에서 주챠 편한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0091", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 보호자차 세우기 쉬운 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0092", "source": "residual_hard_eval_20260518", "text": "강릉에서 차대기 편한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0093", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0094", "source": "residual_hard_eval_20260518", "text": "전주에서 주챠 편한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0095", "source": "residual_hard_eval_20260518", "text": "대전에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0096", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0097", "source": "residual_hard_eval_20260518", "text": "강릉에서 주차공간 확인되는 무장애 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0098", "source": "residual_hard_eval_20260518", "text": "강릉에서 차에서 내려 바로 이동 가능한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0099", "source": "residual_hard_eval_20260518", "text": "전주에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_negated", "expected_conditions": [], "id": "RESHARD-0100", "source": "residual_hard_eval_20260518", "text": "성남시에서 주차말고 접근 쉬운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0101", "source": "residual_hard_eval_20260518", "text": "성남시에서 주차공간 확인되는 무장애 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0102", "source": "residual_hard_eval_20260518", "text": "대전에서 주차ㅏ 되는 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0103", "source": "residual_hard_eval_20260518", "text": "대전에서 차대기 편한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0104", "source": "residual_hard_eval_20260518", "text": "성남시에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0105", "source": "residual_hard_eval_20260518", "text": "강릉에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0106", "source": "residual_hard_eval_20260518", "text": "전주에서 차대기 편한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0107", "source": "residual_hard_eval_20260518", "text": "성남시에서 주차장서 많이 안 걷는 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0108", "source": "residual_hard_eval_20260518", "text": "강릉에서 차대기 편한 곳"}
+{"category": "residual:parking_negated", "expected_conditions": [], "id": "RESHARD-0109", "source": "residual_hard_eval_20260518", "text": "성남시에서 주차말고 접근 쉬운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0110", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 장애인 주챠칸 있는 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0111", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 장애인 주챠칸 있는 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0112", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 승하차 위치 가까운 데로"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0113", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 차에서 내려 바로 이동 가능한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0114", "source": "residual_hard_eval_20260518", "text": "대구에서 차에서 내려 바로 이동 가능한 곳"}
+{"category": "residual:parking_negated", "expected_conditions": ["대중교통"], "id": "RESHARD-0115", "source": "residual_hard_eval_20260518", "text": "대전에서 주챠 아니고 대중교통으로 갈 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0116", "source": "residual_hard_eval_20260518", "text": "전주에서 주자창 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0117", "source": "residual_hard_eval_20260518", "text": "제주시에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0118", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 주차공간 확인되는 무장애 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0119", "source": "residual_hard_eval_20260518", "text": "전주에서 차대기 편한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0120", "source": "residual_hard_eval_20260518", "text": "성남시에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_negated", "expected_conditions": [], "id": "RESHARD-0121", "source": "residual_hard_eval_20260518", "text": "강릉에서 주차말고 접근 쉬운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0122", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0123", "source": "residual_hard_eval_20260518", "text": "성남시에서 차에서 내려 바로 이동 가능한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0124", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0125", "source": "residual_hard_eval_20260518", "text": "전주에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0126", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 보호자차 세우기 쉬운 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0127", "source": "residual_hard_eval_20260518", "text": "제주시에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_negated", "expected_conditions": ["대중교통"], "id": "RESHARD-0128", "source": "residual_hard_eval_20260518", "text": "강릉에서 주챠 아니고 대중교통으로 갈 곳"}
+{"category": "residual:parking_negated", "expected_conditions": [], "id": "RESHARD-0129", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 주차말고 접근 쉬운 곳"}
+{"category": "residual:parking_negated", "expected_conditions": ["대중교통"], "id": "RESHARD-0130", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 주챠 아니고 대중교통으로 갈 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0131", "source": "residual_hard_eval_20260518", "text": "제주시에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0132", "source": "residual_hard_eval_20260518", "text": "대구에서 주챠 편한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0133", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 주차장서 많이 안 걷는 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0134", "source": "residual_hard_eval_20260518", "text": "제주시에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0135", "source": "residual_hard_eval_20260518", "text": "대구에서 차 세우고 바로 들어갈만한 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0136", "source": "residual_hard_eval_20260518", "text": "대전에서 입구앞 차 댈 수 있는 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0137", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 주차공간 확인되는 무장애 관광지"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0138", "source": "residual_hard_eval_20260518", "text": "전주에서 주차장서 많이 안 걷는 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0139", "source": "residual_hard_eval_20260518", "text": "강릉에서 주차되는데 입구 가까운 곳"}
+{"category": "residual:parking_typo", "expected_conditions": ["주차"], "id": "RESHARD-0140", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 차대기 편한 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0141", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 바퀴의자로 이동해도 내부 관람 가능한 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0142", "source": "residual_hard_eval_20260518", "text": "전주에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:ambiguous_or_general", "expected_conditions": [], "id": "RESHARD-0143", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 그냥 걷기 편한 산책길"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0144", "source": "residual_hard_eval_20260518", "text": "강릉에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0145", "source": "residual_hard_eval_20260518", "text": "제주시에서 휠체어 사용자 동선이 확인되는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0146", "source": "residual_hard_eval_20260518", "text": "대구에서 출입통로가 넓고 턱이 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0147", "source": "residual_hard_eval_20260518", "text": "강릉에서 휠체어 사용자 동선이 확인되는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0148", "source": "residual_hard_eval_20260518", "text": "강릉에서 출입통로가 넓고 턱이 적은 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0149", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 바퀴 이동 가능한데 경사로 근거도 있는 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0150", "source": "residual_hard_eval_20260518", "text": "성남시에서 휠체어 사용자 동선이 확인되는 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0151", "source": "residual_hard_eval_20260518", "text": "제주시에서 바퀴 이동 가능한데 경사로 근거도 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0152", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0153", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 바퀴의자로 이동해도 내부 관람 가능한 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0154", "source": "residual_hard_eval_20260518", "text": "대전에서 휠체어 동행과 출입통로 넓은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0155", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 바퀴의자로 이동해도 내부 관람 가능한 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0156", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0157", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 시작 지점부터 길이 끊기지 않는 장소"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0158", "source": "residual_hard_eval_20260518", "text": "강릉에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0159", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 휠챠 쓰는 사람이 직접 들어갈 수 있는 관광지"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0160", "source": "residual_hard_eval_20260518", "text": "대구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0161", "source": "residual_hard_eval_20260518", "text": "성남시에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:ambiguous_or_general", "expected_conditions": [], "id": "RESHARD-0162", "source": "residual_hard_eval_20260518", "text": "성남시에서 그냥 걷기 편한 산책길"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0163", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 입구 경사로나 평탄한 길이 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0164", "source": "residual_hard_eval_20260518", "text": "제주시에서 문턱 없는 분위기 좋은 카페 말고 관광지만"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0165", "source": "residual_hard_eval_20260518", "text": "대전에서 출입통로가 넓고 턱이 적은 곳"}
+{"category": "boundary:ambiguous_or_general", "expected_conditions": [], "id": "RESHARD-0166", "source": "residual_hard_eval_20260518", "text": "전주에서 분위기 편한 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0167", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 바퀴 이동 가능한데 경사로 근거도 있는 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0168", "source": "residual_hard_eval_20260518", "text": "제주시에서 휠챠 쓰는 사람이 직접 들어갈 수 있는 관광지"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0169", "source": "residual_hard_eval_20260518", "text": "대전에서 휠체어 동행과 출입통로 넓은 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0170", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0171", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 앉은 채 이동하는 사람이 들어갈 수 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0172", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0173", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 주출입구 높낮이 차가 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0174", "source": "residual_hard_eval_20260518", "text": "강릉에서 출입통로가 넓고 턱이 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0175", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 주출입구 높낮이 차가 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0176", "source": "residual_hard_eval_20260518", "text": "성남시에서 휠체어 사용자 동선이 확인되는 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0177", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 휠체어 사용자 동선이 확인되는 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0178", "source": "residual_hard_eval_20260518", "text": "전주에서 휠체어 동행과 출입통로 넓은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0179", "source": "residual_hard_eval_20260518", "text": "전주에서 주출입구 높낮이 차가 적은 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0180", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0181", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0182", "source": "residual_hard_eval_20260518", "text": "대구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0183", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0184", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 바퀴 이동 가능한데 경사로 근거도 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0185", "source": "residual_hard_eval_20260518", "text": "대구에서 시작 지점부터 길이 끊기지 않는 장소"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0186", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0187", "source": "residual_hard_eval_20260518", "text": "성남시에서 휠챠 쓰는 사람이 직접 들어갈 수 있는 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0188", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0189", "source": "residual_hard_eval_20260518", "text": "성남시에서 입구 경사로나 평탄한 길이 있는 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0190", "source": "residual_hard_eval_20260518", "text": "강릉에서 휠챠 쓰는 사람이 직접 들어갈 수 있는 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0191", "source": "residual_hard_eval_20260518", "text": "전주에서 시작 지점부터 길이 끊기지 않는 장소"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0192", "source": "residual_hard_eval_20260518", "text": "전주에서 시작 지점부터 길이 끊기지 않는 장소"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0193", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 휠챠 쓰는 사람이 직접 들어갈 수 있는 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0194", "source": "residual_hard_eval_20260518", "text": "대구에서 문턱 없는 분위기 좋은 카페 말고 관광지만"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0195", "source": "residual_hard_eval_20260518", "text": "제주시에서 바퀴의자로 이동해도 내부 관람 가능한 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0196", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0197", "source": "residual_hard_eval_20260518", "text": "대구에서 출입통로가 넓고 턱이 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0198", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 휠체어 타고 입구부터 관람까지 가능한 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0199", "source": "residual_hard_eval_20260518", "text": "대구에서 바퀴의자로 이동해도 내부 관람 가능한 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0200", "source": "residual_hard_eval_20260518", "text": "대전에서 바퀴 이동 가능한데 경사로 근거도 있는 곳"}
+{"category": "boundary:ambiguous_or_general", "expected_conditions": [], "id": "RESHARD-0201", "source": "residual_hard_eval_20260518", "text": "전주에서 그냥 걷기 편한 산책길"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0202", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0203", "source": "residual_hard_eval_20260518", "text": "성남시에서 주출입구 높낮이 차가 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0204", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 앉은 채 이동하는 사람이 들어갈 수 있는 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0205", "source": "residual_hard_eval_20260518", "text": "대구에서 휠체어 동행과 출입통로 넓은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0206", "source": "residual_hard_eval_20260518", "text": "성남시에서 앉은 채 이동하는 사람이 들어갈 수 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0207", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 시작 지점부터 길이 끊기지 않는 장소"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0208", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0209", "source": "residual_hard_eval_20260518", "text": "제주시에서 바퀴 이동 가능한데 경사로 근거도 있는 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0210", "source": "residual_hard_eval_20260518", "text": "성남시에서 휠체어 동행과 출입통로 넓은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0211", "source": "residual_hard_eval_20260518", "text": "전주에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0212", "source": "residual_hard_eval_20260518", "text": "대전에서 문턱 없는 분위기 좋은 카페 말고 관광지만"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0213", "source": "residual_hard_eval_20260518", "text": "대구에서 앉은 채 이동하는 사람이 들어갈 수 있는 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0214", "source": "residual_hard_eval_20260518", "text": "대전에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0215", "source": "residual_hard_eval_20260518", "text": "성남시에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0216", "source": "residual_hard_eval_20260518", "text": "전주에서 문턱 없는 분위기 좋은 카페 말고 관광지만"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0217", "source": "residual_hard_eval_20260518", "text": "대구에서 입구 경사로나 평탄한 길이 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0218", "source": "residual_hard_eval_20260518", "text": "대구에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0219", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 앉은 채 이동하는 사람이 들어갈 수 있는 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0220", "source": "residual_hard_eval_20260518", "text": "서울 강남구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0221", "source": "residual_hard_eval_20260518", "text": "대전에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0222", "source": "residual_hard_eval_20260518", "text": "성남시에서 바퀴의자로 이동해도 내부 관람 가능한 곳"}
+{"category": "boundary:ambiguous_or_general", "expected_conditions": [], "id": "RESHARD-0223", "source": "residual_hard_eval_20260518", "text": "대전에서 그냥 걷기 편한 산책길"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0224", "source": "residual_hard_eval_20260518", "text": "전주에서 휠체어 타고 입구부터 관람까지 가능한 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0225", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 출입통로가 넓고 턱이 적은 곳"}
+{"category": "boundary:ambiguous_or_general", "expected_conditions": [], "id": "RESHARD-0226", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 그냥 걷기 편한 산책길"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0227", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0228", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 휠챠 쓰는 사람이 직접 들어갈 수 있는 관광지"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0229", "source": "residual_hard_eval_20260518", "text": "성남시에서 앉은 채 이동하는 사람이 들어갈 수 있는 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0230", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0231", "source": "residual_hard_eval_20260518", "text": "전주에서 휠체어 타고 입구부터 관람까지 가능한 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0232", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 시작 지점부터 길이 끊기지 않는 장소"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0233", "source": "residual_hard_eval_20260518", "text": "전주에서 시작 지점부터 길이 끊기지 않는 장소"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0234", "source": "residual_hard_eval_20260518", "text": "전주에서 문 앞 단차가 낮은 관광지"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0235", "source": "residual_hard_eval_20260518", "text": "대전에서 앉은 채 이동하는 사람이 들어갈 수 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0236", "source": "residual_hard_eval_20260518", "text": "서귀포시에서 출입통로가 넓고 턱이 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0237", "source": "residual_hard_eval_20260518", "text": "강릉에서 입구 경사로나 평탄한 길이 있는 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0238", "source": "residual_hard_eval_20260518", "text": "대구에서 휠체어 사용자 동선이 확인되는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0239", "source": "residual_hard_eval_20260518", "text": "성남시에서 문턱 없는 분위기 좋은 카페 말고 관광지만"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0240", "source": "residual_hard_eval_20260518", "text": "대전에서 휠체어 타고 입구부터 관람까지 가능한 곳"}
+{"category": "boundary:ambiguous_or_general", "expected_conditions": [], "id": "RESHARD-0241", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 분위기 편한 곳"}
+{"category": "boundary:ambiguous_or_general", "expected_conditions": [], "id": "RESHARD-0242", "source": "residual_hard_eval_20260518", "text": "대구에서 분위기 편한 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0243", "source": "residual_hard_eval_20260518", "text": "강릉에서 휠챠 쓰는 사람이 직접 들어갈 수 있는 관광지"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0244", "source": "residual_hard_eval_20260518", "text": "대전에서 주출입구 높낮이 차가 적은 곳"}
+{"category": "boundary:wheelchair", "expected_conditions": ["휠체어"], "id": "RESHARD-0245", "source": "residual_hard_eval_20260518", "text": "성남시에서 앉은 채 이동하는 사람이 들어갈 수 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0246", "source": "residual_hard_eval_20260518", "text": "대전에서 입구 경사로나 평탄한 길이 있는 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0247", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 입구 경사로나 평탄한 길이 있는 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0248", "source": "residual_hard_eval_20260518", "text": "서울 중구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}
+{"category": "boundary:access_route", "expected_conditions": ["접근로"], "id": "RESHARD-0249", "source": "residual_hard_eval_20260518", "text": "전주에서 출입통로가 넓고 턱이 적은 곳"}
+{"category": "boundary:both", "expected_conditions": ["휠체어", "접근로"], "id": "RESHARD-0250", "source": "residual_hard_eval_20260518", "text": "부산 중구에서 휠체어로 갈 수 있고 입구 단차도 적은 곳"}

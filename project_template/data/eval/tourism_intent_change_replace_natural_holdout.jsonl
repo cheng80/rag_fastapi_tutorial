@@ -1,0 +1,600 @@
+{"text": "가능하면 기저귀 갈 곳 있는 데", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 기저귀 갈 곳 있는 데 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 기저귀 갈 곳 있는 데 부탁", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 기저귀 갈 곳 있는 데?", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 기저귀 갈 곳 있는 데요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 보조견 동반 가능한 곳 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 수유실 있는 관광지 중심으로", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 수유실 있는 관광지 중심으로 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 수유실 있는 관광지 중심으로 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 수유실 있는 관광지 중심으로 부탁", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 유모차 끌기 좋은 길인가요 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 장애인 화장실 있는 곳도 봐줘요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 점자블록 설치된 곳으로 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 점자블록 설치된 곳으로 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 점자블록 설치된 곳으로?", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 점자블록 설치된 곳으로요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 주차 공간 넓은 곳으로 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "경사로 확인되는 곳 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "경사로 확인되는 곳요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "기저귀 갈 곳 있는 데", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "기저귀 갈 곳 있는 데?", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "기저귀 갈 곳 있는 데요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "보조견 동반 가능한 곳 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "보조견 동반 가능한 곳 부탁", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "보조견 동반 가능한 곳?", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "보조견 동반 가능한 곳요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 경사로 확인되는 곳 부탁", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 경사로 확인되는 곳 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 기저귀 갈 곳 있는 데 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 기저귀 갈 곳 있는 데 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 기저귀 갈 곳 있는 데 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 보조견 동반 가능한 곳", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 보조견 동반 가능한 곳 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 수유실 있는 관광지 중심으로", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 수유실 있는 관광지 중심으로 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 수유실 있는 관광지 중심으로 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 수유실 있는 관광지 중심으로 부탁", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 수유실 있는 관광지 중심으로?", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 수유실 있는 관광지 중심으로요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 유모차 끌기 좋은 길인가요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 유모차 끌기 좋은 길인가요 부탁", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 유모차 끌기 좋은 길인가요요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 장애인 화장실 있는 곳도 봐줘 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 점자블록 설치된 곳으로", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 주차 공간 넓은 곳으로 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 주차 공간 넓은 곳으로 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 주차 공간 넓은 곳으로?", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "수유실 있는 관광지 중심으로", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "수유실 있는 관광지 중심으로 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "수유실 있는 관광지 중심으로 부탁", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 경사로 확인되는 곳", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 기저귀 갈 곳 있는 데 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 보조견 동반 가능한 곳 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 보조견 동반 가능한 곳 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 보조견 동반 가능한 곳요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 수유실 있는 관광지 중심으로", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 수유실 있는 관광지 중심으로 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 수유실 있는 관광지 중심으로 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 장애인 화장실 있는 곳도 봐줘 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 장애인 화장실 있는 곳도 봐줘 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 장애인 화장실 있는 곳도 봐줘 알려줘", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 장애인 화장실 있는 곳도 봐줘?", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 점자블록 설치된 곳으로 부탁", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 주차 공간 넓은 곳으로 가능해", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "장애인 화장실 있는 곳도 봐줘?", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "점자블록 설치된 곳으로", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "점자블록 설치된 곳으로 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "주차 공간 넓은 곳으로", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "주차 공간 넓은 곳으로 다시", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "주차 공간 넓은 곳으로요", "intent": "add_condition", "source": "change_replace_natural_holdout"}
+{"text": "강릉으로 갈아탈게", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "강릉으로 갈아탈게 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "강원도로 검색해 줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "강원도로 검색해 줘 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "경북 쪽으로 바꿔서 추천?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "그 지역 말고 다른 데 찾아줘 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "그 지역 말고 다른 데 찾아줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "다음엔 전주 가고 싶어 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "대구 지역으로 다시 볼래 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 강릉으로 갈아탈게 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 강원도로 검색해 줘 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 강원도로 검색해 줘 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 경북 쪽으로 바꿔서 추천 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 그 지역 말고 다른 데 찾아줘 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 그 지역 말고 다른 데 찾아줘 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 다음엔 전주 가고 싶어요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 대구 지역으로 다시 볼래 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 대구 지역으로 다시 볼래 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 부산 중구 말고 서울 중구로 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 부산 중구 말고 서울 중구로 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 부산 중구 말고 서울 중구로?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 부산 중구 말고 서울 중구로요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 부산에서 다른 곳으로 옮겨줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 부산에서 다른 곳으로 옮겨줘 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 부산에서 다른 곳으로 옮겨줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 서울 말고 부산으로", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 서울 말고 부산으로 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 속초 쪽으로 바꿔 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 이번에는 경상도 여행이요 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 이번에는 경상도 여행이요 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 이번엔 여수로 가보자?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 전남 쪽으로 바꿔서 알려줘 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 전남 쪽으로 바꿔서 알려줘?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 전남 쪽으로 바꿔서 알려줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 전에 말한 지역 말고 딴 곳으로 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 제주시 후보 말고 서귀포시 후보 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 지역 변경할래", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 지역 변경할래 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 지역 변경할래 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 지역 변경할래?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 지역을 다시 고를게 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 지역을 다시 고를게 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 지역을 다시 고를게요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 충청북도 쪽으로 바꿔서 보여줘?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 충청북도 쪽으로 바꿔서 보여줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "부산 중구 말고 서울 중구로요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "부산에서 다른 곳으로 옮겨줘 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "부산에서 다른 곳으로 옮겨줘 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "부산에서 다른 곳으로 옮겨줘 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "서울 말고 부산으로 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "서울 말고 부산으로요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "속초 쪽으로 바꿔 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "속초 쪽으로 바꿔 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "속초 쪽으로 바꿔?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 강릉으로 갈아탈게 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 강원도로 검색해 줘 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 강원도로 검색해 줘 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 경북 쪽으로 바꿔서 추천 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 경북 쪽으로 바꿔서 추천 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다음엔 전주 가고 싶어", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다음엔 전주 가고 싶어 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다음엔 전주 가고 싶어요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 대구 지역으로 다시 볼래 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 대구 지역으로 다시 볼래 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 부산 중구 말고 서울 중구로 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 부산 중구 말고 서울 중구로요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 부산에서 다른 곳으로 옮겨줘 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 서울 말고 부산으로 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 속초 쪽으로 바꿔", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 속초 쪽으로 바꿔 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 속초 쪽으로 바꿔 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 속초 쪽으로 바꿔요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 이번에는 경상도 여행이요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 이번에는 경상도 여행이요 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 이번에는 경상도 여행이요 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 이번에는 경상도 여행이요요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 전남 쪽으로 바꿔서 알려줘 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 전에 말한 지역 말고 딴 곳으로", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 제주도 말고 강릉으로 바꿀래 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 지역 변경할래 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 지역 변경할래?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 지역을 다시 고를게 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 지역을 다시 고를게 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 지역을 다시 고를게 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 지역을 다시 고를게요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 충청북도 쪽으로 바꿔서 보여줘 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 충청북도 쪽으로 바꿔서 보여줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 강릉으로 갈아탈게 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 강릉으로 갈아탈게 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 경북 쪽으로 바꿔서 추천?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 경북 쪽으로 바꿔서 추천요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 그 지역 말고 다른 데 찾아줘 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 그 지역 말고 다른 데 찾아줘 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 다음엔 전주 가고 싶어 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 다음엔 전주 가고 싶어 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 대구 지역으로 다시 볼래", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 부산 중구 말고 서울 중구로 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 부산 중구 말고 서울 중구로 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 부산에서 다른 곳으로 옮겨줘?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 부산에서 다른 곳으로 옮겨줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 서울 말고 부산으로?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 서울 말고 부산으로요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 속초 쪽으로 바꿔?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 이번에는 경상도 여행이요요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 이번엔 여수로 가보자?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 이번엔 여수로 가보자요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 전남 쪽으로 바꿔서 알려줘 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 전에 말한 지역 말고 딴 곳으로 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 전에 말한 지역 말고 딴 곳으로?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 전에 말한 지역 말고 딴 곳으로요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 제주도 말고 강릉으로 바꿀래 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 제주도 말고 강릉으로 바꿀래요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 지역 변경할래", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 지역 변경할래 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 지역 변경할래 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 지역을 다시 고를게 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 지역을 다시 고를게?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 충청북도 쪽으로 바꿔서 보여줘 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "음 충청북도 쪽으로 바꿔서 보여줘?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번에는 경상도 여행이요 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번에는 경상도 여행이요 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번에는 경상도 여행이요 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번에는 경상도 여행이요 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번에는 경상도 여행이요요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 강릉으로 갈아탈게", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 강릉으로 갈아탈게 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 강릉으로 갈아탈게 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 강릉으로 갈아탈게요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 강원도로 검색해 줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 경북 쪽으로 바꿔서 추천 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 경북 쪽으로 바꿔서 추천 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 경북 쪽으로 바꿔서 추천 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 경북 쪽으로 바꿔서 추천?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 경북 쪽으로 바꿔서 추천요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 그 지역 말고 다른 데 찾아줘 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 그 지역 말고 다른 데 찾아줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 대구 지역으로 다시 볼래", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 대구 지역으로 다시 볼래 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 부산에서 다른 곳으로 옮겨줘?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 부산에서 다른 곳으로 옮겨줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 서울 말고 부산으로 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 속초 쪽으로 바꿔 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 여수로 가보자 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 이번에는 경상도 여행이요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 이번에는 경상도 여행이요 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 이번에는 경상도 여행이요 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 이번엔 여수로 가보자", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 전남 쪽으로 바꿔서 알려줘?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 전에 말한 지역 말고 딴 곳으로", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 전에 말한 지역 말고 딴 곳으로요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 제주도 말고 강릉으로 바꿀래 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 제주시 후보 말고 서귀포시 후보?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 지금 여기 말고 광주 지역은?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 지금 여기 말고 광주 지역은요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 지역 변경할래 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 지역 변경할래 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 지역 변경할래?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 지역을 다시 고를게", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 지역을 다시 고를게 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 지역을 다시 고를게요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 충청북도 쪽으로 바꿔서 보여줘요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "전남 쪽으로 바꿔서 알려줘 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "전에 말한 지역 말고 딴 곳으로 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "전에 말한 지역 말고 딴 곳으로 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "전에 말한 지역 말고 딴 곳으로 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "전에 말한 지역 말고 딴 곳으로 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "전에 말한 지역 말고 딴 곳으로?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "전에 말한 지역 말고 딴 곳으로요", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "제주도 말고 강릉으로 바꿀래 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "제주도 말고 강릉으로 바꿀래 부탁", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "제주도 말고 강릉으로 바꿀래 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "제주도 말고 강릉으로 바꿀래?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "제주시 후보 말고 서귀포시 후보 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "제주시 후보 말고 서귀포시 후보 알려줘", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "지금 여기 말고 광주 지역은", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "지역 변경할래 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "지역 변경할래?", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "지역을 다시 고를게 가능해", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "지역을 다시 고를게 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "충청북도 쪽으로 바꿔서 보여줘 다시", "intent": "change_region", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 놀이공원은 안 가고 싶어 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 놀이공원은 안 가고 싶어 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 놀이공원은 안 가고 싶어?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 먹자골목 느낌은 빼줘 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 먹자골목 느낌은 빼줘 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 먹자골목 느낌은 빼줘 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 먹자골목 느낌은 빼줘?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 쇼핑몰 성격은 제외 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 쇼핑몰 성격은 제외 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 시장은 빼고 추천", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 시장은 빼고 추천 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 시장은 빼고 추천?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 시장은 빼고 추천요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 아이들과 가서 술집은 빼줘 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 아이들과 가서 술집은 빼줘 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 유흥 시설은 전부 빼줘 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 유흥 시설은 전부 빼줘?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 전통 시장은 됐어 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 카페는 이번에 안 갈래", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 테마파크는 이번엔 안 가려고 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 테마파크는 이번엔 안 가려고?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 패밀리 레스토랑은 추천 안 해줘도 돼 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 패밀리 레스토랑은 추천 안 해줘도 돼 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 패밀리 레스토랑은 추천 안 해줘도 돼?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 호텔이나 숙박은 제외 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 호텔이나 숙박은 제외 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 호텔이나 숙박은 제외?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 호텔이나 숙박은 제외요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "놀이공원은 안 가고 싶어요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "먹자골목 느낌은 빼줘 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "먹자골목 느낌은 빼줘요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 놀이공원은 안 가고 싶어 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 먹자골목 느낌은 빼줘 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 먹자골목 느낌은 빼줘 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 쇼핑몰 성격은 제외 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 쇼핑몰 성격은 제외?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 시장은 빼고 추천 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 시장은 빼고 추천?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 아이들과 가서 술집은 빼줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 아이들과 가서 술집은 빼줘 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 아이들과 가서 술집은 빼줘 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 유흥 시설은 전부 빼줘 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 전통 시장은 됐어 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 전통 시장은 됐어 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 전통 시장은 됐어 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 카페는 이번에 안 갈래 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 키즈카페나 놀이방 있는 곳은 사양할게 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 패밀리 레스토랑은 추천 안 해줘도 돼?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 호텔이나 숙박은 제외", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 호텔이나 숙박은 제외 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 호텔이나 숙박은 제외 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 호텔이나 숙박은 제외?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "쇼핑몰 성격은 제외 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "쇼핑몰 성격은 제외 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "쇼핑몰 성격은 제외 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "쇼핑몰 성격은 제외요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "시장은 빼고 추천 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "시장은 빼고 추천 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "시장은 빼고 추천 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "시장은 빼고 추천요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "아이들과 가서 술집은 빼줘 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "아이들과 가서 술집은 빼줘 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 놀이공원은 안 가고 싶어", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 놀이공원은 안 가고 싶어 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 놀이공원은 안 가고 싶어요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 먹자골목 느낌은 빼줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 먹자골목 느낌은 빼줘 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 쇼핑몰 성격은 제외", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 쇼핑몰 성격은 제외 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 시장은 빼고 추천", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 시장은 빼고 추천 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 시장은 빼고 추천 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 아이들과 가서 술집은 빼줘 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 아이들과 가서 술집은 빼줘?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 유흥 시설은 전부 빼줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 유흥 시설은 전부 빼줘 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 유흥 시설은 전부 빼줘?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 전통 시장은 됐어 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 전통 시장은 됐어 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 전통 시장은 됐어요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 카페는 이번에 안 갈래 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 카페는 이번에 안 갈래 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 테마파크는 이번엔 안 가려고 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 테마파크는 이번엔 안 가려고 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 테마파크는 이번엔 안 가려고?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 패밀리 레스토랑은 추천 안 해줘도 돼", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 패밀리 레스토랑은 추천 안 해줘도 돼 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "음 호텔이나 숙박은 제외 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "카페는 이번에 안 갈래 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "카페는 이번에 안 갈래 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "카페는 이번에 안 갈래요", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "키즈카페나 놀이방 있는 곳은 사양할게", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "키즈카페나 놀이방 있는 곳은 사양할게?", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "테마파크는 이번엔 안 가려고 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "테마파크는 이번엔 안 가려고 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "테마파크는 이번엔 안 가려고 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "패밀리 레스토랑은 추천 안 해줘도 돼 가능해", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "패밀리 레스토랑은 추천 안 해줘도 돼 다시", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "호텔이나 숙박은 제외 부탁", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "호텔이나 숙박은 제외 알려줘", "intent": "exclude_preference", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 경북 여행 추천 좀", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 경북 여행 추천 좀 알려줘", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 경북 여행 추천 좀?", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 대전 명소는 뭐가 있어", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 대전 명소는 뭐가 있어 알려줘", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 부산 쪽 관광지 찾아줘 다시", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 부산 쪽 관광지 찾아줘?", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 서울 여행 정보 알려줘", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 서울 여행 정보 알려줘 가능해", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 서울 여행 정보 알려줘 알려줘", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 제주도 가볼만한 곳 다시", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가능하면 제주도 가볼만한 곳요", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "강원도 여행 계획 중인데 관광지 추천 가능해", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "강원도 여행 계획 중인데 관광지 추천 부탁", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 강원도 여행 계획 중인데 관광지 추천", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 경북 여행 추천 좀요", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 대전 명소는 뭐가 있어", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 서울 여행 정보 알려줘 부탁", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "부모님이랑 갈 건데 서울 여행 정보 알려줘요", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "부산 쪽 관광지 찾아줘 가능해", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "부산 쪽 관광지 찾아줘 부탁", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "부산 쪽 관광지 찾아줘 알려줘", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "음 경북 여행 추천 좀?", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "음 대전 명소는 뭐가 있어 다시", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "음 부산 쪽 관광지 찾아줘", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "음 서울 여행 정보 알려줘?", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "음 제주도 가볼만한 곳", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "음 제주도 가볼만한 곳 다시", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "음 제주도 가볼만한 곳요", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "제주도 가볼만한 곳 부탁", "intent": "recommend_places", "source": "change_replace_natural_holdout"}
+{"text": "가이드 투어 말고 자유 여행 코스 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "가이드 투어 말고 자유 여행 코스 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "가이드 투어 말고 자유 여행 코스?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "가이드 투어 말고 자유 여행 코스요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "대중교통 말고 자가용 기준으로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "무료 입장 말고 유료라도 좋은 데요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "박물관 말고 공원 위주로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "박물관 말고 공원 위주로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 무료 입장 말고 유료라도 좋은 데", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 무료 입장 말고 유료라도 좋은 데 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 무료 입장 말고 유료라도 좋은 데?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 박물관 말고 공원 위주로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 박물관 말고 공원 위주로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 버스 투어 말고 도보 투어로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 버스 투어 말고 도보 투어로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 시장 위주 말고 산책 위주 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 시장 조건 빼고 박물관으로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 시장 조건 빼고 박물관으로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 시장 조건 빼고 박물관으로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 식당 기준 말고 관광지 접근성 기준으로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 식당 기준 말고 관광지 접근성 기준으로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 실내 말고 야외로 볼래", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 실내 말고 야외로 볼래 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 실내 말고 야외로 볼래 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 아기 의자 대신 유아용 카시트 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 역사 유적지 말고 자연 경관 좋은 곳 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 역사 유적지 말고 자연 경관 좋은 곳?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 오전 투어 말고 오후 투어로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 오전 투어 말고 오후 투어로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 오전 투어 말고 오후 투어로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 유모차 말고 휠체어로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 유모차 말고 휠체어로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 유모차 말고 휠체어로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 장애인 편의시설 말고 노약자 편의시설 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 장애인 편의시설 말고 노약자 편의시설 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 조용한 곳 말고 활기찬 시장 같은 데 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 조용한 곳 말고 활기찬 시장 같은 데?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 주차보다 장애인 화장실을 우선해줘 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 주차보다 장애인 화장실을 우선해줘 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 주차보다 장애인 화장실을 우선해줘?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 주차보다 장애인 화장실을 우선해줘요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 휠체어 말고 유모차로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 휠체어 말고 유모차로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 휠체어 말고 유모차로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 휠체어 조건 취소하고 유모차로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 휠체어 조건 취소하고 유모차로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과 말고 휠체어 조건 취소하고 유모차로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "시장 위주 말고 산책 위주 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "시장 위주 말고 산책 위주요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "시장 조건 빼고 박물관으로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "시장 조건 빼고 박물관으로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "시장 조건 빼고 박물관으로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "시장 조건 빼고 박물관으로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "실내 말고 야외로 볼래", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "실내 말고 야외로 볼래 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아기 의자 대신 유아용 카시트 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아기 의자 대신 유아용 카시트 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아기 의자 대신 유아용 카시트요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 가이드 투어 말고 자유 여행 코스 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 대중교통 말고 자가용 기준으로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 대중교통 말고 자가용 기준으로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 무료 입장 말고 유료라도 좋은 데 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 박물관 말고 공원 위주로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 박물관 말고 공원 위주로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 버스 투어 말고 도보 투어로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 버스 투어 말고 도보 투어로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 버스 투어 말고 도보 투어로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 버스 투어 말고 도보 투어로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 시장 위주 말고 산책 위주 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 시장 위주 말고 산책 위주?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 식당 기준 말고 관광지 접근성 기준으로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 식당 기준 말고 관광지 접근성 기준으로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 식당 기준 말고 관광지 접근성 기준으로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 아기 의자 대신 유아용 카시트 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 아기 의자 대신 유아용 카시트?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 역사 유적지 말고 자연 경관 좋은 곳 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 역사 유적지 말고 자연 경관 좋은 곳 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 오전 투어 말고 오후 투어로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 오전 투어 말고 오후 투어로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 장애인 편의시설 말고 노약자 편의시설 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 장애인 편의시설 말고 노약자 편의시설 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 조용한 곳 말고 활기찬 시장 같은 데 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 주차보다 장애인 화장실을 우선해줘 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 휠체어 말고 유모차로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 휠체어 말고 유모차로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 휠체어 말고 유모차로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 휠체어 조건 취소하고 유모차로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "역사 유적지 말고 자연 경관 좋은 곳", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "오전 투어 말고 오후 투어로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "유모차 말고 휠체어로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "유모차 말고 휠체어로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "유모차 말고 휠체어로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "유모차 말고 휠체어로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "유모차 말고 휠체어로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 가이드 투어 말고 자유 여행 코스 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 가이드 투어 말고 자유 여행 코스 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 대중교통 말고 자가용 기준으로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 대중교통 말고 자가용 기준으로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 대중교통 말고 자가용 기준으로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 대중교통 말고 자가용 기준으로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 무료 입장 말고 유료라도 좋은 데 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 무료 입장 말고 유료라도 좋은 데 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 박물관 말고 공원 위주로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 박물관 말고 공원 위주로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 박물관 말고 공원 위주로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 박물관 말고 공원 위주로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 버스 투어 말고 도보 투어로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 버스 투어 말고 도보 투어로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 시장 위주 말고 산책 위주요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 시장 조건 빼고 박물관으로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 시장 조건 빼고 박물관으로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 시장 조건 빼고 박물관으로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 식당 기준 말고 관광지 접근성 기준으로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 실내 말고 야외로 볼래", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 실내 말고 야외로 볼래 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 아기 의자 대신 유아용 카시트", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 아기 의자 대신 유아용 카시트 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 역사 유적지 말고 자연 경관 좋은 곳 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 역사 유적지 말고 자연 경관 좋은 곳 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 오전 투어 말고 오후 투어로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 유모차 말고 휠체어로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 유모차 말고 휠체어로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 장애인 편의시설 말고 노약자 편의시설 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 장애인 편의시설 말고 노약자 편의시설 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 장애인 편의시설 말고 노약자 편의시설 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 장애인 편의시설 말고 노약자 편의시설 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 조용한 곳 말고 활기찬 시장 같은 데 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 조용한 곳 말고 활기찬 시장 같은 데 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 조용한 곳 말고 활기찬 시장 같은 데 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 휠체어 말고 유모차로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "음 휠체어 조건 취소하고 유모차로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 대중교통 말고 자가용 기준으로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 대중교통 말고 자가용 기준으로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 대중교통 말고 자가용 기준으로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 무료 입장 말고 유료라도 좋은 데", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 무료 입장 말고 유료라도 좋은 데 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 무료 입장 말고 유료라도 좋은 데?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 무료 입장 말고 유료라도 좋은 데요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 박물관 말고 공원 위주로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 버스 투어 말고 도보 투어로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 버스 투어 말고 도보 투어로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 시장 위주 말고 산책 위주 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 시장 조건 빼고 박물관으로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 시장 조건 빼고 박물관으로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 식당 기준 말고 관광지 접근성 기준으로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 식당 기준 말고 관광지 접근성 기준으로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 식당 기준 말고 관광지 접근성 기준으로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 식당 기준 말고 관광지 접근성 기준으로?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 아기 의자 대신 유아용 카시트", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 아기 의자 대신 유아용 카시트 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 아기 의자 대신 유아용 카시트 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 아기 의자 대신 유아용 카시트요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 역사 유적지 말고 자연 경관 좋은 곳요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 오전 투어 말고 오후 투어로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 오전 투어 말고 오후 투어로 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 유모차 말고 휠체어로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 유모차 말고 휠체어로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 유모차 말고 휠체어로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 유모차 말고 휠체어로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 장애인 편의시설 말고 노약자 편의시설 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 장애인 편의시설 말고 노약자 편의시설?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 조용한 곳 말고 활기찬 시장 같은 데 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 조용한 곳 말고 활기찬 시장 같은 데 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 조용한 곳 말고 활기찬 시장 같은 데요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 주차보다 장애인 화장실을 우선해줘 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 주차보다 장애인 화장실을 우선해줘?", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 휠체어 말고 유모차로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 휠체어 말고 유모차로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 휠체어 조건 취소하고 유모차로", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "이번엔 휠체어 조건 취소하고 유모차로 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "장애인 편의시설 말고 노약자 편의시설 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "조용한 곳 말고 활기찬 시장 같은 데 가능해", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "조용한 곳 말고 활기찬 시장 같은 데 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "조용한 곳 말고 활기찬 시장 같은 데 알려줘", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "조용한 곳 말고 활기찬 시장 같은 데요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "주차보다 장애인 화장실을 우선해줘 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "휠체어 말고 유모차로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "휠체어 말고 유모차로 부탁", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "휠체어 말고 유모차로요", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "휠체어 조건 취소하고 유모차로 다시", "intent": "replace_condition", "source": "change_replace_natural_holdout"}
+{"text": "남은 정보도 보여줘 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "다른 선택지는 없나 다시", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "다른 선택지는 없나 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "다음 추천 보여줘 다시", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "다음 페이지로 넘어가줘 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "더 많은 여행지 추천해줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "더 많은 여행지 추천해줘 가능해", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "더 많은 여행지 추천해줘 다시", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "더 많은 여행지 추천해줘 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "더 많은 여행지 추천해줘?", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 남은 정보도 보여줘 부탁", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 남은 정보도 보여줘 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 남은 정보도 보여줘?", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 다른 곳도 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 다른 곳도 알려줘요", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 다른 선택지는 없나 부탁", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 다음 추천 보여줘 부탁", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 다음 추천 보여줘?", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 다음 페이지로 넘어가줘 다시", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 다음 페이지로 넘어가줘 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 더 많은 여행지 추천해줘 다시", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 더 많은 여행지 추천해줘 부탁", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "방금 결과에서 더 많은 여행지 추천해줘요", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 남은 정보도 보여줘?", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다른 곳도 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다른 곳도 알려줘 가능해", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다른 곳도 알려줘?", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다른 선택지는 없나 가능해", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다른 선택지는 없나 다시", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다른 선택지는 없나 부탁", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 다음 페이지로 넘어가줘 다시", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 더 많은 여행지 추천해줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "아까 거에서 더 많은 여행지 추천해줘요", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "음 남은 정보도 보여줘요", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "음 다른 곳도 알려줘", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "음 다른 곳도 알려줘?", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "음 다른 선택지는 없나 가능해", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "음 다른 선택지는 없나 부탁", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "음 다음 추천 보여줘 다시", "intent": "show_more", "source": "change_replace_natural_holdout"}
+{"text": "음 더 많은 여행지 추천해줘 가능해", "intent": "show_more", "source": "change_replace_natural_holdout"}

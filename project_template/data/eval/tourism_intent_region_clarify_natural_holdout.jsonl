@@ -1,0 +1,600 @@
+{"text": "대충 강서구는 됐고 서울 강서구 다시", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 강서구는 됐고 서울 강서구 부탁", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 강서구는 됐고 서울 강서구요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 고성군 말고 강원 고성군으로?", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 이번엔 경남 고성군으로 바꿀래 부탁", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 전에 말한 곳 말고 광주 남구 부탁", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구 말고 부산 중구로 바꿔?", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 지역을 부산 중구로 다시 선택 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "동구 말고 대구 동구로 봐줘 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "동구 말고 대구 동구로 봐줘?", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강서구는 됐고 서울 강서구 다시", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강서구는 됐고 서울 강서구 알려줘", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구 말고 대구 동구로 봐줘 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구 말고 대구 동구로 봐줘 좀", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 서울 중구 말고 부산 중구 다시", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 전에 말한 곳 말고 광주 남구 알려줘", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구는 됐고 서울 강서구?", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구는 됐고 서울 강서구요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서울 중구 말고 부산 중구 다시", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 강서구는 됐고 서울 강서구 다시", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 동구 말고 대구 동구로 봐줘 좀", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 서울 중구 말고 부산 중구 좀", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 이번엔 경남 고성군으로 바꿀래 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 전에 말한 곳 말고 광주 남구", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 전에 말한 곳 말고 광주 남구?", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 말고 부산 중구로 바꿔 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 말고 부산 중구로 바꿔 알려줘", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 지역을 부산 중구로 다시 선택 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구는 됐고 서울 강서구 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구는 됐고 서울 강서구 부탁", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 말고 대구 동구로 봐줘 다시", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 서울 중구 말고 부산 중구 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 서울 중구 말고 부산 중구 부탁", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 말고 부산 중구로 바꿔", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 말고 부산 중구로 바꿔 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 지역을 부산 중구로 다시 선택 좀", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 지역을 부산 중구로 다시 선택요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번엔 경남 고성군으로 바꿀래요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 강서구는 됐고 서울 강서구 가능해", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군 말고 강원 고성군으로", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군 말고 강원 고성군으로 알려줘", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군 말고 강원 고성군으로?", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 동구 말고 대구 동구로 봐줘", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서울 중구 말고 부산 중구 좀", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 전에 말한 곳 말고 광주 남구", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 말고 부산 중구로 바꿔 부탁", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 말고 부산 중구로 바꿔요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 지역을 부산 중구로 다시 선택요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "전에 말한 곳 말고 광주 남구 알려줘", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "지역을 부산 중구로 다시 선택", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "지역을 부산 중구로 다시 선택요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 강서구는 됐고 서울 강서구 다시", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 고성군 말고 강원 고성군으로요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서울 중구 말고 부산 중구?", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서울 중구 말고 부산 중구요", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 이번엔 경남 고성군으로 바꿀래", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 말고 부산 중구로 바꿔", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 말고 부산 중구로 바꿔 알려줘", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 지역을 부산 중구로 다시 선택", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 지역을 부산 중구로 다시 선택?", "intent": "change_region", "source": "region_clarify_natural_holdout"}
+{"text": "강서구 아이랑 갈 곳 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "강서구 아이랑 갈 곳 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "강서구 휠체어 관광지", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "강서구 휠체어 관광지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "강서구 휠체어 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "고성군 가볼만한 곳 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "고성군 가볼만한 곳?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "고성군 가볼만한 곳요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "고성군 관광 정보 찾아줘 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "고성군 관광 정보 찾아줘?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "고성군 유모차 가능한 곳 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "남구 여행 정보", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "남구 쪽 볼거리 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "남구 쪽 볼거리?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "남구 쪽 볼거리요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "남구 휠체어 관광", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "남구 휠체어 관광 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "남구 휠체어 관광 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "남구만 말했는데 찾아줄 수 있어요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 강서구 여행", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 강서구는 서울인지 부산인지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 고성군 관광 정보 찾아줘 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 고성군이라고만 하면 애매하지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 남구 쪽 볼거리 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 남구 휠체어 관광?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 동구 관광지 어디 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 동구 아이랑 갈 데요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 동구 여행지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 동구면 어느 광역시인지 물어봐야 하지", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 동구쪽 무장애 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 북구 관광지 추천", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 북구 관광지 추천 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 북구 쪽이면 어디 북구 기준이야요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 서구 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 서구 유모차 가능 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 서구라고만 하면 어디 서구야?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구 여행지 찾아줘 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구 장애인 화장실 있는 곳 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구 장애인 화장실 있는 곳 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구 쪽으로 가려는데 지역 먼저 확인해야겠지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구 쪽이라고만 하면 알아 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구 휠체어 가능한 데 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구라면 어디 중구 말하는 거야 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구라면 어디 중구 말하는 거야 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구라면 어디 중구 말하는 거야요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구만 치면 너무 많지 않아 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구만 치면 너무 많지 않아요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "동구 근처라고 했는데 어느 동구인지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "동구 근처라고 했는데 어느 동구인지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "동구 아이랑 갈 데", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "동구 여행지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "동구쪽 무장애", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강서구 아이랑 갈 곳 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강서구 아이랑 갈 곳요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강서구 여행", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강서구 여행?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강서구 휠체어 관광지 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강서구는 서울인지 부산인지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 고성군 가볼만한 곳?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 고성군 관광 정보 찾아줘?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 고성군 관광 정보 찾아줘요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 고성군 유모차 가능한 곳 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 고성군 유모차 가능한 곳 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 고성군 유모차 가능한 곳 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 고성군은 강원도 경남 둘 다 있지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 고성군이라고만 하면 애매하지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 남구 여행 정보", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 남구 쪽 볼거리", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 남구만 말했는데 찾아줄 수 있어?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구 관광지 어디요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구 근처라고 했는데 어느 동구인지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구 아이랑 갈 데 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구 아이랑 갈 데 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구 여행지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구면 어느 광역시인지 물어봐야 하지 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구쪽 무장애 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 동구쪽 무장애요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 북구 가족 여행요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 북구 관광지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 북구 무장애 명소 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 북구면 대구인지 광주인지 모르겠네 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 서구 부모님 모시고 갈 곳 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 서구 부모님 모시고 갈 곳 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 여행지 찾아줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 여행지 찾아줘 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 여행지 찾아줘?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 유모차 갈만한 곳요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 주차 편한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 쪽으로 가려는데 지역 먼저 확인해야겠지", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 쪽으로 가려는데 지역 먼저 확인해야겠지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 쪽이라고만 하면 알아 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 휠체어 가능한 데 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 휠체어 가능한 데 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구라면 어디 중구 말하는 거야", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구만 치면 너무 많지 않아요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "북구 가족 여행?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "북구 무장애 명소", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "북구 무장애 명소 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "서구 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "서구 유모차 가능요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "서구라고만 하면 어디 서구야 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구 아이랑 갈 곳?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구 휠체어 관광지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구 휠체어 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구 휠체어 관광지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구 휠체어 관광지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구는 서울인지 부산인지 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강서구는 서울인지 부산인지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 고성군 가볼만한 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 고성군 관광 정보 찾아줘 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 고성군 관광 정보 찾아줘?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 고성군은 강원도 경남 둘 다 있지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 고성군은 강원도 경남 둘 다 있지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 고성군이라고만 하면 애매하지 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 남구 여행 정보 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 남구 쪽 볼거리요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 남구 휠체어 관광 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 남구 휠체어 관광 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 동구 관광지 어디 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 동구 관광지 어디요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 동구 아이랑 갈 데 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 동구 여행지 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 동구쪽 무장애?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 북구 관광지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 북구 무장애 명소 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 북구 쪽이면 어디 북구 기준이야", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 북구 쪽이면 어디 북구 기준이야 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 북구 쪽이면 어디 북구 기준이야 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 북구 쪽이면 어디 북구 기준이야요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 북구면 대구인지 광주인지 모르겠네", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서구 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서구 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서구라고만 하면 어디 서구야 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 관광 정보요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 맛집 말고 볼거리?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 맛집 말고 볼거리요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 여행지 찾아줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 유모차 갈만한 곳?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 주차 편한 관광지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 쪽으로 가려는데 지역 먼저 확인해야겠지", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 쪽이라고만 하면 알아 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 쪽이라고만 하면 알아 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 휠체어 가능한 데 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 휠체어 가능한 데?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구라면 어디 중구 말하는 거야 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구만 치면 너무 많지 않아 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 고성군 가볼만한 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 고성군 관광 정보 찾아줘 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 고성군 관광 정보 찾아줘 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 고성군이라고만 하면 애매하지 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 남구 여행 정보", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 남구 여행 정보 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 남구 여행 정보요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 남구 쪽 볼거리", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 남구 휠체어 관광", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 남구만 말했는데 찾아줄 수 있어 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 동구 관광지 어디 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 동구 여행지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 동구면 어느 광역시인지 물어봐야 하지", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 동구쪽 무장애 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 북구 가족 여행", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 북구 가족 여행 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 북구 관광지 추천 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 북구 관광지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 북구면 대구인지 광주인지 모르겠네 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 북구면 대구인지 광주인지 모르겠네요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 서구 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 서구 유모차 가능 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 맛집 말고 볼거리 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 맛집 말고 볼거리 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 여행지 찾아줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 여행지 찾아줘?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 유모차 갈만한 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 장애인 화장실 있는 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 쪽으로 가려는데 지역 먼저 확인해야겠지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구 쪽이라고만 하면 알아 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구만 치면 너무 많지 않아 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 중구만 치면 너무 많지 않아요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구 아이랑 갈 곳 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구 아이랑 갈 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구 여행 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구 여행 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구 휠체어 관광지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구는 서울인지 부산인지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구는 서울인지 부산인지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강서구는 서울인지 부산인지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군 가볼만한 곳", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군 가볼만한 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군 가볼만한 곳 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군 관광 정보 찾아줘 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군 관광 정보 찾아줘요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군 유모차 가능한 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군은 강원도 경남 둘 다 있지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군이라고만 하면 애매하지", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군이라고만 하면 애매하지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 남구만 말했는데 찾아줄 수 있어요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 근처라고 했는데 어느 동구인지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 아이랑 갈 데", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 아이랑 갈 데 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 여행지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 여행지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 휠체어 되는 데 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 휠체어 되는 데 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구 휠체어 되는 데?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구면 어느 광역시인지 물어봐야 하지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 동구면 어느 광역시인지 물어봐야 하지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 북구 관광지 추천", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 북구 관광지 추천 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 북구 관광지 추천 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 북구 쪽이면 어디 북구 기준이야요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 서구라고만 하면 어디 서구야 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 관광 정보요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 맛집 말고 볼거리", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 유모차 갈만한 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 휠체어 가능한 데", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 휠체어 가능한 데 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구라면 어디 중구 말하는 거야 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구라면 어디 중구 말하는 거야 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구만 치면 너무 많지 않아 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구만 치면 너무 많지 않아 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 강서구 여행 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 강서구 휠체어 관광지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 강서구 휠체어 관광지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군 관광 정보 찾아줘 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군 유모차 가능한 곳", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군은 강원도 경남 둘 다 있지 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군이라고만 하면 애매하지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 남구 여행 정보 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 남구 쪽 볼거리?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 남구 휠체어 관광 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 남구 휠체어 관광 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 남구 휠체어 관광 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 남구 휠체어 관광?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 동구 근처라고 했는데 어느 동구인지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 동구 근처라고 했는데 어느 동구인지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 동구 아이랑 갈 데 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 동구 여행지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 동구 휠체어 되는 데 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 동구면 어느 광역시인지 물어봐야 하지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 북구 가족 여행 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 북구 쪽이면 어디 북구 기준이야 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 북구면 대구인지 광주인지 모르겠네 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 북구면 대구인지 광주인지 모르겠네 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서구 관광지 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서구라고만 하면 어디 서구야 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서구라고만 하면 어디 서구야?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 관광 정보 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 맛집 말고 볼거리 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 맛집 말고 볼거리 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 여행지 찾아줘 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 장애인 화장실 있는 곳?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 주차 편한 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 쪽으로 가려는데 지역 먼저 확인해야겠지?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구 휠체어 가능한 데 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구라면 어디 중구 말하는 거야 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 중구만 치면 너무 많지 않아 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 관광 정보 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 관광 정보 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 여행지 찾아줘?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 유모차 갈만한 곳요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 장애인 화장실 있는 곳 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 장애인 화장실 있는 곳?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 주차 편한 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 주차 편한 관광지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 쪽이라고만 하면 알아?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 휠체어 가능한 데?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구라면 어디 중구 말하는 거야 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구만 치면 너무 많지 않아 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구만 치면 너무 많지 않아요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 강서구 여행 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 강서구는 서울인지 부산인지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 강서구는 서울인지 부산인지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 고성군 가볼만한 곳 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 고성군은 강원도 경남 둘 다 있지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 고성군이라고만 하면 애매하지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 남구만 말했는데 찾아줄 수 있어 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 남구만 말했는데 찾아줄 수 있어?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 동구 관광지 어디 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 동구 여행지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 동구 여행지 좀", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 동구쪽 무장애 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 북구 가족 여행요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 북구 관광지 추천 가능해", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 북구 관광지 추천 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 북구 관광지 추천?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 북구 무장애 명소 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 북구 무장애 명소요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 북구 쪽이면 어디 북구 기준이야 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 북구면 대구인지 광주인지 모르겠네 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서구 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서구 관광지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서구 유모차 가능 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 맛집 말고 볼거리 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 맛집 말고 볼거리 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 주차 편한 관광지 다시", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 주차 편한 관광지 부탁", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 주차 편한 관광지 알려줘", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 쪽으로 가려는데 지역 먼저 확인해야겠지요", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 쪽이라고만 하면 알아?", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 휠체어 가능한 데", "intent": "clarify_region", "source": "region_clarify_natural_holdout"}
+{"text": "강원 고성군 근처 후보로", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "경남 고성군 쪽만 볼래 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "고성군 중 강원 고성군으로 좁혀 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "광주 남구 위주로만 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "광주 남구 위주로만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대구 동구 쪽으로 좁혀 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대전 동구 후보만 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 강원 고성군 근처 후보로요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 경남 고성군 쪽만 볼래 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 경남 고성군 쪽만 볼래 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 대구 동구 쪽으로 좁혀 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 대전 동구 후보만 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 대전 동구 후보만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 방금 목록에서 부산 중구만 다시 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 부산 강서구 안에서 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 부산 강서구 안에서?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 서울 강서구 쪽으로만 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 서울 중구 아닌 건 빼고 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 서울 중구 아닌 건 빼고 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 아까 말한 데서 서울 중구만 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 아까 말한 데서 서울 중구만 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 아까 말한 데서 서울 중구만?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 아까 말한 데서 서울 중구만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 울산 북구로 범위 줄여 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "대충 중구 중에서도 서울 중구만 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 경남 고성군 쪽만 볼래 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 광주 남구 위주로만 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 부산 중구 카드만 남겨줘 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 서울 강서구 쪽으로만 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 아까 말한 데서 서울 중구만 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 아까 말한 데서 서울 중구만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 인천 서구 안에서만 다시요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 중구 중에서도 서울 중구만", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부산 강서구 안에서 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "부산 강서구 안에서?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아까 지역 중 경남 고성군 위주", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아까 지역 중 경남 고성군 위주 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아까 지역 중 경남 고성군 위주 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 광주 남구 위주로만 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 광주 남구 위주로만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 강서구 안에서요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서울 강서구 쪽으로만?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 아까 말한 데서 서울 중구만 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 아까 말한 데서 서울 중구만 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 아까 말한 데서 서울 중구만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 아까 지역 중 경남 고성군 위주 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 울산 북구로 범위 줄여 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 울산 북구로 범위 줄여 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 중에서도 서울 중구만 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 중구 중에서도 서울 중구만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 강원 고성군 근처 후보로요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 고성군 중 강원 고성군으로 좁혀 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 대전 동구 후보만 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 부산 중구 카드만 남겨줘 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 아까 말한 데서 서울 중구만 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 아까 지역 중 경남 고성군 위주 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 울산 북구로 범위 줄여 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 인천 서구 안에서만 다시 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "음 인천 서구 안에서만 다시?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강원 고성군 근처 후보로 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강원 고성군 근처 후보로 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군 중 강원 고성군으로 좁혀 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 고성군 중 강원 고성군으로 좁혀?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 대전 동구 후보만 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 대전 동구 후보만?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 방금 목록에서 부산 중구만 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 부산 강서구 안에서요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 서울 강서구 쪽으로만 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 서울 강서구 쪽으로만?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 아까 말한 데서 서울 중구만 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 아까 지역 중 경남 고성군 위주?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 울산 북구로 범위 줄여요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 중에서도 서울 중구만 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 중구 중에서도 서울 중구만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "인천 서구 안에서만 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 강원 고성군 근처 후보로 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군 중 강원 고성군으로 좁혀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 고성군 중 강원 고성군으로 좁혀 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 광주 남구 위주로만 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 광주 남구 위주로만 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 광주 남구 위주로만?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 대구 동구 쪽으로 좁혀 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 부산 강서구 안에서 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 부산 강서구 안에서?", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서울 강서구 쪽으로만", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 아까 말한 데서 서울 중구만 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 울산 북구로 범위 줄여", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "저기 울산 북구로 범위 줄여 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 중에서도 서울 중구만", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "중구 중에서도 서울 중구만 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 경남 고성군 쪽만 볼래 다시", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 대전 동구 후보만 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 방금 목록에서 부산 중구만 다시 좀", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 부산 강서구 안에서 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서울 강서구 쪽으로만 알려줘", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서울 중구 아닌 건 빼고요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 아까 지역 중 경남 고성군 위주 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 울산 북구로 범위 줄여 가능해", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 중에서도 서울 중구만 부탁", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 중구 중에서도 서울 중구만요", "intent": "narrow_region", "source": "region_clarify_natural_holdout"}
+{"text": "강원 고성군 관광지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "강원 고성군 관광지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "경남 고성군 여행지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "경남 고성군 유모차 관광 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "경남 고성군 유모차 관광 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "광주 남구 휠체어 가능한 곳 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "광주 남구 휠체어 가능한 곳?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대구 동구 여행지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 강원 고성군 휠체어 갈만한 곳 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 경남 고성군 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 광주 남구 관광지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 광주 남구 휠체어 가능한 곳요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 대구 동구 아이랑 갈 곳 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 대구 동구 아이랑 갈 곳 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 대구 동구 아이랑 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 대구 동구 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 부산 강서구 볼거리 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 부산 강서구 볼거리?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 부산 중구 관광 정보", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 부산 중구 관광 정보 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 부산 중구 볼거리 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 부산 중구 시장 말고 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "대충 울산 북구 가볼만한 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 강원 고성군 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 경남 고성군 여행지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 광주 남구 관광지", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 광주 남구 관광지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 대구 동구 여행지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 대구 동구 여행지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 대구 동구 여행지요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 부산 강서구 볼거리", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 부산 중구 관광 정보 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 부산 중구 볼거리 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 부산 중구 볼거리 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 부산 중구 시장 말고 관광지요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 서울 중구 휠체어 가능한 관광지", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 서울 중구 휠체어 가능한 관광지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부모님이랑 울산 북구 가볼만한 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "부산 강서구 볼거리?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "서울 강서구 가족 여행요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "서울 중구 여행지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "서울 중구 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "서울 중구 유모차 갈만한 곳 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "서울 중구 휠체어 가능한 관광지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 강원 고성군 휠체어 갈만한 곳 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 경남 고성군 여행지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 경남 고성군 유모차 관광 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 경남 고성군 유모차 관광요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 광주 남구 관광지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 대구 동구 여행지 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 대전 동구 여행 정보 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 대전 동구 여행 정보?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 대전 동구 여행 정보요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 강서구 볼거리?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 강서구 볼거리요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 중구 관광 정보요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 중구 볼거리 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 중구 볼거리?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 중구 시장 말고 관광지", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 중구 시장 말고 관광지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 부산 중구 시장 말고 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서울 강서구 가족 여행 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서울 강서구 가족 여행요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서울 중구 여행지 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 서울 중구 여행지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 울산 북구 가볼만한 곳 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "아이랑 가는데 인천 서구 무장애 관광", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "울산 북구 가볼만한 곳요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 강원 고성군 휠체어 갈만한 곳요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 경남 고성군 여행지", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 경남 고성군 여행지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 대구 동구 아이랑 갈 곳 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 대구 동구 아이랑 갈 곳 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 대구 동구 아이랑 갈 곳 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 대구 동구 여행지 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 대구 동구 여행지요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 대전 동구 여행 정보 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 부산 강서구 볼거리 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 부산 강서구 볼거리요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 부산 중구 관광 정보", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 부산 중구 관광 정보?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 부산 중구 볼거리 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 부산 중구 볼거리요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 부산 중구 시장 말고 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 서울 중구 휠체어 가능한 관광지요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 울산 북구 가볼만한 곳 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 인천 서구 무장애 관광", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 청주 서원구 여행지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "음 청주 서원구 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 강원 고성군 관광지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 경남 고성군 여행지 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 경남 고성군 여행지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 경남 고성군 유모차 관광 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 광주 남구 관광지요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 대구 동구 아이랑 갈 곳 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 대구 동구 여행지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 대구 동구 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 부산 강서구 볼거리 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 부산 중구 관광 정보 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 부산 중구 관광 정보 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 부산 중구 관광 정보?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 부산 중구 관광 정보요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 서울 중구 여행지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 서울 중구 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 서울 중구 휠체어 가능한 관광지 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "이번 여행 청주 서원구 여행지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "인천 서구 무장애 관광 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 강원 고성군 관광지요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 경남 고성군 여행지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 경남 고성군 유모차 관광 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 대구 동구 아이랑 갈 곳 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 대구 동구 아이랑 갈 곳?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 대구 동구 여행지", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 부산 강서구 볼거리 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서울 강서구 가족 여행 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서울 강서구 가족 여행?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서울 중구 여행지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서울 중구 여행지요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서울 중구 유모차 갈만한 곳 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 서울 중구 휠체어 가능한 관광지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "저기 청주 서원구 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "청주 서원구 여행지 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 경남 고성군 여행지 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 경남 고성군 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 경남 고성군 유모차 관광 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 광주 남구 휠체어 가능한 곳 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 대구 동구 아이랑 갈 곳 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 대구 동구 아이랑 갈 곳?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 대구 동구 여행지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 대전 동구 여행 정보?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 대전 동구 여행 정보요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 부산 중구 관광 정보 좀", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 부산 중구 볼거리 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 부산 중구 시장 말고 관광지", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서울 강서구 가족 여행 가능해", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서울 중구 여행지 알려줘", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서울 중구 유모차 갈만한 곳요", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 서울 중구 휠체어 가능한 관광지?", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 청주 서원구 여행지 다시", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}
+{"text": "혹시 청주 서원구 여행지 부탁", "intent": "recommend_places", "source": "region_clarify_natural_holdout"}

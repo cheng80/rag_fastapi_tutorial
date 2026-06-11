@@ -1,0 +1,163 @@
+{"text":"더 보여줘","intent":"show_more"}
+{"text":"다른 곳도 보여줘","intent":"show_more"}
+{"text":"전체 목록 보여줘","intent":"show_more"}
+{"text":"20곳까지 보여줘","intent":"show_more"}
+{"text":"조금 더 추천해줘","intent":"show_more"}
+{"text":"최신 정보로 다시 찾아줘","intent":"live_topup"}
+{"text":"최신으로 더 찾아봐","intent":"live_topup"}
+{"text":"지금 기준으로 더 확인해줘","intent":"live_topup"}
+{"text":"새 자료로 다시 봐줘","intent":"live_topup"}
+{"text":"출처 알려줘","intent":"ask_source"}
+{"text":"근거도 보여줘","intent":"ask_source"}
+{"text":"어디 자료인지 알려줘","intent":"ask_source"}
+{"text":"원문 근거 같이 보여줘","intent":"ask_source"}
+{"text":"장애인 주차장 있는 곳","intent":"add_condition"}
+{"text":"화장실 확인되는 곳만","intent":"add_condition"}
+{"text":"엘리베이터 있는 곳 위주로","intent":"add_condition"}
+{"text":"점자블록도 있는 곳","intent":"add_condition"}
+{"text":"보조견 동반 가능한 곳","intent":"add_condition"}
+{"text":"수어 안내 있는 곳","intent":"add_condition"}
+{"text":"자막 안내 확인되는 곳","intent":"add_condition"}
+{"text":"경사로 있는 곳","intent":"add_condition"}
+{"text":"동선 단순한 곳","intent":"add_condition"}
+{"text":"유모차 말고 휠체어","intent":"replace_condition"}
+{"text":"휠체어 말고 유모차","intent":"replace_condition"}
+{"text":"아이 말고 어르신 기준으로","intent":"replace_condition"}
+{"text":"주차 말고 화장실 확인되는 곳","intent":"replace_condition"}
+{"text":"호텔은 빼고","intent":"exclude_preference"}
+{"text":"카페 말고","intent":"exclude_preference"}
+{"text":"시장 제외하고","intent":"exclude_preference"}
+{"text":"숙박은 빼줘","intent":"exclude_preference"}
+{"text":"음식점 말고 관광지 위주로","intent":"exclude_preference"}
+{"text":"서울 말고 부산으로","intent":"change_region"}
+{"text":"부산 중구 말고 서울 중구","intent":"change_region"}
+{"text":"제주시 말고 서귀포시","intent":"change_region"}
+{"text":"대구 말고 광주광역시로","intent":"change_region"}
+{"text":"중구로 좁혀줘","intent":"narrow_region"}
+{"text":"동구 쪽으로 좁혀줘","intent":"narrow_region"}
+{"text":"해운대구로 좁혀줘","intent":"narrow_region"}
+{"text":"분당구 쪽으로","intent":"narrow_region"}
+{"text":"동구에서 추천해줘","intent":"clarify_region"}
+{"text":"서구 관광지 추천","intent":"clarify_region"}
+{"text":"고성군에서 갈 만한 곳","intent":"clarify_region"}
+{"text":"남구에서 유모차 가능한 곳","intent":"clarify_region"}
+{"text":"지하철역 바로 연결된 곳만","intent":"unsupported_request"}
+{"text":"실시간으로 안 붐비는 곳","intent":"unsupported_request"}
+{"text":"응급실 가까운 곳","intent":"unsupported_request"}
+{"text":"가격이 제일 싼 곳","intent":"unsupported_request"}
+{"text":"휠체어 대여 가격 알려줘","intent":"unsupported_request"}
+{"text":"서울에서 휠체어 관광지 추천해줘","intent":"recommend_places"}
+{"text":"부산 중구 유모차 관광지 추천","intent":"recommend_places"}
+{"text":"제주에서 아이랑 갈만한 곳","intent":"recommend_places"}
+{"text":"강릉에서 보조견 가능한 시장 추천","intent":"recommend_places"}
+{"text":"대구에서 실내 박물관 추천","intent":"recommend_places"}
+{"text":"더 있으면 이어서 보여줘","intent":"show_more"}
+{"text":"나머지도 보여줘","intent":"show_more"}
+{"text":"추천 더 받을 수 있어?","intent":"show_more"}
+{"text":"계속 보여줘","intent":"show_more"}
+{"text":"다섯 곳 말고 더 보여줘","intent":"show_more"}
+{"text":"목록 더 펼쳐줘","intent":"show_more"}
+{"text":"후보가 더 있으면 알려줘","intent":"show_more"}
+{"text":"전부 다 보고 싶어","intent":"show_more"}
+{"text":"확인된 곳 모두 보여줘","intent":"show_more"}
+{"text":"더 많은 장소로 보여줘","intent":"show_more"}
+{"text":"지금 정보로 더 찾아줘","intent":"live_topup"}
+{"text":"새로 검색해서 보강해줘","intent":"live_topup"}
+{"text":"최근 기준으로 찾아봐줘","intent":"live_topup"}
+{"text":"추가로 찾아서 채워줘","intent":"live_topup"}
+{"text":"현재 기준으로 다시 확인해줘","intent":"live_topup"}
+{"text":"업데이트된 정보로 더 찾아줘","intent":"live_topup"}
+{"text":"방금 기준으로 다시 조회해줘","intent":"live_topup"}
+{"text":"자료를 더 확인해서 보여줘","intent":"live_topup"}
+{"text":"공식 자료 기준으로 더 찾아줘","intent":"live_topup"}
+{"text":"새로 확인 가능한 곳 찾아줘","intent":"live_topup"}
+{"text":"출처가 어디야?","intent":"ask_source"}
+{"text":"이 카드 근거 알려줘","intent":"ask_source"}
+{"text":"어떤 자료에서 나온 거야?","intent":"ask_source"}
+{"text":"근거 링크도 볼 수 있어?","intent":"ask_source"}
+{"text":"자료 출처도 같이 정리해줘","intent":"ask_source"}
+{"text":"추천 근거를 보여줘","intent":"ask_source"}
+{"text":"카드별 출처 확인해줘","intent":"ask_source"}
+{"text":"이 정보 믿을 근거가 뭐야?","intent":"ask_source"}
+{"text":"원자료 이름 알려줘","intent":"ask_source"}
+{"text":"확인 근거도 같이 줘","intent":"ask_source"}
+{"text":"장애인 화장실 있는 곳만","intent":"add_condition"}
+{"text":"주차 가능한 곳 위주로","intent":"add_condition"}
+{"text":"휠체어 접근 가능한 곳으로","intent":"add_condition"}
+{"text":"유모차 끌고 갈 수 있는 곳","intent":"add_condition"}
+{"text":"어르신이 걷기 편한 곳","intent":"add_condition"}
+{"text":"보조견 가능 여부 확인되는 곳","intent":"add_condition"}
+{"text":"시각장애 안내가 있는 곳","intent":"add_condition"}
+{"text":"청각장애 안내 있는 곳으로","intent":"add_condition"}
+{"text":"대중교통 접근 좋은 곳","intent":"add_condition"}
+{"text":"수유실 확인되는 곳만","intent":"add_condition"}
+{"text":"유아차 말고 장애인 기준으로","intent":"replace_condition"}
+{"text":"휠체어는 빼고 아이랑 갈 곳","intent":"replace_condition"}
+{"text":"주차는 말고 엘리베이터 기준으로","intent":"replace_condition"}
+{"text":"화장실 말고 경사로 확인해줘","intent":"replace_condition"}
+{"text":"점자 말고 수어 안내 있는 곳","intent":"replace_condition"}
+{"text":"어르신 말고 아이 기준으로 다시","intent":"replace_condition"}
+{"text":"보조견 말고 유모차 기준으로","intent":"replace_condition"}
+{"text":"대중교통 말고 주차 되는 곳","intent":"replace_condition"}
+{"text":"실내 말고 산책 가능한 곳","intent":"replace_condition"}
+{"text":"시장 말고 박물관 위주로","intent":"replace_condition"}
+{"text":"식당은 제외해줘","intent":"exclude_preference"}
+{"text":"먹거리 골목은 빼줘","intent":"exclude_preference"}
+{"text":"숙소는 제외하고","intent":"exclude_preference"}
+{"text":"쇼핑몰은 말고","intent":"exclude_preference"}
+{"text":"상가는 빼고 관광지만","intent":"exclude_preference"}
+{"text":"카페는 빼고 추천해줘","intent":"exclude_preference"}
+{"text":"음식점 제외하고 볼거리로","intent":"exclude_preference"}
+{"text":"시장 쪽은 제외","intent":"exclude_preference"}
+{"text":"호텔 말고 갈 곳으로","intent":"exclude_preference"}
+{"text":"숙박시설 말고","intent":"exclude_preference"}
+{"text":"부산 말고 대구로","intent":"change_region"}
+{"text":"서울 중구 아니고 부산 중구","intent":"change_region"}
+{"text":"광주 말고 광주광역시로 해줘","intent":"change_region"}
+{"text":"서귀포시 말고 제주시","intent":"change_region"}
+{"text":"강릉 말고 속초로 바꿔줘","intent":"change_region"}
+{"text":"인천 말고 서울로 다시","intent":"change_region"}
+{"text":"대전 대신 세종으로","intent":"change_region"}
+{"text":"경남 고성군 말고 강원 고성군","intent":"change_region"}
+{"text":"전주 말고 군산으로","intent":"change_region"}
+{"text":"부산 해운대구 말고 부산 중구","intent":"change_region"}
+{"text":"강남구로 좁혀줘","intent":"narrow_region"}
+{"text":"중구 쪽만 봐줘","intent":"narrow_region"}
+{"text":"해운대구만 보여줘","intent":"narrow_region"}
+{"text":"분당구로 다시 좁혀","intent":"narrow_region"}
+{"text":"마산합포구 쪽으로 봐줘","intent":"narrow_region"}
+{"text":"진해구 기준으로 좁혀줘","intent":"narrow_region"}
+{"text":"서귀포시 쪽으로만","intent":"narrow_region"}
+{"text":"강서구 쪽만 추천해줘","intent":"narrow_region"}
+{"text":"송파구 중심으로","intent":"narrow_region"}
+{"text":"수영구로 좁히자","intent":"narrow_region"}
+{"text":"중구 관광지 알려줘","intent":"clarify_region"}
+{"text":"동구에서 휠체어 가능한 곳","intent":"clarify_region"}
+{"text":"북구 유모차 관광지","intent":"clarify_region"}
+{"text":"남구에서 갈 만한 곳","intent":"clarify_region"}
+{"text":"강서구 관광지 추천","intent":"clarify_region"}
+{"text":"고성군 휠체어 여행지","intent":"clarify_region"}
+{"text":"서구에서 주차 되는 관광지","intent":"clarify_region"}
+{"text":"중구에서 아이랑 갈 곳","intent":"clarify_region"}
+{"text":"동구 쪽 추천해줘","intent":"clarify_region"}
+{"text":"북구에서 보조견 가능한 곳","intent":"clarify_region"}
+{"text":"오늘 혼잡하지 않은 곳만","intent":"unsupported_request"}
+{"text":"실시간 대기시간 알려줘","intent":"unsupported_request"}
+{"text":"입장료 제일 싼 순서로","intent":"unsupported_request"}
+{"text":"응급실까지 몇 분인지 알려줘","intent":"unsupported_request"}
+{"text":"휠체어 대여 가능한 재고 알려줘","intent":"unsupported_request"}
+{"text":"지금 영업 중인 곳만","intent":"unsupported_request"}
+{"text":"주차장 빈자리 있는 곳","intent":"unsupported_request"}
+{"text":"날씨에 맞춰서 골라줘","intent":"unsupported_request"}
+{"text":"택시비 적게 드는 순서로","intent":"unsupported_request"}
+{"text":"사람 적은 곳 실시간으로","intent":"unsupported_request"}
+{"text":"서울 가족 여행지 추천","intent":"recommend_places"}
+{"text":"부산에서 무장애 관광지 찾아줘","intent":"recommend_places"}
+{"text":"제주시 휠체어 가능한 관광지","intent":"recommend_places"}
+{"text":"강릉 아이랑 갈 실내 관광지","intent":"recommend_places"}
+{"text":"대전에서 어르신 모시고 갈 곳","intent":"recommend_places"}
+{"text":"광주광역시 보조견 동반 가능한 곳","intent":"recommend_places"}
+{"text":"인천에서 주차 편한 관광지","intent":"recommend_places"}
+{"text":"전주에서 유모차 가능한 볼거리","intent":"recommend_places"}
+{"text":"속초에서 산책하기 좋은 무장애 여행지","intent":"recommend_places"}
+{"text":"창원시에서 장애인 화장실 있는 곳 추천","intent":"recommend_places"}

@@ -1,0 +1,770 @@
+{"text": "가족 단위 여행이라 아이들 놀 공간도 있으면 금상첨화!", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "가족이랑 가는데 수유실 꼭 필요해요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "거기 점자블록은 되어있어요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "거동 불편하신 분이 있어서 편의시설 중요해요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "경사로 잘 되어있는 곳으로 다시 알려줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "경사로가 있는 장소도 포함해서 검색해주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "고령층 부모님과 함께 가서 이동 편리한 곳으로 보여줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "노약자 배려 시설 있는 곳으로 알려주면 고마울게요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "노약자 편의시설 갖춘 곳으로 알려주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "노인분들 모시고 갈 만한 경사로 없는 곳 추천해줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "무장애 동선 확보된 곳만 알려줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "무장애 편의시설이 있는 곳으로 필터링해주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "수유실 유무 좀 확인해주시겠어요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "수유실 있는 곳 위주로 다시 찾아줄래?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "수유실이 있는 관광지 중심으로 알려줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "수유실이 있는 관광지를 알려주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "시각장애인 편의시설 있는 관광지로 다시 추천해줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "시각장애인을 위한 점자 안내판 있는 곳도 추가해줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "시각장애인을 위한 점자블록도 있나요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아, 참! 주차장 넓은 곳으로도 찾아봐 줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아기 기저귀 갈 곳 있는 데로만 찾아주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아기 의자 있는 식당도 찾아줄 수 있어요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아기가 있어서 수유실하고 놀이방 있는 곳으로 다시 찾아줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아기띠보단 유모차를 쓰고 싶은데 괜찮은 곳 추천해줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아기랑 같이 가서 수유실 있는 곳으로 보여줘요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아기랑 같이 가야 해서 수유실 있는 곳으로 다시 찾아주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아기랑 함께 갈 건데 유아차 끌기 좋은 길인가요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아이랑 함께 가는데 기저귀 갈 곳 있나요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "아이와 함께 갈 곳이라 수유실이랑 기저귀 갈이대 필수요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "어르신 모시고 갈 거라 엘리베이터 필수예요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "어르신 모시고 갈 건데 엘리베이터 있는 곳으로요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "엘리베이터 있는 건물로만 다시 골라줄래?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "여기 장애인 화장실이 있는지 궁금해요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "유모차 끌고 가기 편한 곳은 어디인가요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "유모차 끌기 편한 곳으로 다시 추천해주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "유모차 대여 가능한 곳이면 좋겠어요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "유모차 동반 가능한 장소로 다시 필터링 해줄 수 있을까요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "유모차 보관할 수 있는 곳도 있으면 좋겠어요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "유모차 보관할 수 있는 곳이면 좋겠어요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "이 근처에 장애인 화장실 있는 데 없어요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "이전 장소들 중에 무장애 시설 갖춘 곳은 없나요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "이전에 추천한 곳들 중 장애인 화장실 있는 곳으로 찾아줄 수 있나요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "이전에 추천한 곳들, 무장애 시설도 있나요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "이전에 추천해준 곳 중에 수유실 있는 곳은 어디에요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "임산부도 편하게 쉴 수 있는 곳 없을까요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "장애인 주차 공간도 꼭 있어야 해요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "장애인 주차 구역 있는 곳으로 다시 알려줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "장애인 편의시설이 충분한 곳으로요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "장애인 화장실 있는 곳으로만 다시 추려줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "장애인 화장실도 같이 고려해서 찾아봐.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "점자블록 설치된 곳 위주로 추천해주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "점자블록 설치된 곳으로 알려줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "점자안내판 있는 곳으로 다시 알려주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "주차 가능한 곳으로만 다시 보여주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "주차 공간 넓은 곳으로 다시 검색해줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "주차 자리 여유있는 곳으로 알려줘요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "주차 편한 곳도 같이 고려해서 알려줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "주차 필수인데 여기 주차되나요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "주차장 넓고 유모차 접근성 좋은 곳으로 다시 찾아봐.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "지체장애인을 위한 시설은 잘 되어 있나요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "혹시 엘리베이터나 경사로 있는 곳인가요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 대여 가능한 곳도 있나요?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 대여 가능한 곳도 있는지 확인해줘.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 이동 편한 곳으로 재검색 부탁드립니다.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 이용 가능한 곳들만 묶어줄 수 있어?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 이용자 주차 공간 있는 곳이면 좋겠어요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 이용자도 접근 가능한 곳으로요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 접근성 좋은 곳으로 부탁해.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 진입 가능한 곳 위주로 알려주세요.", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어용 경사로 있는 곳들로 다시 리스트업 해줄래?", "intent": "add_condition", "source": "gemini_independent_holdout"}
+{"text": "가족 여행에 좋다는 근거 좀 알려주세요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "가족 여행지 추천인데, 어떤 기준으로 뽑은 거예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "공식 자료인가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "공식적인 발표 내용인가요? 근거는?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "공식적인 발표 자료인가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "그 이야기 출처가 어디죠?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "근거 자료 보여줘.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "답변의 근거가 뭐에요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "답변의 출처를 명확히 알려주실 수 있나요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "답변하신 내용의 출처를 명시해주세요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "데이터 최신인가요? 근거 좀.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "말씀하신 내용의 원본이 뭐예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "말씀하신 내용의 출처를 알려주세요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "몇 년도 데이터 기준이에요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "무장애 정보인데, 이게 정확한 자료인가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어디까지가 공식 자료에요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어디서 보고 이 추천을 해주시는 거예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어디서 이 내용을 확인해 볼 수 있나요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어디서 이런 정보 얻은 건지 알고 싶어요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어디서 이런 정보를 얻으셨나요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어떤 기관에서 발표한 거예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어떤 웹사이트에서 찾으신 건가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어떤 자료 보고 말해주는 건가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어떤 자료를 기반으로 하신 말씀이신가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "어르신 동반 여행 관련 정보, 출처가 어떻게 되나요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "원본 링크 같은 거 받을 수 있을까요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "유모차 끌고 갈 식당 추천 기준이 뭐예요? 출처도 알려줘요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "유모차 동반 정보, 어디서 나온 건가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 공원 추천, 근거가 뭐야?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 관광 정보, 어디 자료를 참고했나요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 관광지 정보, 업데이트는 언제 된 거예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 내용 어디서 찾으면 되죠?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 내용 어디서 확인 가능해요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 내용이 사실인지 확인할 수 있는 곳이 있을까요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 내용이 어디에 근거한 건가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 답변의 출처를 알려주세요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 숙소 정보, 어디까지 믿어야 하나요? 출처 좀요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 식당 정보 정확한가요? 출처 좀 부탁드려요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 장소에 대한 정보는 어디서 얻은 건가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보 믿을 수 있는 건가요? 출처가 어디죠?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보 신뢰성은 어떤가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보 어디서 나온 거예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보 어디서 확인 가능한가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보 어디서 확인한 거예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보 확실함? 출처 좀요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보는 어디서 가져온 건가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보의 원본을 볼 수 있을까요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 정보의 원본이 어디예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 추천 카드에 대한 근거를 알고 싶어요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이 추천의 근거는 뭔가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이거 믿을만한 정보 맞아요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이거 사실이야? 출처 대봐.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이거 어떤 기준으로 나온 결과물이야?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이거 어떤 기준으로 추천되는 거예요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "이거 최신 정보 맞나요? 어디서 나온 건지?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "장애인 주차장 정보인데, 최신 자료 맞나요? 근거가 궁금해요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "정보의 원천이 뭔가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "제가 본 거랑 좀 다른데, 어디서 확인해야 돼요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "제시된 정보가 최신인지 어떤 자료로 확인 가능한가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "추천 근거 자세히 설명해줄 수 있나요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "추천 카드 내용의 근거를 알고 싶습니다.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "추천해준 곳, 어떤 근거로 선정했어?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "출처 궁금해요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "출처 어딘가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "출처 좀 알려주실래요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "출처가 궁금해요.", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "출처는 어디인가요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "혹시 이 정보 출처 좀 알려줄 수 있어?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "혹시 참고한 사이트나 문서 있어요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "휠체어 접근성 정보는 어떤 기준으로 제공되나요?", "intent": "ask_source", "source": "gemini_independent_holdout"}
+{"text": "가족 여행으로 경주 어때?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "강릉 말고 속초는?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "강릉은 말고 속초로.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "강원도 여행 계획 중인데.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "강원도로 검색해 줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "경기도 가볼만한 곳 없나요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "경기도는 말고 전라도 쪽은요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "경북 여행 추천 좀.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "경상북도 여행지 찾아줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "경주는 말고 순천으로 보여줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "경주로 변경해줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "광주 말고 목포 쪽은 어때?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "그 지역 말고 다른 데 찾아줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "그 지역 말고 딴 데로 보여줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "다른 광역 도시를 알려줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "다른 도시로 옮겨줄 수 있나요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "다른 시군구 정보 볼 수 있어요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "다른 지역으로 검색해 주세요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "다른 지역으로 바꿔서 찾아줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "다음엔 전주 가고 싶어요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "대구 정보 좀 볼 수 있을까요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "대전 명소는 뭐가 있어?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "부산 쪽으로 찾아줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "부산에서 다른 곳으로 옮겨줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "부산에서 서울로 갈아탈래.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "부산으로 가볼까?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "새로운 시군구를 알려줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "서울 말고 경기 남부로.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "서울 말고 경기도!", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "서울 말고 부산으로 찾아주세요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "서울 말고 인천으로 바꿔.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "서울 여행 정보 알려줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "세종시 근처 갈 만한 곳?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "아이랑 갈 만한 강원도 여행지?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "어르신 모시고 갈 대구 여행지.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "울산으로 다시 찾아봐.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "이번에는 경상도 여행이요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "이번엔 여수로 가보자.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "이번엔 전라도 쪽으로 가볼까?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "이번엔 제주도로 가고 싶어요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "이번엔 포항으로.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "이번엔 해안가 말고 내륙 지방으로.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "이전 검색 지역을 변경하고 싶어요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "이전 지역 말고 딴 데로 가볼까?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "인천으로 바꿔줄래요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "전남 쪽으로 알려주세요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "전라남도 관광 정보는?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "전라도 쪽으로 좀 더 자세히.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "전에 말한 지역 말고 딴 곳으로.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "전주 말고 다음엔 대구로 가볼까?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "제주도 다시 보여줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "제주도 말고 다른 데 추천해줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "제주도 말고 육지로 가고 싶어.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지금 말고 강릉 가고 싶어.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지금 여기 말고 광주 지역은?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지금 지역 말고 딴 데로.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역 다시 고를래.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역 변경 가능한가요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역 설정을 다시 할게요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역 좀 변경해 줄래요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역을 다시 선택할게요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역을 바꾸는 방법이 뭐예요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역을 바꿔볼까요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역을 변경하고 싶습니다.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "지역을 변경할게요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "충북 말고 충남 쪽은요?", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "충청남도 쪽으로 알려줘요.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "충청도로 바꿔줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "충청북도 쪽으로 보여줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "휠체어 이동 가능한 전주 명소 알려줘.", "intent": "change_region", "source": "gemini_independent_holdout"}
+{"text": "고성군 가족 숙소 추천 좀", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "고성군 등산 코스 추천요.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "고성군 어디가 젛아요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "고성군 캠핑장 예약 가능한가요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "고성군 캠핑장 정보 있나여?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "광산구 관광 명소 알려줘.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "광산구 축제 정보 알고싶어.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "광산구에서 전통 시장 구경 하고싶어.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "남구에 공영주차장 정보", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "남구에 괜찮은 카페 알려줘", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "남구에 무장애 시설 있나요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "남구에 반려견 동반 가능한 식당은요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "남구에 벚꽃 명소 어디어디 있어?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "남구에 숙소 갠찮은 곳 있을까요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "남구에 아이랑 갈만한 카페 잇나요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "단양군 패러글라이딩 예약", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "단양군 펜션 알아봐줘", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "달서구 근처 온천이나 스파 시설 잇어요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "달서구에 박물관이나 갤러리 잇을까요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "달서구에 주차 편한 식당 있을가요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "동구 맛집 찾고 이써요.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "동구 문화재 탐방 코스 알랴줘.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "동구 볼거리는?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "동구 쪽으로 드라이브 코스 추천", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "동구에 무장애 숙소 정보가 피료해요.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "동구에 장애인 화장실 있는 곳", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "북구 유모차 대여 가능한 곳 있을까", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "북구에 가족끼리 갈만한 곳은요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "북구에 전망 좋은 곳 알려주세요", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "북구에 힐링하기 좋은 데 없어?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "북구에서 저렴하게 묵을수 있는곳?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "북구에서 혼자 여행하기 조은곳 추천 좀.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "서구 맛집 어디가 좋아요", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "서구 시장 구경하고 싶은데 어딜 가야할까요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "서구 쪽으로 시니어 여행 계획중인데.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "서구에 무장애 시설 정보좀 부탁해요.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "서구에서 바다 근처 걷기 좋은 곳", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "서구에서 혼자 여행하기 좋은 곳", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "수성구에 분위기 좋은 레스토랑 어딘지?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "수성구에 예쁜 공원 알려주세용.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "수성구에서 데이트하기 좋은데 추천요.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "양평군 갈만한데 알려줘", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "양평군에서 자전거 타기 좋은 길", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "영덕군 대게 가격 정보", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "영덕군에서 해맞이 명소 추천해줄래?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "영동군 와인 축제는 언제예요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "영동군에 템플스테이 있나요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "영양군 백두대간 수목원 가는 방법", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "영양군에서 뭘 봐야 돼?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "영월군 동굴 가고 싶은데", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "영월군 숙박 시설 검색", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "유성구 쪽으로 숙소 보고잇는데.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "유성구에 숙소 가격은 어케 되나요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "유성구에서 휠체어 접근성 조은곳?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "중구 어디가 유명해요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "중구 여행 정보 찾아줘", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "중구 여행 코스 춫천해줘요.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "중구 쪽으로 1박2일 여행 계획중.", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "중구에 공원 어딨어?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "중구에서 당일치기 여행 어때?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "중구에서 택시 잡기 쉬워요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "진안군 마이산 근처 식당 추천", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "진안군 특산물 뭐 있어", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "팔달구 가볼만한데 어디예요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "팔달구 쇼핑할만한곳 있나요?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "팔달구 쪽 대중교통으로 갈만한곳?", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "함양군에 물놀이 가능한 곳", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "함양군에서 아이랑 체험할 곳", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "화성시 박물관 운영 시간", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "화성시에서 휠체어 이용 가능한 관광지", "intent": "clarify_region", "source": "gemini_independent_holdout"}
+{"text": "게스트하우스는 사양합니다.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "게하 말고 펜션이나 리조트 위주로 봐주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "계단 많은 곳은 어르신이 힘들어하세요, 제외 부탁드립니다.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "고궁은 제외하고 추천해 주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "고층 건물 전망대는 별루...", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "공연장은 빼고 가볼 만한 곳 추천해 줘요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "너무 번화한 관광지는 제외하고 싶어.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "너무 비싼 곳은 빼고 알려줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "너무 시끄러운 곳은 빼주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "너무 조용한 분위기 카페는 사양할게요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "너무 현대적인 건물 위주는 빼고, 전통적인 곳으로.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "너무 힙스터 감성 카페는 안 갈래요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "놀이공원은 안 가고 싶어.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "등산 코스는 빼고 싶어요. 다리가 아파서요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "루프탑 바는 이번 일정에서 제외해 줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "리조트는 됐고, 펜션 위주로 보고 싶어요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "모텔은 빼고 다른 숙소 옵션을 줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "미술관/박물관은 안 갈래.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "바닷가 근처 말고 산속이나 계곡 쪽으로 보고 싶어요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "박물관이나 미술관은 빼고 추천해 줘요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "반려동물 동반 안 되는 곳은 빼고 찾아줘요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "복잡한 쇼핑몰은 빼고 싶어요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "복합 쇼핑몰은 별로예요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "뷔페식당은 빼고 단품 메뉴 있는 곳으로.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "브런치 카페는 빼고 알려줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "사찰은 빼고 다른 관광지 알려줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "수산시장은 이번엔 안 볼래.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "숙소 중 잠만 자는 곳은 빼고, 부대시설 좋은 곳으로.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "술집은 빼고 밥집만 알려주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "시장 빼고 추천해 주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "시장은 빼고 알려주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "식당 말고 카페 위주로 찾고 있어.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "아이들 노는 공간 없는 곳은 빼주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "아이들과 가서 술집은 빼주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "애견 동반 안되는 식당은 무조건 제외.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "애견동반 안 되는 곳은 빼고 찾아줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "액티비티 중에서 너무 격렬한 건 빼줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "야시장은 패스하고 싶어.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "역사 유적지는 제외하고 싶습니다.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "오션뷰 말고, 마운틴뷰 쪽으로 찾아봐 줘요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "유흥 시설은 전부 빼주십시오.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "유흥시설은 빼고 가족과 갈만한 곳으로.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "음식점은 굳이 안 가도 돼요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "인파가 많은 곳은 빼고 한적한 곳으로 추천해줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "전시회는 흥미 없어요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "전통 시장은 됐어요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "절이나 사찰 방문은 이번엔 빼자.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "카페는 빼고 식사할 곳만 보여줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "카페는 이번에 안 갈래요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "캠핑장은 빼고 검색해줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "클럽이나 바는 제외하고 알려줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "키즈 카페는 제외하고 찾아줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "키즈카페나 놀이방 있는 곳은 사양할게.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "테마파크는 뺄게요. 조용한 곳으로.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "테마파크는 이번엔 안 가려고요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "특정 브랜드 숙소는 안 갈래요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "특정 프랜차이즈 식당은 빼줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "패밀리 레스토랑 말고 로컬 맛집으로 찾아봐.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "패밀리 레스토랑은 추천 안 해주셔도 돼요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "포토존만 있는 곳은 빼고, 체험 위주로 보여줄 수 있나요?", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "프랜차이즈 식당은 빼고 지역 맛집 알려줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "피씨방이나 노래방 같은 곳은 빼고 알려줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "한식당은 말고 양식 쪽으로 추천해줘요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "한식당은 빼주세요. 다른 종류로.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "한옥 숙소는 불편해서 못 자요, 다른 곳으로.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "해산물 식당은 제외하고 다른 맛집 보여줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "호캉스보다는 활동적인 여행을 원해서 호텔은 빼주세요.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "호텔 말고 다른 숙소 좀 보여줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "호텔은 말고 다른 숙소 위주로 찾아봐 줘.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "휠체어 이용 불편한 곳은 제외하고 검색해봐.", "intent": "exclude_preference", "source": "gemini_independent_holdout"}
+{"text": "가장 최근 정보 알려주세요.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "가장 최근걸로만 보여줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "다른 건 더 없어?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "다른 것도 더 보여줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "다른 옵션 최신으로 찾아줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "다시 검색해서 최신 정보 줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "다시 한번 확인해봐.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "다시 확인해 줄래?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "다시 확인해줄 수 있을까요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "더 볼 만한 곳 새로 생긴 데 있어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "더 새로운 거 없어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "더 새로운 정보가 있으면 보여줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "더 업데이트된 내용 없어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "더 찾아보면 안 나와요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "더 찾아봐 줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "따끈따끈한 정보 없나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "뭔가 바뀐 거 없어?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "방금 나온 소식은 없어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "방금 나온 정보 있어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "방금 바뀐 거 있으면 알려줘요.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "방금 전까지 바뀐 내용 없어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "새 정보 없으면 그걸로 알려줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "새로 뜬 정보는?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "새로 올라온 정보는요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "새로 찾아봐줄래?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "새로고침 해주세요.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "새로고침 해줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "새로운 거 추가됐나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "새로운 여행 정보 있나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "실시간 정보 확인.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "실시간 정보로 다시 검색해 줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "실시간으로 변동된 입장료는 없나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "실시간으로 보고 싶어요.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "업데이트된 거 있어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "업데이트된 게 있다면 알려줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "업데이트된 내용으로 알려줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "업뎃된 거 있어?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "오늘 날짜 기준으로 숙소 더 찾아봐 줄 수 있어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "오늘 날짜 정보로 다시 검색해줄래?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "오늘자 교통 상황 좀 다시 봐줄래?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "이 정보 지금도 맞아요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "정보가 최신화됐는지 확인 좀.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 기준으로 다시 검색해 줄 수 있나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 다시 검색해주세요.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 다시 찾아보자.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 바로 다시 찾아줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 바로 알아봐 줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 바로 업데이트된 거 확인해줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 상태로 최신 정보 다시 가져와 줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 아이랑 갈 만한 새로운 축제 있어요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 이대로 확정해도 될까? 혹시 바뀐 거 없을까?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "지금 정보가 맞나 확인해주세요.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최근 정보 좀 볼 수 있을까요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최근 정보로 다시 보여줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최근에 바뀐 건 없어?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최신 걸로 다시 보여줄래?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최신 버전으로 보여줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최신 버전으로 보여줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최신 소식 있나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최신 자료 좀 부탁해요.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최신 정보로 다시 알려줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최신으로 다시 찾아봐 줄래?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "최신으로 싹 다 찾아줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "현재 상황 반영된 걸로 보여줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "현재 시간 기준으로 다시 알려줘.", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "현재 운영 중인 무장애 식당은 또 없나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "현재 이 정보가 맞는 건가요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "현재 이 코스가 제일 최근에 업데이트된 건가요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "현재 정보 다시 확인해 줄 수 있나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "혹시 업데이트된 거 있나요?", "intent": "live_topup", "source": "gemini_independent_holdout"}
+{"text": "가족이랑 갈만한 제주시 내 장소는요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "강남쪽에서 장애인 편의시설 있는 곳이요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "강릉 안목해변 쪽으로 좀 더 자세히 알려줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "강릉 중앙시장 근처 맛집 추천!", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "강화도 동쪽으로 알아볼게요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "경기 지역 말고 서울 성수동으로 봐줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "경주 시내 말고 보문단지 어때요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "경주는 불국사 근처가 좋아요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "고창읍성 근처 갈만한 곳 있나요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "광안리 쪽 맛집 정보도 같이요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "광안리 쪽만 보여줄 수 있나요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "광주 동구 쪽으로 추천해 줄래?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "김해 가야테마파크 근처 볼거리는요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "남포동 주변으로 가볼만한 곳.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "남해 독일마을 근처 관광지?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "대구 수성구는요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "대구 중구 쪽으로 알아보고 싶습니다.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "대전 유성구 쪽으로 찾아줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "동해 망상해변 근처 숙소 추천해주세요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "명동 쇼핑 지역만 보고 싶어.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "목포 유달산 근처로 알려줘요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부산 기장군 쪽은 어때요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부산 서면 쪽만 보고 싶어요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부산 자갈치 시장 주변도 알려주세요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부산 중구 쪽으로만 찾아줄래요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부산 해운대 쪽으로 보고 있어요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부산대 쪽으로 괜찮은데 있을까요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부산역 근처 동구쪽으로 정보 주세요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부산역 근처 숙소 좀 봐줄래요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "부여 백제문화단지 주변이 궁금한데.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서귀포 중문 해변만 알려줘요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서귀포시 쪽으로 관광지 추천해줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서귀포쪽에서 유모차로 다니기 좋은 곳은?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서울 명동 근처 볼거리요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서울 명동 쪽으로 가고 싶은데.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서울 잠실 부근만 보고싶어요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서울 잠실 부근만 추천해줘요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서울에서 용산구만 보고싶은데요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "서울은 종로 근처요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "세종시는 어진동 부근으로 해줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "속초항 주변으로 정보 좀요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "수원은 팔달문 쪽으로 가고 싶어요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "아 동구 말고 중구!", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "아까 그거 말고 해운대구로 다시 봐줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "안동 하회마을 주변 정보 좀요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "애들 데리고 갈만한 강남구 명소는?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "애월읍 주변 명소는?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "양양 낙산사 근처 볼 거 뭐 있어요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "여수 돌산공원 근처 명소 있나요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "여주 신륵사 근처 명소 알려줄 수 있나요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "영등포구 근처로 좁혀서 알려줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "울산 태화강 국가정원 주변을 검색해 줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "인천 중구 쪽에 갈만한 데 없나요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "전 동대문 지역만 관심 있어요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "전 부산 진구 쪽이요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "전주 한옥마을 근처 숙소 부탁해요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "정선 삼탄아트마인 근처로 가고 싶어요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "제주 공항 근처 제주시 쪽으로요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "제주 서귀포 쪽이 궁금해요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "제주 시내쪽으로 알려주세요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "제주 애월 쪽으로 여행 계획 중이에요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "제주 중문관광단지 주변으로 알려줘요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "제주도 성산 일출봉 쪽으로 찾아줘.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "제주도에서 한림 쪽으로 검색해봐.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "종로구 위주로 검색해주세요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "청주 상당구 쪽 관광지는요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "춘천 남이섬 쪽이 괜찮을까요?", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "통영 동피랑 마을 쪽으로 찾아주세요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "해운대구 정보만 알고 싶어요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "홍대입구 역 근처만 찾아볼래요.", "intent": "narrow_region", "source": "gemini_independent_holdout"}
+{"text": "2박3일 가족 여행지 추천 부탁요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "가을에 단풍 구경하기 좋은 곳 알려주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "가족 여행지로 좋은 곳 알려주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "가족여행 이번엔 어디로 갈까? 추천 좀.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "강원도에서 계단 없는 산책로 있는 곳 아세요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "강원도에서 추천할 만한 곳이요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "걷기 편한 가족 여행지 추천 좀 해주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "걷기 힘든 분들도 즐길 수 있는 여행지 추천요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "겨울에 가기 좋은 따뜻한 남쪽 지방 추천 좀요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "경기도에서 가족끼리 갈만한 곳 추천해줘요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "경주 말고 다른 데 추천해주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "경치 좋은 곳 위주로 추천해줄 수 있을까요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "교통약자도 편하게 즐길 수 있는 여행지 추천해줘요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "국내 여행지 추천 좀 해주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "대중교통으로 가기 쉬운 곳 추천해주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "뚜벅이 여행하기 좋은 국내 도시 추천해주세여.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "맛집 많은 도시로 추천받고 싶어요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "무장애 시설 잘 되어있는 관광지 어디예요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "무장애 키즈프렌들리 관광지 추천해줄 수 있나요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "물놀이하기 좋은 계곡이나 바다 추천해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "바다 보이는 카페 있는 곳 추천해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "반려견 동반 가능한 여행지 추천 좀 해주세용.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "부모님 모시고 갈 조용한 곳 추천받아요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "부모님 모시고 대중교통으로 가기 편한 곳 없나요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "부산에서 가볼 만한 곳 리스트 좀 알려주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "부산에서 아이랑 무장애로 갈 수 있는 곳 어디예요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "부산에서 휠체어 접근 가능한 곳 좀 알려줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "비 올 때 가기 좋은 실내 관광지 추천해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "사진 찍기 좋은 이색적인 장소 추천 부탁드립니다.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "서울 근교 갈만한 곳 있나요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "서울 무장애 코스 추천 좀요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "서울에서 아이들이랑 가기 좋은 곳 있나요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "수도권에서 휠체어 접근성 좋은 데 어디 있을까?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "숙소 포함해서 추천해줄만한 여행지 없나요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "아이들 뛰어놀기 좋은 공원이나 숲길 추천해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "아이들 체험학습 하기 좋은 곳 추천해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "아이들 체험학습하기 좋은 곳 있을까요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "아이들과 가기 좋은 가족 여행지 추천해주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "애들이랑 어른들 다 만족할 만한 여행지 어디 없을까요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "애들이랑 주말에 갈만한 곳 알려줘요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "애인이랑 데이트하기 좋은 곳 추천해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "어디 갈 만한 데 추천 좀 해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "어디 좋은데 있으면 추천해주라.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "어르신 모시고 갈만한 조용한 여행지 추천 부탁해요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "어르신들 걷기 편한 산책 코스 있는 곳 추천요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "어르신들이 좋아할 만한 전통적인 장소 추천 부탁해요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "엄마랑 아빠랑 가기 좋은 편안한 여행지 추천해줄래?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "역사 유적지 많은 곳으로 추천받을 수 있을까요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "유모차 끌고 다니기 편한 장소 추천해주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "유모차 반입 가능한 전시회나 행사 추천해줘요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "이번 연휴에 가족끼리 갈 만한 곳 추천 좀.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "장애인 주차 편리한 여행지 어디 없을까요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "장애인 편의시설 잘 갖춰진 곳 추천해줘요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "저렴하게 갈 수 있는 국내 여행지 추천?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "전동휠체어 타고 구경하기 좋은 곳 추천 부탁드립니다.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "제주 무장애 여행지 좀 찾아줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "제주도에서 유모차 끌고 다니기 편한 곳 추천해주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "제천 주변 관광지 추천 부탁해요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "주말에 당일치기로 갈 만한 곳 추천해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "주말에 수도권 근교 나들이 장소 추천해줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "지방 쪽에서 볼거리 많은 곳 어디가 있을까요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "친구들이랑 놀러 가기 좋은 곳 어디야?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "캠핑하기 좋은 곳 어디 없나요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "커플 여행지 추천 부탁합니다.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "키즈카페 말고 야외에서 애들이랑 놀기 좋은 곳 추천!", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "혼자 떠나기 좋은 여행지 추천 부탁드립니다.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "혼자 여행 가려고 하는데, 추천 스팟 좀 알려줘.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "휠체어 사용자도 가기 좋은 박물관이나 미술관 있을까요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "휠체어 이용 가능한 관광지 어디가 좋을까요?", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "힐링하기 좋은 조용한 시골 마을 추천해주세요.", "intent": "recommend_places", "source": "gemini_independent_holdout"}
+{"text": "5성급 말고 4성급 호텔로 변경해주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "가이드 투어 말고 자유 여행 코스로 보고 싶어요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "가족 단위 말고 커플 위주로 볼 수 있는 곳 없나요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "가족실 말고 그냥 일반 객실은요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "경사로 말고 엘리베이터가 있는 곳으로 찾아줘.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "단체 요금 말고 개인 요금으로 알려주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "대중교통 이용 말고 렌터카로 가능한 일정도 있을까요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "렌터카 말고 택시 이용하는 게 나을까요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "렌트카 말고 기차로 갈 수 있는 여행지 추천 좀.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "무료 입장 말고 좀 유료라도 괜찮으니 좋은 데 없어요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "바다가 보이는 방 말고 산이 보이는 방으로요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "박물관 말고 미술관 쪽은요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "버스 투어 말고 도보 투어로 바꾸고 싶어요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "비건 메뉴 말고 일반 메뉴로 시킬게요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "산책길 말고 전망 좋은 카페로 알려주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "성인 두 명 말고, 아이 한 명 더 추가해서 총 세 명이에요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "숙소 검색 조건에 반려동물 동반 말고 금연 객실로 바꿔줘.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "숙소는 그대로인데, 인원만 한 명 추가하고 싶어요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "시각 장애인용 말고 청각 장애인을 위한 건 없나요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "시티투어 버스 말고 도보 투어로 가능한가요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "식당 예약했는데, 메뉴를 한식에서 양식으로 바꾸고 싶어요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "실내 체험 말고 야외 활동은 뭐 있어요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "실내 활동 말고 야외에서 할 수 있는 체험은요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "아까 말한 그 숙소 말고 다른 숙소로 추천 좀.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "아까 봤던 호텔 말고 게스트하우스 쪽으로 다시 보여주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "아까 선택한 코스 말고 다른 코스는 없어요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "아까 알려준 코스 말고 다른 코스 추천해 줘.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "아까 유모차 검색했는데, 휠체어로 바꿔주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "아동용 의자 대신 유아용 카시트가 필요해요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "아이들 메뉴 말고 어른들 메뉴로 보고 싶어요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "아파트형 말고 단독 빌라 같은 숙소는요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "애기 의자 말고 그냥 높은 의자는 없어요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "애완동물 동반 말고 일반 숙소로 찾아봐 줘.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "액티비티는 취소하고 그냥 휴식 위주로 다시 찾아줘.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "야간 개장 말고 주간에 가는 걸로요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "야경 말고 낮에 볼 만한 풍경 위주로 보여줄래요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "어르신 코스 말고 아이들 체험 위주로 바꿔주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "역사 유적지 말고 자연 경관 좋은 곳 있나요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "예약 취소하고 다른 날짜로 다시 잡고 싶어요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "오전 투어 말고 오후 투어로 다시 검색해주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "오전 투어 말고 오후 투어로 변경 가능한가요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "오전에 보러 갔던 거 말고 저녁에 볼만한 건 없나요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "오픈 시간 말고 마감 시간 알려줄래요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "유모차 말고 휠체어 대여할 수 있나요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "유모차 말고 휠체어 쓸 수 있는 곳으로 찾아주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "음, 휠체어 말고 그냥 유모차로 봐주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "이 근처 말고 좀 더 조용한 곳으로 알려주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "자가용 말고 대중교통으로 갈 수 있는 데는?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "장애인 편의시설 말고 노약자 편의시설 있는 곳으로요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "저번 주말 말고 이번 주말에 가능한가요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "저번에 추천한 데 말고 다른 곳으로 바꿔서 알려줘.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "저번에 추천해준 거 말고, 혹시 다른 유명한 곳도 있나요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "저쪽 출입구 말고 이쪽으로 들어가는 건요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "전에 검색한 키즈룸 말고 일반 더블룸으로 변경 가능할까요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "전통 시장 말고 현대적인 쇼핑몰은 어디에 있어요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "전통시장 말고 백화점으로 갈래요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "조식 포함 말고 조식 불포함으로 예약하고 싶어요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "조용한 곳 말고 활기찬 시장 같은 데 없어요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "주말 말고 평일에 방문할 계획인데 괜찮을까요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "텐트 말고 글램핑 가능한 곳을 알려주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "템플스테이 말고 좀 더 액티비티한 건 없나요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "패스트트랙 말고 일반 입장권은 얼마예요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "펫 동반 말고 그냥 일반 객실로 예약하고 싶어요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "한식 말고 양식으로 나오는 식당도 추천해주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "한식당 말고 양식당으로 변경할게요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "해변 말고 계곡 쪽으로 검색 부탁해요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "호텔 말고 게스트하우스는요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "휠체어 말고 전동 스쿠터는 없나요?", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "흡연 구역 말고 비흡연 구역으로 바꿔주세요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "흡연실 말고 금연실로 예약 부탁해요.", "intent": "replace_condition", "source": "gemini_independent_holdout"}
+{"text": "나머지 다 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "나머지 다 보여줘요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "나머지 다 볼 수 있을까요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "나머지 다.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "나머지 전부 보여주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "나머지 정보 다 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "나머지 정보도 궁금해요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "나머지 정보도 주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "나머지 좀 더 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "남은 정보도 보여주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "남은거 다 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다 보여줄 수 있어요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다른 것도 좀 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다른 곳도 알려줘요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다른 곳도 추천해줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다른 선택지는 없나요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다른 옵션은 뭐가 있을까요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다른 옵션은 없을까요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다른 추천은 없나요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다른것도 다 줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음 것 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음 추천 더 보여주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음 추천 보여줘봐.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음 추천도 알려주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음 추천들 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음 추천은?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음 페이지 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음 페이지로 넘어가줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "다음꺼도 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 긴 리스트를 보고 싶어요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 다른 곳 없어?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 많은 결과를 보고 싶어요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 많은 곳 추천해줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 많은 여행지 추천해줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 많은 장소는?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 많은 정보를 알려주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 많은 추천 목록 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 보기.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 보여주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 보여주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 보여줄 거 있어?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 보여줄 수 있어?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 볼 수 있을까요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 알려줘요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 없나요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 없어요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "더 줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "또 다른 건 없나요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "또 다른 건 없어?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "리스트 전체 다 볼래요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "모든 목록을 보여주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "목록 더 없어요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "목록 더 주세요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "목록 더 줘요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "아까 그거 말고 다른거 다 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "아까 그거 말고 딴거.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "이거 말고 다른 곳은요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "이거 말고 또 다른 거요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "이것들 말고 다른 거 더.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "이어서 계속 보여줘요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "전부 다 보고 싶어요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "전체 리스트 보여줘봐.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "전체 목록을 보고 싶어요.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "전체 목록을 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "전체 보기 해줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "전체 볼게.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "전체 추천 목록을 보여줘.", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "추가 정보 보여줄래?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "추가 추천 있어요?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "추천 더 해줄 수 있어?", "intent": "show_more", "source": "gemini_independent_holdout"}
+{"text": "DMZ 투어 입장료가 얼마인가요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "KTX 서울-부산 요금이 어떻게 되죠?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "N서울타워 현재 혼잡도는요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "가까운 병원 좀 찾아줘.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "강릉 초당순두부 예약되나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "강화도 루지 다음주 화요일에 문 열어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "경복궁 지금 얼마나 붐벼요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "경주월드 자유이용권은 얼마예요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "공항 가는 가장 빠른 길 알려줘.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "공항 리무진 버스 가격이 궁금해요.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "국립현대미술관 입장료 얼마예요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "근처 숙소 예약 좀 해줄래?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "근처 약국 지금 문 연 곳 알려주세욧.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "근처에 편의점 어디 있어?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "기차 시간표 확인 부탁해요.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "대중교통 어린이 요금 따로 있나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "렌터카 예약 좀 도와줄 수 있나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "렌터카 하루 빌리는데 비용이 얼마죠?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "롯데월드 담주 월요일에 열어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "발목 다쳤는데 정형외과 어디가 잘해요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "버스카드 충전 어디서 해요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "버스표 예매 가능한가요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "비행기표 예매는 어떻게 하죠?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "서울타워 전망대 티켓 얼마야?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "설악산 케이블카 지금도 운영 중인가요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "속초 중앙시장 오늘 영업하나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "숙소 체크인 시간 확인해줘.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "아기 해열제 편의점에서 살 수 있나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "아이 아픈데 소아과 추천 좀 부탁드려요.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "아이들 데리고 가기 좋은 식당 추천해줄래?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "아침 식사 되는 곳 추천해줘.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "어린이대공원 지금가면 줄 길까요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "여기 대기 시간 길어?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "여기 웨이팅 길어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "여기가 제일 인기 많은 곳인가요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "오늘 문 여나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "오늘 저녁에 갈만한 공연 뭐 있어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "오페라 공연 표 예매 가능한가요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "와이파이 비밀번호 알려주세요.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "유모차 대여는 어떻게 하는 건가요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "이 공원 몇 시에 닫아요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "이 근처 펜션 예약 좀 부탁해요.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "이 근처에 응급실 있는 병원 어디있나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "이 근처에 짐 맡길 데 있어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "이 박물관 오늘 몇 시까지 운영하나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "이 식당 몇 시까지 열어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "이 식당 웨이팅 길어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "입장권 얼마야?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "입장료가 얼마인지 알려주세요.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "저녁 6시로 식당 예약 좀 해주세요.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "전주 한옥마을 주말에 사람 엄청 북적이나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "제주 택시 기본요금 어케 되죠?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "제주도 박물관 오늘 몇 시까지 해요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "제주도 숙소 예약 좀 도와주세요.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "종합병원 응급실 어디가 가까워요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "주말에 부산 국제시장 사람 많을까요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "주변 약국은 어디에 있어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "주차 요금은 어떻게 되나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "지금 날씨 알려줘.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "지금 몇 시죠?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "지금 여기 사람 많아요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "지금 해운대 사람 너무 많아요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "지하철 기본 요금 얼마인가요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "지하철 요금 얼마 나오나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "택시 좀 불러주실 수 있나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "테마파크 입장권 미리 구매 가능한가요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "해외 결제 가능해요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "호텔 예약 변경하고 싶은데.", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "환전은 어디서 할 수 있어요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}
+{"text": "휠체어 대여 비용은 어떻게 되나요?", "intent": "unsupported_request", "source": "gemini_independent_holdout"}

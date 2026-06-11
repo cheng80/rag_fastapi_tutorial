@@ -1,0 +1,990 @@
+{"text": "가능하면 같은 지역에서 수유실 확인되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 같은 지역에서 엘리베이터 확인되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 같은 지역에서 엘리베이터 확인되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 같은 지역에서 장애인 주차 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 경사로 조건을 추가해줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 그중 엘리베이터도 되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 그중 장애인 화장실도 되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 방금 후보에 경사로까지 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 방금 후보에 경사로까지 봐줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 방금 후보에 경사로까지 봐줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 방금 후보에 장애인 화장실까지 봐줘 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 방금 후보에 장애인 화장실까지 봐줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 수유실 조건을 추가해줘 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 장애인 주차 조건을 추가해줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 점자블록 조건을 추가해줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 점자블록 조건을 추가해줘 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "같은 지역에서 경사로 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "같은 지역에서 수유실 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "같은 지역에서 장애인 주차 확인되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "같은 지역에서 장애인 화장실 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "같은 지역에서 장애인 화장실 확인되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "같은 지역에서 점자블록 확인되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "그중 보조견 동반도 되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "그중 엘리베이터도 되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 같은 지역에서 수유실 확인되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 같은 지역에서 엘리베이터 확인되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 같은 지역에서 엘리베이터 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 같은 지역에서 장애인 화장실 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 같은 지역에서 장애인 화장실 확인되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 같은 지역에서 점자블록 확인되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 그중 경사로도 되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 그중 경사로도 되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 그중 장애인 주차도 되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 그중 장애인 주차도 되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 그중 점자블록도 되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 후보에 수유실까지 봐줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 후보에 엘리베이터까지 봐줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 후보에 장애인 주차까지 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 후보에 장애인 주차까지 봐줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 후보에 장애인 화장실까지 봐줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 후보에 점자블록까지 봐줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 보조견 동반 조건을 추가해줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 수유실 조건을 추가해줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 장애인 주차 조건을 추가해줘 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 장애인 주차 조건을 추가해줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "방금 후보에 경사로까지 봐줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "보조견 동반 조건을 추가해줘 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "수유실 조건을 추가해줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 지역에서 경사로 확인되는 곳 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 지역에서 수유실 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 지역에서 엘리베이터 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 지역에서 장애인 화장실 확인되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 지역에서 장애인 화장실 확인되는 곳 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 지역에서 점자블록 확인되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 그중 수유실도 되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 그중 장애인 화장실도 되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 그중 점자블록도 되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 후보에 보조견 동반까지 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 후보에 보조견 동반까지 봐줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 후보에 장애인 화장실까지 봐줘 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 후보에 점자블록까지 봐줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 보조견 동반 조건을 추가해줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 수유실 조건을 추가해줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 엘리베이터 조건을 추가해줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 장애인 주차 조건을 추가해줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 장애인 화장실 조건을 추가해줘 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 점자블록 조건을 추가해줘 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "장애인 주차 조건을 추가해줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "장애인 주차 조건을 추가해줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "점자블록 조건을 추가해줘 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "점자블록 조건을 추가해줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 같은 지역에서 경사로 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 같은 지역에서 수유실 확인되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 같은 지역에서 엘리베이터 확인되는 곳 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 같은 지역에서 장애인 화장실 확인되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 그중 경사로도 되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 그중 경사로도 되는 곳 부탁해", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 그중 보조견 동반도 되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 그중 엘리베이터도 되는 곳 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 그중 장애인 주차도 되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 그중 장애인 화장실도 되는 곳 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 그중 점자블록도 되는 곳", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 그중 점자블록도 되는 곳 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 방금 후보에 보조견 동반까지 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 방금 후보에 엘리베이터까지 봐줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 방금 후보에 장애인 주차까지 봐줘 가능할까", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 수유실 조건을 추가해줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 엘리베이터 조건을 추가해줘 알려줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 장애인 화장실 조건을 추가해줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "혹시 점자블록 조건을 추가해줘 다시 봐줘", "intent": "add_condition", "source": "hard_holdout"}
+{"text": "가능하면 근거도 같이 보여줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 근거도 같이 보여줘 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 방금 카드 확인 자료 확인하고 싶어 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 원자료도 같이 보여줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 원자료도 같이 보여줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 원자료도 같이 보여줘 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 근거가 뭐야 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 원자료가 뭐야", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 원자료가 뭐야 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 원자료가 뭐야 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 자료 기준가 뭐야 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 출처가 뭐야 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 출처가 뭐야 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 출처가 뭐야 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 이 정보 확인 자료가 뭐야 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 자료 기준도 같이 보여줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 접근성 정보 원자료 남겨줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 접근성 정보 자료 기준 남겨줘 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 접근성 정보 출처 남겨줘 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 출처도 같이 보여줘 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 확인 자료도 같이 보여줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "근거도 같이 보여줘 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "근거도 같이 보여줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 근거도 같이 보여줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 카드 근거 확인하고 싶어 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 카드 자료 기준 확인하고 싶어 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 카드 확인 자료 확인하고 싶어", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 방금 카드 확인 자료 확인하고 싶어 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 이 정보 확인 자료가 뭐야 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 자료 기준도 같이 보여줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 접근성 정보 출처 남겨줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 접근성 정보 확인 자료 남겨줘 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 출처도 같이 보여줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 결과에서 출처도 같이 보여줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 카드 근거 확인하고 싶어", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 카드 근거 확인하고 싶어 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 카드 자료 기준 확인하고 싶어", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 카드 자료 기준 확인하고 싶어 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 카드 출처 확인하고 싶어 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 카드 확인 자료 확인하고 싶어 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "방금 카드 확인 자료 확인하고 싶어 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 근거도 같이 보여줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 근거도 같이 보여줘 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 카드 근거 확인하고 싶어", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 카드 원자료 확인하고 싶어 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 카드 자료 기준 확인하고 싶어 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 카드 출처 확인하고 싶어", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 카드 출처 확인하고 싶어 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 카드 출처 확인하고 싶어 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 카드 출처 확인하고 싶어 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 이 정보 원자료가 뭐야 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 이 정보 자료 기준가 뭐야 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 이 정보 출처가 뭐야 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 자료 기준도 같이 보여줘 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 접근성 정보 근거 남겨줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 접근성 정보 출처 남겨줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 접근성 정보 출처 남겨줘 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 접근성 정보 확인 자료 남겨줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 출처도 같이 보여줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "원자료도 같이 보여줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "원자료도 같이 보여줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "이 정보 원자료가 뭐야", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "이 정보 자료 기준가 뭐야", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "이 정보 자료 기준가 뭐야 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "이 정보 출처가 뭐야", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "이 정보 출처가 뭐야 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "이 정보 확인 자료가 뭐야 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "접근성 정보 근거 남겨줘 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "접근성 정보 원자료 남겨줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "접근성 정보 원자료 남겨줘 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "접근성 정보 자료 기준 남겨줘 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "출처도 같이 보여줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "출처도 같이 보여줘 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 방금 카드 근거 확인하고 싶어 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 방금 카드 근거 확인하고 싶어 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 방금 카드 원자료 확인하고 싶어 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 원자료도 같이 보여줘 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 이 정보 근거가 뭐야 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 이 정보 원자료가 뭐야 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 이 정보 자료 기준가 뭐야 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 이 정보 자료 기준가 뭐야 부탁해", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 이 정보 출처가 뭐야", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 자료 기준도 같이 보여줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 접근성 정보 자료 기준 남겨줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 접근성 정보 자료 기준 남겨줘 알려줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 접근성 정보 출처 남겨줘 다시 봐줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 접근성 정보 확인 자료 남겨줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 출처도 같이 보여줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 확인 자료도 같이 보여줘", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "혹시 확인 자료도 같이 보여줘 가능할까", "intent": "ask_source", "source": "hard_holdout"}
+{"text": "가능하면 강릉 후보 말고 부산 중구 후보", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 강릉 후보 말고 속초 후보 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 강릉는 됐고 경남 고성군에서 다시 찾아줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 강릉는 됐고 서울 중구에서 다시 찾아줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 강원 고성군 후보 말고 서울 중구 후보 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 강원 고성군는 됐고 부산 중구에서 다시 찾아줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 부산 중구 말고 서귀포시로 바꿔줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 부산 중구 말고 속초로 바꿔줘 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 부산 중구 후보 말고 속초 후보 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 부산 중구는 됐고 경남 고성군에서 다시 찾아줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 서귀포시 후보 말고 경남 고성군 후보", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 서귀포시 후보 말고 제주시 후보 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 서귀포시는 됐고 서울 중구에서 다시 찾아줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 제주시 말고 부산 중구로 바꿔줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 제주시는 됐고 서울 중구에서 다시 찾아줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 지역을 부산 중구로 다시 선택할게 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 지역을 속초로 다시 선택할게", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 지역을 속초로 다시 선택할게 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "강릉 말고 경남 고성군로 바꿔줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "강릉 후보 말고 서귀포시 후보 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "강릉는 됐고 부산 중구에서 다시 찾아줘 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "강릉는 됐고 서귀포시에서 다시 찾아줘 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "강원 고성군 후보 말고 서귀포시 후보", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 강릉 후보 말고 경남 고성군 후보 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 강원 고성군 후보 말고 제주시 후보 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 부산 중구 후보 말고 서귀포시 후보 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시 후보 말고 속초 후보 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시는 됐고 서울 중구에서 다시 찾아줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시는 됐고 제주시에서 다시 찾아줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서울 중구 말고 부산 중구로 바꿔줘 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서울 중구 말고 서귀포시로 바꿔줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서울 중구는 됐고 제주시에서 다시 찾아줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 제주시 말고 경남 고성군로 바꿔줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 제주시 말고 서울 중구로 바꿔줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 제주시는 됐고 서울 중구에서 다시 찾아줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 제주시는 됐고 속초에서 다시 찾아줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "부산 중구 말고 서귀포시로 바꿔줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "부산 중구는 됐고 제주시에서 다시 찾아줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "서귀포시 말고 부산 중구로 바꿔줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "서귀포시 말고 서울 중구로 바꿔줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "서귀포시 후보 말고 경남 고성군 후보 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "서울 중구 말고 부산 중구로 바꿔줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "서울 중구 후보 말고 경남 고성군 후보", "intent": "change_region", "source": "hard_holdout"}
+{"text": "서울 중구 후보 말고 경남 고성군 후보 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉 말고 부산 중구로 바꿔줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉 말고 서울 중구로 바꿔줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉 말고 속초로 바꿔줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉 말고 제주시로 바꿔줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉 후보 말고 속초 후보 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉는 됐고 속초에서 다시 찾아줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강원 고성군 후보 말고 서울 중구 후보 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 부산 중구 후보 말고 제주시 후보 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 부산 중구는 됐고 서울 중구에서 다시 찾아줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서귀포시는 됐고 경남 고성군에서 다시 찾아줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서울 중구 후보 말고 제주시 후보 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서울 중구는 됐고 서귀포시에서 다시 찾아줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서울 중구는 됐고 속초에서 다시 찾아줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서울 중구는 됐고 속초에서 다시 찾아줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 이번엔 서귀포시 기준으로 바꿔", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 이번엔 제주시 기준으로 바꿔 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 제주시 말고 경남 고성군로 바꿔줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 제주시는 됐고 부산 중구에서 다시 찾아줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 제주시는 됐고 속초에서 다시 찾아줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 지역을 경남 고성군로 다시 선택할게 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "이번엔 서울 중구 기준으로 바꿔", "intent": "change_region", "source": "hard_holdout"}
+{"text": "제주시 말고 서귀포시로 바꿔줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "제주시 말고 서울 중구로 바꿔줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "제주시 말고 속초로 바꿔줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 강릉 말고 경남 고성군로 바꿔줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 강릉 말고 경남 고성군로 바꿔줘 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 강릉 말고 부산 중구로 바꿔줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 강릉는 됐고 부산 중구에서 다시 찾아줘 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 강원 고성군 말고 서귀포시로 바꿔줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 강원 고성군 말고 속초로 바꿔줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 강원 고성군 후보 말고 속초 후보 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 부산 중구 후보 말고 경남 고성군 후보 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 부산 중구는 됐고 경남 고성군에서 다시 찾아줘 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 부산 중구는 됐고 제주시에서 다시 찾아줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 서귀포시 말고 제주시로 바꿔줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 서귀포시는 됐고 제주시에서 다시 찾아줘 다시 봐줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 서울 중구 말고 제주시로 바꿔줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 서울 중구 말고 제주시로 바꿔줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 서울 중구 후보 말고 서귀포시 후보 가능할까", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 서울 중구 후보 말고 제주시 후보 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 서울 중구는 됐고 경남 고성군에서 다시 찾아줘 알려줘", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 이번엔 서귀포시 기준으로 바꿔 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 이번엔 서울 중구 기준으로 바꿔", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 제주시 말고 경남 고성군로 바꿔줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 제주시 말고 서울 중구로 바꿔줘 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "혹시 지역을 서귀포시로 다시 선택할게 부탁해", "intent": "change_region", "source": "hard_holdout"}
+{"text": "가능하면 강서구 장애인 화장실 있는 관광지 찾아줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 강서구 쪽 장애인 화장실 있는 볼거리 알려줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 남구 기준으로 휠체어 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 남구 여행 정보 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 남구 쪽 휠체어 가능한 볼거리 알려줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 동구 기준으로 장애인 화장실 있는 여행지 추천 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 서구 쪽 아이랑 갈 만한 볼거리 알려줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 중구 여행 정보 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 중구 여행 정보 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "강서구 주차 되는 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "강서구 쪽 휠체어 가능한 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "강서구 휠체어 가능한 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "강서구에서 장애인 화장실 있는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "고성군 여행 정보 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "남구 아이랑 갈 만한 관광지 찾아줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "남구 장애인 화장실 있는 관광지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "남구 주차 되는 관광지 찾아줘 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "남구 휠체어 가능한 관광지 찾아줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "남구에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "동구 기준으로 주차 되는 여행지 추천 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "동구 쪽 유모차 가능한 볼거리 알려줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "동구에서 주차 되는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "동구에서 휠체어 가능한 갈 곳", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 강서구 장애인 화장실 있는 관광지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 강서구 쪽 장애인 화장실 있는 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 강서구 쪽 휠체어 가능한 볼거리 알려줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 고성군 기준으로 장애인 화장실 있는 여행지 추천 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 남구 쪽 유모차 가능한 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 동구 주차 되는 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 동구 쪽 유모차 가능한 볼거리 알려줘 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 동구 쪽 휠체어 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 동구 쪽 휠체어 가능한 볼거리 알려줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 동구에서 유모차 가능한 갈 곳", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 북구 쪽 유모차 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 북구 쪽 유모차 가능한 볼거리 알려줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 북구 쪽 휠체어 가능한 볼거리 알려줘 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 북구 휠체어 가능한 관광지 찾아줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서구 기준으로 장애인 화장실 있는 여행지 추천 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서구 유모차 가능한 관광지 찾아줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서구 주차 되는 관광지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서구 주차 되는 관광지 찾아줘 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서구 쪽 장애인 화장실 있는 볼거리 알려줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서구에서 유모차 가능한 갈 곳", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 중구 기준으로 주차 되는 여행지 추천 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 중구 유모차 가능한 관광지 찾아줘 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 중구에서 장애인 화장실 있는 갈 곳 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "북구 쪽 주차 되는 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "북구 쪽 휠체어 가능한 볼거리 알려줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "북구에서 아이랑 갈 만한 갈 곳 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "북구에서 장애인 화장실 있는 갈 곳 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "서구 기준으로 아이랑 갈 만한 여행지 추천", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강서구 유모차 가능한 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강서구 주차 되는 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강서구에서 주차 되는 갈 곳 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 고성군 기준으로 유모차 가능한 여행지 추천 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 고성군 쪽 아이랑 갈 만한 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 고성군 쪽 휠체어 가능한 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 고성군에서 아이랑 갈 만한 갈 곳", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 남구 기준으로 아이랑 갈 만한 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 남구 쪽 휠체어 가능한 볼거리 알려줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 동구 기준으로 주차 되는 여행지 추천 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 동구 장애인 화장실 있는 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 북구 기준으로 아이랑 갈 만한 여행지 추천 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 북구 아이랑 갈 만한 관광지 찾아줘 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 북구 쪽 아이랑 갈 만한 볼거리 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 북구에서 장애인 화장실 있는 갈 곳 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서구 기준으로 유모차 가능한 여행지 추천 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서구 아이랑 갈 만한 관광지 찾아줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 중구 가족 여행지 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 중구 기준으로 아이랑 갈 만한 여행지 추천 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 중구 기준으로 아이랑 갈 만한 여행지 추천 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 중구 장애인 화장실 있는 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 강서구 기준으로 휠체어 가능한 여행지 추천 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 강서구 주차 되는 관광지 찾아줘 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 강서구 쪽 유모차 가능한 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 강서구에서 유모차 가능한 갈 곳", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 고성군에서 아이랑 갈 만한 갈 곳", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 남구 쪽 휠체어 가능한 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 남구 휠체어 가능한 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 동구 장애인 화장실 있는 관광지 찾아줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 동구 쪽 유모차 가능한 볼거리 알려줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 동구 휠체어 가능한 관광지 찾아줘 가능할까", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 북구 기준으로 주차 되는 여행지 추천 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 북구 쪽 휠체어 가능한 볼거리 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 북구 쪽 휠체어 가능한 볼거리 알려줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 북구 휠체어 가능한 관광지 찾아줘 부탁해", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 서구 아이랑 갈 만한 관광지 찾아줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 서구 여행 정보", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 중구 아이랑 갈 만한 관광지 찾아줘 다시 봐줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "혹시 중구에서 유모차 가능한 갈 곳 알려줘", "intent": "clarify_region", "source": "hard_holdout"}
+{"text": "가능하면 쇼핑몰 느낌은 제외해줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 쇼핑몰 느낌은 제외해줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 쇼핑몰 말고 관광지로만 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 쇼핑몰은 빼고 보여줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 숙소 느낌은 제외해줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 숙소은 빼고 보여줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 시장 느낌은 제외해줘 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 시장 말고 관광지로만", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 시장 말고 관광지로만 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 시장 말고 관광지로만 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 시장은 빼고 보여줘 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 시장은 빼고 보여줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 식당 느낌은 제외해줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 식당 느낌은 제외해줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 추천에서 숙소 성격은 빼줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 추천에서 시장 성격은 빼줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 추천에서 카페 성격은 빼줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 추천에서 호텔 성격은 빼줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 카페 느낌은 제외해줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 호텔 느낌은 제외해줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 호텔은 빼고 보여줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "먹자골목 말고 관광지로만 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "먹자골목은 빼고 보여줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "먹자골목은 빼고 보여줘 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 먹자골목 느낌은 제외해줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 쇼핑몰 느낌은 제외해줘 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 쇼핑몰 느낌은 제외해줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 쇼핑몰 말고 관광지로만 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 숙소 느낌은 제외해줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 시장 말고 관광지로만 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 시장은 빼고 보여줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 식당 느낌은 제외해줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 식당 느낌은 제외해줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 식당은 빼고 보여줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 추천에서 먹자골목 성격은 빼줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 추천에서 숙소 성격은 빼줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 추천에서 시장 성격은 빼줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 추천에서 시장 성격은 빼줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 추천에서 카페 성격은 빼줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 카페은 빼고 보여줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "방금 결과에서 호텔 말고 관광지로만 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "쇼핑몰은 빼고 보여줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "숙소은 빼고 보여줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "식당 말고 관광지로만", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 먹자골목 느낌은 제외해줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 먹자골목 말고 관광지로만 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 먹자골목 말고 관광지로만 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 쇼핑몰은 빼고 보여줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 숙소 느낌은 제외해줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 숙소 느낌은 제외해줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 숙소 말고 관광지로만 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 시장 느낌은 제외해줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 시장 말고 관광지로만 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 식당은 빼고 보여줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 식당은 빼고 보여줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 추천에서 쇼핑몰 성격은 빼줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 추천에서 시장 성격은 빼줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 추천에서 식당 성격은 빼줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 추천에서 카페 성격은 빼줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 추천에서 호텔 성격은 빼줘 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 추천에서 호텔 성격은 빼줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 카페 말고 관광지로만", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 호텔 느낌은 제외해줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 호텔 말고 관광지로만", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "추천에서 식당 성격은 빼줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "추천에서 호텔 성격은 빼줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "카페은 빼고 보여줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "호텔 말고 관광지로만 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "호텔은 빼고 보여줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "호텔은 빼고 보여줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 먹자골목 말고 관광지로만 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 쇼핑몰 느낌은 제외해줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 쇼핑몰 말고 관광지로만", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 쇼핑몰 말고 관광지로만 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 쇼핑몰은 빼고 보여줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 숙소 느낌은 제외해줘 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 시장 말고 관광지로만 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 시장은 빼고 보여줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 시장은 빼고 보여줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 식당 느낌은 제외해줘 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 식당 말고 관광지로만 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 추천에서 먹자골목 성격은 빼줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 추천에서 쇼핑몰 성격은 빼줘 가능할까", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 추천에서 쇼핑몰 성격은 빼줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 추천에서 시장 성격은 빼줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 추천에서 카페 성격은 빼줘 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 추천에서 카페 성격은 빼줘 알려줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 추천에서 호텔 성격은 빼줘 부탁해", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 카페 말고 관광지로만 다시 봐줘", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "혹시 호텔 말고 관광지로만", "intent": "exclude_preference", "source": "hard_holdout"}
+{"text": "가능하면 방금 기준으로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 방금 기준으로 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 새로 확인해서 후보를 다시 찾아줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 새로 확인해서 후보를 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 새로 확인해서 후보를 보강해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 지금 가지고 있는 것 말고 다시 찾아줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 지금 가지고 있는 것 말고 더 찾아줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 지금 가지고 있는 것 말고 더 찾아줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 지금 가지고 있는 것 말고 추가 확인해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 최근 기준으로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 최근에 추가된 곳 있으면 보강해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 최근에 추가된 곳 있으면 새로 조회해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 카드가 적으면 다시 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 카드가 적으면 보강해줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 카드가 적으면 보강해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 현재 확인 가능한 자료로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 현재 확인 가능한 자료로 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 현재 확인 가능한 자료로 보강해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 현재 확인 가능한 자료로 보강해줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 새로 확인해서 후보를 다시 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 새로 확인해서 후보를 추가 확인해줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 오늘 기준으로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 오늘 기준으로 더 찾아줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 지금 가지고 있는 것 말고 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 지금 가지고 있는 것 말고 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 최근에 추가된 곳 있으면 다시 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 최근에 추가된 곳 있으면 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 최근에 추가된 곳 있으면 새로 조회해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 최근에 추가된 곳 있으면 새로 조회해줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 최신 기준으로 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 카드가 적으면 다시 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 카드가 적으면 보강해줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 확인 가능한 자료로 새로 조회해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 확인 가능한 자료로 추가 확인해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 확인 가능한 자료로 추가 확인해줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 확인 가능한 자료로 추가 확인해줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "새로 확인해서 후보를 더 찾아줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "새로 확인해서 후보를 보강해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 새로 확인해서 후보를 새로 조회해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 새로 확인해서 후보를 추가 확인해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 지금 가지고 있는 것 말고 새로 조회해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 최근 기준으로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 최근 기준으로 더 찾아줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 최근에 추가된 곳 있으면 보강해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 최근에 추가된 곳 있으면 새로 조회해줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 최신 기준으로 더 찾아줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 최신 기준으로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 확인 가능한 자료로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 확인 가능한 자료로 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 확인 가능한 자료로 보강해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 확인 가능한 자료로 추가 확인해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "오늘 기준으로 더 찾아줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "지금 가지고 있는 것 말고 더 찾아줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "지금 가지고 있는 것 말고 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "지금 가지고 있는 것 말고 새로 조회해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "지금 가지고 있는 것 말고 추가 확인해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "최근 기준으로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "최근 기준으로 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "카드가 적으면 새로 조회해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "카드가 적으면 추가 확인해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "현재 기준으로 더 찾아줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "현재 기준으로 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "현재 확인 가능한 자료로 다시 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 새로 확인해서 후보를 보강해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 새로 확인해서 후보를 보강해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 새로 확인해서 후보를 새로 조회해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 새로 확인해서 후보를 새로 조회해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 새로 확인해서 후보를 추가 확인해줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 오늘 기준으로 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 지금 가지고 있는 것 말고 다시 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 지금 가지고 있는 것 말고 보강해줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 지금 가지고 있는 것 말고 추가 확인해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 최근에 추가된 곳 있으면 다시 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 최근에 추가된 곳 있으면 더 찾아줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 최근에 추가된 곳 있으면 보강해줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 최근에 추가된 곳 있으면 새로 조회해줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 최근에 추가된 곳 있으면 새로 조회해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 최근에 추가된 곳 있으면 추가 확인해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 카드가 적으면 더 찾아줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 카드가 적으면 더 찾아줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 카드가 적으면 보강해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 카드가 적으면 새로 조회해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 카드가 적으면 추가 확인해줘 부탁해", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 카드가 적으면 추가 확인해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 현재 기준으로 더 찾아줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 현재 기준으로 더 찾아줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 현재 확인 가능한 자료로 다시 찾아줘 다시 봐줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 현재 확인 가능한 자료로 보강해줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 현재 확인 가능한 자료로 추가 확인해줘 가능할까", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "혹시 현재 확인 가능한 자료로 추가 확인해줘 알려줘", "intent": "live_topup", "source": "hard_holdout"}
+{"text": "가능하면 강원 고성군 안에서만 다시 보여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 경남 고성군 안에서만 다시 보여줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 경남 고성군 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 광주 북구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 광주 북구 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 대구 동구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 대구 동구 쪽으로만 좁혀줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 범위를 경남 고성군까지 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 범위를 경남 고성군까지 줄여줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 범위를 광주 북구까지 줄여줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 서울 중구 안에서만 다시 보여줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 서울 중구 쪽으로만 좁혀줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 아까 지역 중 대구 동구 위주로 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 아까 지역 중 대구 동구 위주로 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 아까 지역 중 부산 중구 위주로", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 제주 애월 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 제주 애월 카드만 남겨줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "강원 고성군 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "강원 고성군 카드만 남겨줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "경남 고성군 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "경남 고성군 카드만 남겨줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "광주 북구 카드만 남겨줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "대구 동구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "대구 동구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "대구 동구 카드만 남겨줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 강원 고성군 안에서만 다시 보여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 강원 고성군 카드만 남겨줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 강원 고성군 카드만 남겨줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 경남 고성군 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 광주 북구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 대구 동구 카드만 남겨줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 대구 동구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 범위를 강원 고성군까지 줄여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 범위를 경남 고성군까지 줄여줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 범위를 대구 동구까지 줄여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 범위를 제주 애월까지 줄여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 부산 중구 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서울 중구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 서울 중구 쪽으로만 좁혀줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 성남 분당구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 아까 지역 중 경남 고성군 위주로 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 아까 지역 중 부산 중구 위주로 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 아까 지역 중 서울 중구 위주로 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 아까 지역 중 제주 애월 위주로 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 아까 지역 중 창원 진해구 위주로 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 제주 애월 카드만 남겨줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "방금 결과에서 창원 진해구 카드만 남겨줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "범위를 강원 고성군까지 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "범위를 서울 중구까지 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "서울 중구 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "서울 중구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 경남 고성군 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 광주 북구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 광주 북구 카드만 남겨줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 범위를 강원 고성군까지 줄여줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 범위를 성남 분당구까지 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 부산 중구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서울 중구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 성남 분당구 쪽으로만 좁혀줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 아까 지역 중 창원 진해구 위주로 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 아까 지역 중 창원 진해구 위주로 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 제주 애월 안에서만 다시 보여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 제주 애월 카드만 남겨줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 창원 진해구 안에서만 다시 보여줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 지역 중 경남 고성군 위주로 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "아까 지역 중 제주 애월 위주로 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "제주 애월 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "제주 애월 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "제주 애월 카드만 남겨줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "창원 진해구 카드만 남겨줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 강원 고성군 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 강원 고성군 카드만 남겨줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 경남 고성군 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 광주 북구 쪽으로만 좁혀줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 광주 북구 쪽으로만 좁혀줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 대구 동구 안에서만 다시 보여줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 대구 동구 안에서만 다시 보여줘 알려줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 범위를 대구 동구까지 줄여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 범위를 부산 중구까지 줄여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 범위를 부산 중구까지 줄여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 범위를 창원 진해구까지 줄여줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 서울 중구 쪽으로만 좁혀줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 성남 분당구 안에서만 다시 보여줘 부탁해", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 아까 지역 중 광주 북구 위주로 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 아까 지역 중 대구 동구 위주로", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 아까 지역 중 성남 분당구 위주로 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 제주 애월 안에서만 다시 보여줘 다시 봐줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 제주 애월 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 창원 진해구 안에서만 다시 보여줘", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "혹시 창원 진해구 쪽으로만 좁혀줘 가능할까", "intent": "narrow_region", "source": "hard_holdout"}
+{"text": "가능하면 강릉 주차 되는 관광지 추천 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 강릉 휠체어 가능한 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 대전 유성구 공원 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 대전 유성구 공원 위주로 볼거리 찾아줘 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 대전 유성구 실내 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 부산 중구 여행 정보 알려줘 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 서귀포시 공원 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 서울 강남구 공원 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 서울 강남구 산책 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 제주시 공원 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 제주시 여행 정보 알려줘 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 제주시 주차 되는 관광지 추천", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 제주시에서 부모님랑 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "강릉 여행 정보 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "강릉 유모차 가능한 관광지 추천", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "강릉 휠체어 가능한 관광지 추천 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "강릉 휠체어 가능한 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "강릉에서 휠체어 이용자랑 갈 곳 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "대전 유성구에서 아이랑 갈 곳 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 강릉 산책 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 강릉에서 휠체어 이용자랑 갈 곳 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 대전 유성구 장애인 화장실 있는 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 대전 유성구에서 아이랑 갈 곳", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 부산 중구 산책 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시 공원 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시 박물관 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시 시장 말고 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시 실내 위주로 볼거리 찾아줘 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시 유모차 가능한 관광지 추천 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시 유모차 가능한 관광지 추천 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서귀포시에서 유모차 가족랑 갈 곳 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서울 강남구 시장 말고 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 서울 강남구 실내 위주로 볼거리 찾아줘 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 전주 공원 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 전주 시장 말고 위주로 볼거리 찾아줘 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 전주 유모차 가능한 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 전주에서 부모님랑 갈 곳 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "방금 결과에서 제주시 공원 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "서귀포시 박물관 위주로 볼거리 찾아줘 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "서귀포시 산책 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "서귀포시 시장 말고 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "서울 강남구 공원 위주로 볼거리 찾아줘 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "서울 강남구 박물관 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "서울 강남구 산책 위주로 볼거리 찾아줘 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉 실내 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉 유모차 가능한 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉 주차 되는 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉에서 부모님랑 갈 곳", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 강릉에서 부모님랑 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 대전 유성구 박물관 위주로 볼거리 찾아줘 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 대전 유성구 여행 정보 알려줘 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 대전 유성구 장애인 화장실 있는 관광지 추천", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 대전 유성구 장애인 화장실 있는 관광지 추천 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 대전 유성구 주차 되는 관광지 추천", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 대전 유성구에서 부모님랑 갈 곳 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 대전 유성구에서 부모님랑 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 부산 중구에서 아이랑 갈 곳 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서귀포시 박물관 위주로 볼거리 찾아줘 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서귀포시 주차 되는 관광지 추천 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서울 강남구 휠체어 가능한 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 서울 강남구에서 유모차 가족랑 갈 곳 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 전주 실내 위주로 볼거리 찾아줘 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 전주 장애인 화장실 있는 관광지 추천 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 전주에서 아이랑 갈 곳 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 전주에서 휠체어 이용자랑 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 제주시 공원 위주로 볼거리 찾아줘 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 제주시 박물관 위주로 볼거리 찾아줘 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 제주시에서 부모님랑 갈 곳 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "전주 시장 말고 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "전주 시장 말고 위주로 볼거리 찾아줘 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "전주 여행 정보 알려줘 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "전주 휠체어 가능한 관광지 추천 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "제주시 실내 위주로 볼거리 찾아줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "제주시에서 아이랑 갈 곳 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "제주시에서 유모차 가족랑 갈 곳", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 강릉 산책 위주로 볼거리 찾아줘 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 대전 유성구 공원 위주로 볼거리 찾아줘 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 대전 유성구 장애인 화장실 있는 관광지 추천 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 부산 중구 여행 정보 알려줘 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 부산 중구 주차 되는 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 부산 중구 휠체어 가능한 관광지 추천 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 부산 중구에서 유모차 가족랑 갈 곳", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 부산 중구에서 휠체어 이용자랑 갈 곳 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 서귀포시 산책 위주로 볼거리 찾아줘 알려줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 서귀포시에서 휠체어 이용자랑 갈 곳 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 전주 여행 정보 알려줘 가능할까", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 전주 주차 되는 관광지 추천", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 전주 휠체어 가능한 관광지 추천 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 제주시 시장 말고 위주로 볼거리 찾아줘 부탁해", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "혹시 제주시 유모차 가능한 관광지 추천 다시 봐줘", "intent": "recommend_places", "source": "hard_holdout"}
+{"text": "가능하면 대중교통 말고 엘리베이터 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 대중교통 위주 말고 엘리베이터 위주", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 대중교통 위주 말고 휠체어 위주 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 대중교통 조건 취소하고 휠체어로 다시 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 시장 말고 장애인 화장실 기준으로 바꿔줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 시장 위주 말고 엘리베이터 위주 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 식당 위주 말고 휠체어 위주 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 식당 조건 취소하고 휠체어로 다시 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 식당는 빼고 보조견 되는 곳 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 실내 말고 엘리베이터 기준으로 바꿔줘 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 실내 위주 말고 박물관 위주 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 실내 조건 취소하고 휠체어로 다시 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 유모차 조건 취소하고 박물관로 다시 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 주차는 빼고 보조견 되는 곳 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "대중교통 말고 엘리베이터 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "대중교통 위주 말고 휠체어 위주 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "대중교통는 빼고 박물관 되는 곳 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 대중교통 위주 말고 보조견 위주 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 대중교통 조건 취소하고 유모차로 다시", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 대중교통 조건 취소하고 장애인 화장실로 다시", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 대중교통보다 유모차를 우선해줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 식당 말고 휠체어 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 유모차 조건 취소하고 박물관로 다시 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 주차 말고 장애인 화장실 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 주차는 빼고 장애인 화장실 되는 곳 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 주차보다 산책를 우선해줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 휠체어 말고 산책 기준으로 바꿔줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 휠체어는 빼고 산책 되는 곳 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 휠체어보다 보조견를 우선해줘 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "방금 결과에서 휠체어보다 보조견를 우선해줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "시장 말고 보조견 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "시장 말고 엘리베이터 기준으로 바꿔줘 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "시장 조건 취소하고 보조견로 다시 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "시장는 빼고 엘리베이터 되는 곳 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "식당 위주 말고 휠체어 위주 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "식당 조건 취소하고 장애인 화장실로 다시 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "식당는 빼고 엘리베이터 되는 곳", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "식당보다 박물관를 우선해줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "식당보다 유모차를 우선해줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "실내 말고 유모차 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 대중교통는 빼고 엘리베이터 되는 곳 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 시장 조건 취소하고 박물관로 다시 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 시장보다 박물관를 우선해줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 시장보다 산책를 우선해줘 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 식당 조건 취소하고 박물관로 다시", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 식당 조건 취소하고 엘리베이터로 다시 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 식당 조건 취소하고 장애인 화장실로 다시 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 식당는 빼고 보조견 되는 곳", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 식당는 빼고 산책 되는 곳 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 식당는 빼고 휠체어 되는 곳 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 실내보다 산책를 우선해줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 실내보다 휠체어를 우선해줘 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 유모차 말고 엘리베이터 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 유모차는 빼고 보조견 되는 곳 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 유모차는 빼고 휠체어 되는 곳", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 주차 위주 말고 유모차 위주", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 주차는 빼고 박물관 되는 곳 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 휠체어 말고 박물관 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 휠체어 위주 말고 보조견 위주 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 휠체어 위주 말고 엘리베이터 위주 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 휠체어보다 산책를 우선해줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "유모차 조건 취소하고 산책로 다시", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "유모차는 빼고 박물관 되는 곳 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "유모차는 빼고 휠체어 되는 곳", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "유모차보다 휠체어를 우선해줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "주차 위주 말고 박물관 위주 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "주차 위주 말고 보조견 위주", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 대중교통 말고 장애인 화장실 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 대중교통 위주 말고 장애인 화장실 위주 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 대중교통 조건 취소하고 산책로 다시 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 시장 말고 보조견 기준으로 바꿔줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 시장 위주 말고 장애인 화장실 위주 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 시장 조건 취소하고 산책로 다시 가능할까", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 시장보다 보조견를 우선해줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 식당 말고 엘리베이터 기준으로 바꿔줘 부탁해", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 식당 위주 말고 산책 위주 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 식당 위주 말고 엘리베이터 위주", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 실내 말고 엘리베이터 기준으로 바꿔줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 실내 위주 말고 산책 위주 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 실내는 빼고 엘리베이터 되는 곳", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 유모차 위주 말고 보조견 위주 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 유모차 조건 취소하고 휠체어로 다시 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 주차는 빼고 보조견 되는 곳 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 주차보다 엘리베이터를 우선해줘 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 휠체어 위주 말고 유모차 위주", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 휠체어 위주 말고 유모차 위주 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 휠체어 위주 말고 장애인 화장실 위주", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "혹시 휠체어는 빼고 유모차 되는 곳", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "휠체어 말고 장애인 화장실 기준으로 바꿔줘 알려줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "휠체어는 빼고 보조견 되는 곳 다시 봐줘", "intent": "replace_condition", "source": "hard_holdout"}
+{"text": "가능하면 목록이 남았으면 계속 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 목록이 남았으면 더 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 방금 결과 말고 계속 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 아까 보여준 카드 이어서 더 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 아까 보여준 카드 이어서 있는 만큼 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 전체 목록 중 아직 안 나온 곳 계속 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 전체 목록 중 아직 안 나온 곳 나머지도 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 전체 목록 중 아직 안 나온 곳 나머지도 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 전체 목록 중 아직 안 나온 곳 다른 후보도 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 10곳도 계속 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 10곳도 나머지도 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 10곳도 추가 후보 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 3곳도 더 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 가능한 만큼도 나머지도 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 가능한 만큼도 더 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 가능한 만큼도 있는 만큼 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 가능한 만큼도 추가 후보 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 몇 군데도 나머지도 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 현재 카드 다음 몇 군데도 다른 후보도 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "같은 조건으로 3곳 더 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "같은 조건으로 5곳 더", "intent": "show_more", "source": "hard_holdout"}
+{"text": "같은 조건으로 몇 군데 더 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "목록이 남았으면 더 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과 말고 계속 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과 말고 나머지도 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 목록이 남았으면 나머지도 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 목록이 남았으면 다른 후보도 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 목록이 남았으면 있는 만큼 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 아까 보여준 카드 이어서 나머지도 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 아까 보여준 카드 이어서 다른 후보도 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 아까 보여준 카드 이어서 있는 만큼 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 전체 목록 중 아직 안 나온 곳 있는 만큼 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 10곳도 계속 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 10곳도 다른 후보도 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 10곳도 더 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 3곳도 계속 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 3곳도 다른 후보도 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 3곳도 추가 후보 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 5곳도 계속 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 5곳도 나머지도 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 가능한 만큼도 다른 후보도 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 가능한 만큼도 있는 만큼 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 가능한 만큼도 추가 후보 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 몇 군데도 계속 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 몇 군데도 추가 후보 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "방금 결과에서 현재 카드 다음 몇 군데도 추가 후보 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 조건으로 10곳 더", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 조건으로 10곳 더 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 같은 조건으로 몇 군데 더", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 목록이 남았으면 나머지도 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 방금 결과 말고 나머지도 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 아까 보여준 카드 이어서 계속 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 아까 보여준 카드 이어서 더 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 아까 보여준 카드 이어서 있는 만큼 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 전체 목록 중 아직 안 나온 곳 나머지도 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 카드 다음 3곳도 계속 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 카드 다음 3곳도 더 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 카드 다음 5곳도 계속 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 카드 다음 5곳도 더 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 카드 다음 5곳도 더 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 카드 다음 5곳도 더 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 현재 카드 다음 가능한 만큼도 나머지도 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "아까 보여준 카드 이어서 추가 후보 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "전체 목록 중 아직 안 나온 곳 추가 후보 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "현재 카드 다음 10곳도 계속 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "현재 카드 다음 3곳도 더 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "현재 카드 다음 3곳도 더 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "현재 카드 다음 5곳도 추가 후보 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "현재 카드 다음 가능한 만큼도 더 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 같은 조건으로 10곳 더 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 목록이 남았으면 있는 만큼 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 방금 결과 말고 다른 후보도 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 방금 결과 말고 있는 만큼 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 방금 결과 말고 추가 후보 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 아까 보여준 카드 이어서 나머지도 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 아까 보여준 카드 이어서 다른 후보도 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 아까 보여준 카드 이어서 더 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 전체 목록 중 아직 안 나온 곳 나머지도 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 전체 목록 중 아직 안 나온 곳 있는 만큼 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 10곳도 나머지도 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 10곳도 더 보여줘 가능할까", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 10곳도 추가 후보 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 10곳도 추가 후보 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 가능한 만큼도 다른 후보도 보여줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 가능한 만큼도 다른 후보도 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 가능한 만큼도 있는 만큼 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 가능한 만큼도 있는 만큼 보여줘 부탁해", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 가능한 만큼도 있는 만큼 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 가능한 만큼도 추가 후보 보여줘 다시 봐줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "혹시 현재 카드 다음 몇 군데도 나머지도 보여줘 알려줘", "intent": "show_more", "source": "hard_holdout"}
+{"text": "가능하면 날씨 확인되는 곳만 보여줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 버스 번호 제일 좋은 순서로 보여줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 버스 소요시간 제일 좋은 순서로 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 버스 소요시간 확인되는 곳만 보여줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 버스 소요시간 확인되는 곳만 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 버스 소요시간까지 계산해서 추천해줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 실시간 혼잡도 되는 곳만 골라줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 실시간 혼잡도 지금 알 수 있어 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 약국 거리 되는 곳만 골라줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 예약 가능 시간 지금 알 수 있어 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 오늘 영업 여부 확인되는 곳만 보여줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 응급실 거리 되는 곳만 골라줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 응급실 거리 확인되는 곳만 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 주차장 빈자리 기준으로 정렬해줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 주차장 빈자리 제일 좋은 순서로 보여줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 주차장 빈자리 제일 좋은 순서로 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 택시비까지 계산해서 추천해줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 휠체어 대여 재고 지금 알 수 있어 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "가능하면 휠체어 대여 재고까지 계산해서 추천해줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "날씨 기준으로 정렬해줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 버스 번호 기준으로 정렬해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 버스 번호 지금 알 수 있어", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 버스 소요시간 되는 곳만 골라줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 버스 소요시간 제일 좋은 순서로 보여줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 버스 소요시간 지금 알 수 있어 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 실시간 혼잡도 제일 좋은 순서로 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 실시간 혼잡도까지 계산해서 추천해줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 예약 가능 시간 되는 곳만 골라줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 예약 가능 시간 제일 좋은 순서로 보여줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 예약 가능 시간 지금 알 수 있어 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 예약 가능 시간까지 계산해서 추천해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 오늘 영업 여부까지 계산해서 추천해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 응급실 거리 기준으로 정렬해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 응급실 거리 되는 곳만 골라줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 입장료 되는 곳만 골라줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 입장료까지 계산해서 추천해줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 전화번호 기준으로 정렬해줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 전화번호 되는 곳만 골라줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 전화번호 지금 알 수 있어 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 주차장 빈자리 제일 좋은 순서로 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 주차장 빈자리 지금 알 수 있어", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 택시비 제일 좋은 순서로 보여줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "방금 결과에서 휠체어 대여 재고 확인되는 곳만 보여줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "버스 번호 지금 알 수 있어", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "실시간 혼잡도 지금 알 수 있어", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "실시간 혼잡도 지금 알 수 있어 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 날씨 되는 곳만 골라줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 버스 소요시간 기준으로 정렬해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 버스 소요시간까지 계산해서 추천해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 실시간 혼잡도 지금 알 수 있어", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 예약 가능 시간 되는 곳만 골라줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 예약 가능 시간 지금 알 수 있어 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 예약 가능 시간까지 계산해서 추천해줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 오늘 영업 여부 기준으로 정렬해줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 응급실 거리 기준으로 정렬해줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 응급실 거리까지 계산해서 추천해줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 입장료 기준으로 정렬해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 주차장 빈자리 제일 좋은 순서로 보여줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 휠체어 대여 재고 되는 곳만 골라줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 휠체어 대여 재고 제일 좋은 순서로 보여줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "아까 말한 조건 기준으로 휠체어 대여 재고 확인되는 곳만 보여줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "약국 거리 확인되는 곳만 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "약국 거리까지 계산해서 추천해줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "예약 가능 시간 확인되는 곳만 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "예약 가능 시간까지 계산해서 추천해줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "오늘 영업 여부 지금 알 수 있어 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "오늘 영업 여부까지 계산해서 추천해줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "응급실 거리 제일 좋은 순서로 보여줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "입장료 기준으로 정렬해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "입장료 제일 좋은 순서로 보여줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "전화번호 확인되는 곳만 보여줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "전화번호까지 계산해서 추천해줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "주차장 빈자리 기준으로 정렬해줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "택시비 확인되는 곳만 보여줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 날씨 제일 좋은 순서로 보여줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 버스 소요시간 제일 좋은 순서로 보여줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 버스 소요시간 확인되는 곳만 보여줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 오늘 영업 여부 기준으로 정렬해줘 알려줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 응급실 거리 제일 좋은 순서로 보여줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 전화번호 되는 곳만 골라줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 전화번호 제일 좋은 순서로 보여줘 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 전화번호 지금 알 수 있어 부탁해", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 전화번호 확인되는 곳만 보여줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 주차장 빈자리 되는 곳만 골라줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 주차장 빈자리까지 계산해서 추천해줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 택시비 기준으로 정렬해줘", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 택시비 제일 좋은 순서로 보여줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "혹시 휠체어 대여 재고 되는 곳만 골라줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "휠체어 대여 재고 기준으로 정렬해줘 가능할까", "intent": "unsupported_request", "source": "hard_holdout"}
+{"text": "휠체어 대여 재고 기준으로 정렬해줘 다시 봐줘", "intent": "unsupported_request", "source": "hard_holdout"}
