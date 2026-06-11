@@ -1,0 +1,69 @@
+{
+  "augment_rows": 10000,
+  "labels": [
+    "휠체어",
+    "유모차",
+    "고령자",
+    "주차",
+    "화장실",
+    "접근로",
+    "대중교통",
+    "엘리베이터",
+    "보조견",
+    "시각장애",
+    "청각장애"
+  ],
+  "outputs": {
+    "labels": "data/processed/tourism_condition_transformer/labels.json",
+    "summary": "data/processed/tourism_condition_transformer/summary.json",
+    "test": "data/processed/tourism_condition_transformer/test.jsonl",
+    "train": "data/processed/tourism_condition_transformer/train.jsonl",
+    "validation": "data/processed/tourism_condition_transformer/validation.jsonl"
+  },
+  "source_rows": 5000,
+  "test_label_counts": {
+    "<none>": 410,
+    "고령자": 131,
+    "대중교통": 94,
+    "보조견": 156,
+    "시각장애": 140,
+    "엘리베이터": 155,
+    "유모차": 142,
+    "접근로": 137,
+    "주차": 131,
+    "청각장애": 153,
+    "화장실": 140,
+    "휠체어": 150
+  },
+  "test_rows": 1600,
+  "train_label_counts": {
+    "<none>": 3049,
+    "고령자": 1138,
+    "대중교통": 731,
+    "보조견": 1146,
+    "시각장애": 1131,
+    "엘리베이터": 1105,
+    "유모차": 1102,
+    "접근로": 1124,
+    "주차": 1124,
+    "청각장애": 1082,
+    "화장실": 1089,
+    "휠체어": 1103
+  },
+  "train_rows": 12200,
+  "validation_label_counts": {
+    "<none>": 279,
+    "고령자": 109,
+    "대중교통": 63,
+    "보조견": 86,
+    "시각장애": 120,
+    "엘리베이터": 104,
+    "유모차": 122,
+    "접근로": 125,
+    "주차": 102,
+    "청각장애": 120,
+    "화장실": 122,
+    "휠체어": 118
+  },
+  "validation_rows": 1200
+}

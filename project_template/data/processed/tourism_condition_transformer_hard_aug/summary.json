@@ -1,0 +1,8 @@
+{
+  "augment_rows": 4000,
+  "base_train_rows": 12200,
+  "holdout_policy": "Do not train on data/eval/tourism_hard_nlu_holdout_20260518.jsonl.",
+  "test_rows": 1600,
+  "train_rows": 16200,
+  "validation_rows": 1200
+}

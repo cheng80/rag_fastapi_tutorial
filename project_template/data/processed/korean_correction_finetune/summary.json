@@ -1,0 +1,12 @@
+{
+  "keyword_input": "data/processed/tourism_keyword_variants_20260518_5000.valid.jsonl",
+  "context_input": "data/processed/tourism_context_llm_hard_training_20260518_human_light_5000.valid.jsonl",
+  "output_dir": "data/processed/korean_correction_finetune",
+  "pairs": 6058,
+  "train": 5453,
+  "validation": 605,
+  "origins": {
+    "domain_normalizer": 4756,
+    "keyword_variant": 1302
+  }
+}

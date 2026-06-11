@@ -1,0 +1,11 @@
+{
+  "augment_train_rows": 5000,
+  "augment_validation_rows": 700,
+  "base_dir": "data/processed/tourism_condition_transformer_hard_aug",
+  "base_train_rows": 16200,
+  "base_validation_rows": 1200,
+  "holdout_policy": "Do not train on data/eval/tourism_residual_hard_nlu_20260518.jsonl.",
+  "test_rows": 1600,
+  "train_rows": 21200,
+  "validation_rows": 1900
+}
