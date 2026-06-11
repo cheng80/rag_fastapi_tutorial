@@ -191,6 +191,7 @@ data/generated/skill_backups/
 data/generated/tour_api/
 project_template/data/models/
 project_template/data/generated/tour_api/condition_transformer_*/
+project_template/data/vector_store/chroma/
 tmp/
 
 # Understand-Anything local scratch and dashboard overlays
