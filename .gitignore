@@ -143,6 +143,7 @@ analysis_benchmark.json
 ############################################################
 # Virtual environments (ANYWHERE)
 **/venv/
+**/.venv
 **/.venv/
 **/*venv*/
 
