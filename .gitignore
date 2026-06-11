@@ -186,6 +186,7 @@ data/processed/autorag_tourism*/
 data/external/
 data/models/
 data/source/admin_regions/
+data/raw/tourism_accessible/
 data/generated/nanobanana-images/
 data/generated/skill_backups/
 data/generated/tour_api/
