@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "createdAt": "2026-06-11T06:08:06.740Z",
+  "updatedAt": "2026-06-11T06:36:02.820Z",
+  "briefPath": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/brief.md",
+  "goalsPath": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/goals.json",
+  "ledgerPath": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/ledger.jsonl",
+  "codexGoalMode": "aggregate",
+  "goals": [
+    {
+      "id": "G001-docs-original-first-tutorial-plan-md",
+      "title": "문서 단계 1-4: 원본 구조 이식과 표면 검증",
+      "objective": "docs/original_first_tutorial_plan.md의 1-4단계를 app/data/web/test 산출물로 완성한다: <original_app_root> 기준 FastAPI 구조, RAG 서비스 구조, 관광 상담 서비스, 전국 지역 데이터, /tourism-ui/ 웹 화면, 실행 스크립트, 평가/캐시/로그/회귀 테스트 흐름을 project_template에 재현하고, 비밀값과 런타임 부산물은 제외하며, 테스트와 실제 HTTP/browser QA 증거로 검증한다.",
+      "status": "complete",
+      "successCriteria": [
+        {
+          "id": "C001",
+          "scenario": "HTTP call: start `python -m uvicorn app.main:app --host 127.0.0.1 --port 8765` from `project_template`, then run `curl -i http://127.0.0.1:8765/health` and `curl -i http://127.0.0.1:8765/tourism/regions`. PASS iff health is HTTP/1.1 200 with {\"status\":\"ok\"}, regions is HTTP/1.1 200, has 17 areas, and 서울/부산/인천 중구 disambiguation exists. Automated RED→GREEN: `python -m pytest tests/test_project_template_parity.py::test_project_template_health_and_regions_surface`.",
+          "userModel": "happy",
+          "expectedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/C001-http-health-regions.txt with failing pytest output before implementation, passing pytest output after implementation, curl status+headers+body, and cleanup receipt for uvicorn PID/port.",
+          "capturedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/C001-http-health-regions.txt | cleanup: killed uvicorn PID, removed tmp files/pycache/vector_store/chroma, port8765 none",
+          "status": "pass",
+          "capturedAt": "2026-06-11T06:21:27.399Z"
+        },
+        {
+          "id": "C002",
+          "scenario": "HTTP call: start `python -m uvicorn app.main:app --host 127.0.0.1 --port 8766` from `project_template`, then run `curl -i -X POST http://127.0.0.1:8766/tourism/chat -H \"Content-Type: application/json\" --data \"{\\\"message\\\":\\\"   \\\"}\"`. PASS iff HTTP status is 400, body says `message는 비어 있을 수 없습니다.`, and no internal terms Chroma/top_k/lookup_mode/fallback/debug/pipeline/parity appear. Automated RED→GREEN: `python -m pytest tests/test_project_template_parity.py::test_project_template_tourism_chat_rejects_blank_without_internal_terms`.",
+          "userModel": "edge",
+          "expectedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/C002-http-blank-chat.txt with RED→GREEN pytest output, curl artifact, and cleanup receipt.",
+          "capturedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/C002-http-blank-chat.txt | cleanup: killed uvicorn PID, removed tmp files/pycache/vector_store/chroma, port8766 none",
+          "status": "pass",
+          "capturedAt": "2026-06-11T06:21:27.428Z"
+        },
+        {
+          "id": "C003",
+          "scenario": "Browser use: start `python -m uvicorn app.main:app --host 127.0.0.1 --port 8767` from `project_template`, open `http://127.0.0.1:8767/tourism-ui/` in real browser automation, assert option UI controls exist (`#chatModeButton`, `#optionModeButton`, `#optionDrawer`, `#optionSigungu`) and visible page text does not include RAG 질문/FastAPI tutorial result/Chroma 관광 근거 검색/top_k/lookup_mode/fallback/debug/pipeline/parity. Automated RED→GREEN: `python -m pytest tests/test_project_template_parity.py::test_project_template_web_ui_contract_and_no_user_internal_terms`.",
+          "userModel": "regression",
+          "expectedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/C003-browser-ui.png plus action log text with RED→GREEN pytest output and cleanup receipt.",
+          "capturedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/C003-browser-ui.txt and .omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/C003-browser-ui.png | cleanup: playwright close session ulw-c003, killed uvicorn PID, removed .playwright-cli/tmp/pycache/vector_store/chroma, port8767 none",
+          "status": "pass",
+          "capturedAt": "2026-06-11T06:21:27.458Z"
+        }
+      ],
+      "attempt": 0,
+      "createdAt": "2026-06-11T06:08:06.740Z",
+      "updatedAt": "2026-06-11T06:35:06.937Z",
+      "steeringEvidence": "User explicitly corrected that goal includes documented 목표와 할 일 전체, not only original app surface.",
+      "steeringRationale": "Make durable goal wording cover plan stages and validation, while G002 covers reference/tutorial documents.",
+      "completedAt": "2026-06-11T06:35:06.937Z",
+      "evidence": "C001/C002 HTTP evidence and C003 browser evidence passed; project_template app/data/web/tests reproduced original stages 1-4; cleanup receipts show no ports/runtime artifacts."
+    },
+    {
+      "id": "G002",
+      "title": "원본 기준 문서화와 초급자 튜토리얼 완성",
+      "objective": "docs/original_first_tutorial_plan.md의 1단계와 5단계까지 완성한다: 원본 앱 파일 맵, 복사 금지 대상, 목표 구조 비교표를 문서화하고, 초급자가 project_template 원본형 앱을 만들 수 있도록 장별 튜토리얼을 작성한다. 각 장은 왜 필요한가, 만들 파일, 코드 흐름, 실행 명령, 확인 기준, 자주 나는 오류를 포함한다. 웹/API 산출물은 튜토리얼 표현 없이 사용자용 앱으로 유지한다.",
+      "status": "complete",
+      "successCriteria": [
+        {
+          "id": "C001",
+          "scenario": "CLI stdout channel: run `python3 scripts/validate_tutorial_docs.py --check original-map`. PASS iff command exits 0 and prints `original-map: ok`. Automated RED→GREEN: `python -m pytest tests/test_tutorial_docs.py::test_original_file_map_and_copy_policy_documented`.",
+          "userModel": "happy",
+          "expectedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/G002-C001-doc-map.txt with RED→GREEN pytest output, CLI stdout transcript, cleanup receipt.",
+          "capturedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/G002-C001-doc-map.txt | cleanup: no spawned process, no temp files, no ports",
+          "status": "pass",
+          "capturedAt": "2026-06-11T06:21:27.487Z"
+        },
+        {
+          "id": "C002",
+          "scenario": "CLI stdout channel: run `python3 scripts/validate_tutorial_docs.py --check tutorial-chapters`. PASS iff command exits 0 and prints `tutorial-chapters: ok`, proving every tutorial chapter has 왜 필요한가/만들 파일/코드 흐름/실행 명령/확인 기준/자주 나는 오류. Automated RED→GREEN: `python -m pytest tests/test_tutorial_docs.py::test_tutorial_chapters_have_required_beginner_sections`.",
+          "userModel": "edge",
+          "expectedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/G002-C002-tutorial-chapters.txt with RED→GREEN pytest output, CLI stdout transcript, cleanup receipt.",
+          "capturedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/G002-C002-tutorial-chapters.txt | cleanup: no spawned process, no temp files, no ports",
+          "status": "pass",
+          "capturedAt": "2026-06-11T06:21:27.518Z"
+        },
+        {
+          "id": "C003",
+          "scenario": "CLI stdout channel: run `python3 scripts/validate_tutorial_docs.py --check no-ui-tutorial-leak`. PASS iff command exits 0 and prints `no-ui-tutorial-leak: ok`, proving project_template UI/API user-facing strings do not include tutorial wording or banned internal terms except developer diagnostics. Automated RED→GREEN: `python -m pytest tests/test_tutorial_docs.py::test_project_template_keeps_tutorial_language_out_of_user_surface`.",
+          "userModel": "regression",
+          "expectedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/G002-C003-no-ui-tutorial-leak.txt with RED→GREEN pytest output, CLI stdout transcript, cleanup receipt.",
+          "capturedEvidence": ".omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/evidence/G002-C003-no-ui-tutorial-leak.txt | cleanup: no spawned process, no temp files, no ports",
+          "status": "pass",
+          "capturedAt": "2026-06-11T06:21:27.546Z"
+        }
+      ],
+      "attempt": 0,
+      "createdAt": "2026-06-11T06:13:27.599Z",
+      "updatedAt": "2026-06-11T06:36:02.820Z",
+      "evidence": "G002 C001/C002/C003 docs validator evidence passed; original map and beginner tutorial documents complete; reviewer approved after blockers fixed.",
+      "completedAt": "2026-06-11T06:36:02.820Z"
+    }
+  ],
+  "codexObjective": "Complete the durable ulw-loop plan in .omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/goals.json, including later accepted/appended stories, under the original brief constraints; use .omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/ledger.jsonl as the audit trail.",
+  "aggregateCompletion": {
+    "status": "complete",
+    "completedAt": "2026-06-11T06:36:02.820Z",
+    "evidence": "G002 C001/C002/C003 docs validator evidence passed; original map and beginner tutorial documents complete; reviewer approved after blockers fixed.",
+    "codexGoal": {
+      "objective": "Complete the durable ulw-loop plan in .omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/goals.json, including later accepted/appended stories, under the original brief constraints; use .omo/ulw-loop/019eb545-00c9-7263-9fe4-88e6178e57e3/ledger.jsonl as the audit trail.",
+      "status": "complete",
+      "tokensUsed": 217855,
+      "timeUsedSeconds": 1702
+    }
+  }
+}
