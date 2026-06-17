@@ -48,7 +48,6 @@ notebooks/
 | 문서 | 용도 |
 |---|---|
 | `etc/setup/remove_anaconda_mac_guide.md` | 다른 Mac에서 conda/Anaconda 정리할 때 참고 |
-| `etc/tools/gstack-codex.md` | gstack-codex 도구 메모 |
 | `etc/references/(공고문)『2026_생성형_AI_활용_관광_프롬프톤_부문』_공고문.pdf` | 공모전 원자료 |
 | `etc/references/개방데이터_활용매뉴얼(국문)/` | 국문 관광정보 서비스 원자료 |
 | `etc/references/개방데이터_활용매뉴얼(무장애여행)/` | 무장애 여행 정보 원자료 |

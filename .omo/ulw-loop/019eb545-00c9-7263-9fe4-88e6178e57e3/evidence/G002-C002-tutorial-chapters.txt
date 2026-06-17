@@ -1,8 +1,0 @@
-SCENARIO G002-C002: tutorial chapters validator
-RED proof: tests/test_tutorial_docs.py initially failed with `docs/tutorial_build_original_app.md missing` before tutorial doc was added.
-GREEN proof command: /Users/cheng80/Desktop/chatbot_rag/.venv/bin/python -m pytest tests/test_tutorial_docs.py::test_tutorial_chapters_have_required_beginner_sections -q
-.                                                                        [100%]
-1 passed in 0.00s
-CLI scenario: python3 scripts/validate_tutorial_docs.py --check tutorial-chapters
-tutorial-chapters: ok
-cleanup: no spawned process; no temp files; no ports
